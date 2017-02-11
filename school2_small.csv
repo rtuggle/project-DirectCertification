@@ -1,0 +1,911 @@
+,First Name,Last Name,DOB,Gender,Selected Race,Guardian First,Guardian Last,Street,City,State,Zip,ELIGIBLE,ERRORS,ERROR TYPE
+0,Ronnie,WILLIAMS,1999-01-10,Boy,Black,MAX,COLEMAN,4551 Bicetown Road,Oopstown,ST,10016.0,True,False,None
+1,Aria,BABCOCK,2004-04-29,Girl,White,BRAD,BABCOCK,3596 Stone Lane,Oopstown,ST,19464.0,True,False,None
+2,Josiah,HECK,2010-11-08,Boy,White,LESLIE,HECK,4771 Poplar Lane,Oopstown,ST,33131.0,True,False,None
+3,Paityn,COMPEAN,2000-01-03,Girl,Hispanic,CLEO,COMPEAN,4795 Beechwood Drive,Oopstown,ST,21076.0,True,False,None
+4,Grace,KOCH,2004-10-03,Girl,White,PEDRO,KOCH,259 Stewart Street,Oopstown,ST,46202.0,True,False,None
+5,Scarlett,EBERT,2000-10-13,Girl,White,DEAN,EBERT,4117 Oak Avenue,Oopstown,ST,60015.0,True,False,None
+6,Frankie,YEUNG,2008-05-21,Boy,AAPI,TERRANCE,YEUNG,129 Forest Drive,Oopstown,ST,20200.0,True,False,None
+7,Addison,LARSON,2001-12-22,Girl,White,LIDIA,LARSON,1673 Glen Falls Road,Oopstown,ST,19090.0,True,False,None
+8,Duncan,MUHAMMAD,2001-04-27,Boy,Black,TESSA,MUHAMMAD,634 Dogwood Road,Oopstown,ST,85034.0,True,False,None
+9,Oliver,ROSEN,2000-07-31,Boy,White,DOROTHEA,ROSEN,1256 Quarry Drive,Oopstown,ST,36351.0,True,False,None
+10,Kohen,XU,1999-12-01,Boy,AAPI,HALLIE,XU,3355 Williams Lane,Oopstown,ST,67216.0,True,False,None
+11,Ellie,SKAGGS,2006-03-26,Girl,White,PAIGE,SKAGGS,350 Tea Berry Lane,Oopstown,ST,54016.0,True,False,None
+12,Harley,VILLATORO,2002-06-14,Boy,Hispanic,SUSANA,VILLATORO,2567 Alpha Avenue,Oopstown,ST,75662.0,True,False,None
+13,Rohan,VAZQUEZ,1999-10-26,Boy,Hispanic,DUSTIN,VELAZQUEZ,1294 Williams Avenue,Oopstown,ST,93550.0,True,False,None
+14,Maximo,TSAO,2008-09-10,Boy,AAPI,GILDA,ZHANG,3073 Pineview Drive,Oopstown,ST,55904.0,True,False,None
+15,Erica,GONZALEZ,2007-12-15,Girl,Hispanic,DAN,OCHOA,651 Adonais Way,Oopstown,ST,30071.0,True,False,None
+16,Gavin,WILHELM,2005-06-04,Boy,White,GLENNA,WILHELM,3129 Horner Street,Oopstown,ST,44307.0,True,False,None
+17,Emerson,BRENNER,1998-10-02,Girl,White,GABRIELLE,BRENNER,1823 Daffodil Lane,Oopstown,ST,22070.0,True,False,None
+18,Pyper,BYUN,2002-03-09,Girl,AAPI,WENDI,BYUN,2555 Bird Spring Lane,Oopstown,ST,77053.0,True,False,None
+19,Javion,SINGLETON,1998-08-24,Boy,Black,ILA,SINGLETON,3452 Ashmor Drive,Oopstown,ST,58102.0,True,False,None
+20,Daniel,ROTH,1999-01-23,Boy,White,MARGRET,ROTH,1521 Metz Lane,Oopstown,ST,78840.0,True,False,None
+21,Roselyn,BATTLE,2010-09-01,Girl,Black,FERNANDO,BANKS,1550 James Street,Oopstown,ST,14895.0,True,False,None
+22,Ella,FREY,2008-08-05,Girl,White,PETRA,WEINER,437 Hickory Street,Oopstown,ST,84104.0,True,False,None
+23,Jaylin,QUACH,2010-03-21,Girl,AAPI,ALFREDA,YI,1902 Fowler Avenue,Oopstown,ST,47374.0,True,False,None
+24,Vanessa,BAUGHMAN,2007-03-25,Girl,White,GEORGINA,BAUGHMAN,2880 Tyler Avenue,Oopstown,ST,33128.0,True,False,None
+25,Aubrey,CORCORAN,2004-12-23,Girl,White,CLAUDETTE,CORCORAN,604 Bingamon Road,Oopstown,ST,44141.0,True,False,None
+26,Jasiah,GONZALEZ,2010-10-13,Boy,Hispanic,MILLIE,GONZALEZ,609 Heather Sees Way,Oopstown,ST,74401.0,True,False,None
+27,Ameer,LIM,2009-05-22,Boy,AAPI,CATHRYN,DUONG,3013 Kovar Road,Oopstown,ST,1748.0,True,False,None
+28,Timothy,WERNER,2004-12-23,Boy,White,BARBRA,WERNER,4110 Huntz Lane,Oopstown,ST,1862.0,True,False,None
+29,Benjamin,GOLDSTEIN,1999-06-19,Boy,White,ESPERANZA,YEAGER,763 Rocket Drive,Oopstown,ST,55417.0,True,False,None
+30,Ellie,HANSEN,2007-09-07,Girl,White,SUSANNE,SILVERMAN,4839 South Street,Oopstown,ST,22903.0,True,False,None
+31,Case,BAUMAN,2010-03-28,Boy,White,JEANINE,BAUMAN,3309 Rinehart Road,Oopstown,ST,95249.0,True,False,None
+32,Liliana,BAUMAN,2004-09-24,Girl,White,SHARRON,BAUMAN,4276 Frank Avenue,Oopstown,ST,1103.0,True,False,None
+33,Santiago,HANSEN,2007-03-12,Boy,White,NITA,HANSEN,3694 Middleville Road,Oopstown,ST,66606.0,True,False,None
+34,Penelope,WHALEN,2008-08-09,Girl,White,JUSTINE,WHALEN,3386 Joseph Street,Oopstown,ST,53226.0,True,False,None
+35,Lucca,GONZALEZ,2004-12-08,Boy,Hispanic,DEBORA,GONZALEZ,889 Wines Lane,Oopstown,ST,77028.0,True,False,None
+36,Lewis,MAGANA,2001-08-25,Boy,Hispanic,CLARICE,MAGANA,1671 Bluff Street,Oopstown,ST,21740.0,True,False,None
+37,Javier,ODONNELL-REGAN,1998-01-22,Boy,White,WINNIE,ODONNELL-REGAN,2998 Woodland Terrace,Oopstown,ST,95814.0,True,False,None
+38,Michael,HAMMER-SCHULTE,2005-01-19,Boy,White,CECIL,HAMMER-SCHULTE,2246 Roosevelt Wilson Lane,Oopstown,ST,91765.0,True,False,None
+39,Eleanor,GUSTAFSON,2008-11-05,Girl,White,PAIGE,GUSTAFSON,1521 Metz Lane,Oopstown,ST,1730.0,True,False,None
+40,Aiyana,KORNEGAY,2005-09-01,Girl,Black,MARGERY,JACKSON,1302 Spruce Drive,Oopstown,ST,15090.0,True,False,None
+41,Cayson,OROZCO,2000-12-20,Boy,Hispanic,DERRICK,OROZCO,988 Cambridge Court,Oopstown,ST,72901.0,True,False,None
+42,Camilla,FRITZ,2007-07-20,Girl,White,AVA,FRITZ,2429 Terra Cotta Street,Oopstown,ST,56464.0,True,False,None
+43,Madelyn,TUTTLE,2000-12-03,Girl,White,ZACHARY,TUTTLE,3259 Whispering Pines Circle,Oopstown,ST,75287.0,True,False,None
+44,Gerald,WILLIAMS,2009-07-01,Boy,Black,LAKEISHA,WILLIAMS,3002 Mcwhorter Road,Oopstown,ST,39201.0,True,False,None
+45,Remi,ROBLEDO,2002-02-23,Girl,Hispanic,DAPHNE,ROBLEDO,1579 Coburn Hollow Road,Oopstown,ST,61755.0,True,False,None
+46,Cooper,STEINER,2001-11-04,Boy,White,WINNIE,STEINER,261 Kildeer Drive,Oopstown,ST,45769.0,True,False,None
+47,Charley,ERICKSON,2007-08-09,Girl,White,RENE,LUDWIG,1011 Broadway Street,Oopstown,ST,29461.0,True,False,None
+48,Marjorie,RAMIREZ,1998-01-09,Girl,Hispanic,ISABELLE,ROJAS,2944 Hiney Road,Oopstown,ST,89102.0,True,False,None
+49,Roland,RAMIREZ,2007-02-17,Boy,Hispanic,LILLY,RAMIREZ,2586 Carson Street,Oopstown,ST,45202.0,True,False,None
+50,Olivia,ROTH,1999-02-01,Girl,White,LATISHA,ROTH,2007 Grim Avenue,Oopstown,ST,92101.0,True,False,None
+51,Rex,CERDA,2004-05-20,Boy,Hispanic,ELMER,CERDA,3479 Turkey Pen Lane,Oopstown,ST,36104.0,True,False,None
+52,Clinton,MISHRA,2009-09-15,Boy,AAPI,ROSS,MISHRA,415 Clair Street,Oopstown,ST,76628.0,True,False,None
+53,Eric,OLSEN,2007-03-08,Boy,White,CLEO,OLSEN,533 Marigold Lane,Oopstown,ST,33069.0,True,False,None
+54,Renata,GONZALEZ,2004-01-22,Girl,Hispanic,ANGELINE,GONZALEZ,2851 Jarvis Street,Oopstown,ST,14211.0,True,False,None
+55,Connor,WEINSTEIN,2000-01-31,Boy,White,CATALINA,WEINSTEIN,1770 Hilltop Drive,Oopstown,ST,79542.0,True,False,None
+56,Emmaline,DANTZLER,2001-10-15,Girl,Black,BYRON,WILLIAMS,434 Jarvisville Road,Oopstown,ST,11050.0,True,False,None
+57,Chevy,JEFFERSON,2010-11-09,Boy,Black,HUGH,TOOMER,2221 Southern Avenue,Oopstown,ST,50103.0,True,False,None
+58,Sutton,COBBS,2006-04-01,Girl,Black,NADIA,COBBS,885 Eagle Lane,Oopstown,ST,58203.0,True,False,None
+59,Logan,WHALEN,2005-04-20,Boy,White,SYBIL,HAAS,2121 Skips Lane,Oopstown,ST,85034.0,True,False,None
+60,Jocelyn,SCHULTZ,2006-05-30,Girl,White,CLAUDETTE,SCHULTZ,4466 Turkey Pen Road,Oopstown,ST,10038.0,True,False,None
+61,Clara,HARTMAN,2007-06-15,Girl,White,MORGAN,HARTMAN,70 Cherry Camp Road,Oopstown,ST,60148.0,True,False,None
+62,Anders,BANUELOS,2009-01-24,Boy,Hispanic,BETTE,BANUELOS,3681 Werninger Street,Oopstown,ST,77032.0,True,False,None
+63,Sarah,KAISER,1999-08-12,Girl,White,LILY,KAISER,3646 Green Avenue,Oopstown,ST,95113.0,True,False,None
+64,Azaria,TAO,2007-03-17,Girl,AAPI,SALVADOR,KHUU,2630 Mount Street,Oopstown,ST,48607.0,True,False,None
+65,Claire,MCKENNA,2000-02-03,Girl,White,THERESE,MCKENNA,2934 Fraggle Drive,Oopstown,ST,60540.0,True,False,None
+66,Kylie,CRONIN,2010-02-16,Girl,White,EARLINE,CRONIN,1522 Bagwell Avenue,Oopstown,ST,34471.0,True,False,None
+67,Brent,WASHINGTON,2005-01-24,Boy,Black,CHASITY,WASHINGTON,4899 School House Road,Oopstown,ST,39356.0,True,False,None
+68,Elliot,WILLIAMS,2002-09-09,Girl,Black,KENYA,WILLIAMS,4127 Crummit Lane,Oopstown,ST,68137.0,True,False,None
+69,Giovani,ROBINSON,2006-10-15,Boy,Black,LONNIE,HOLLINS,2379 Weekley Street,Oopstown,ST,78217.0,True,False,None
+70,Amani,ESPINOZA,2006-12-25,Girl,Hispanic,NELL,ESPINOZA,1001 American Drive,Oopstown,ST,8096.0,True,False,None
+71,Clinton,HUYNH,2010-06-27,Boy,AAPI,LYNNETTE,LUU,1024 New York Avenue,Oopstown,ST,90071.0,True,False,None
+72,Jeremiah,MACDONALD,2003-02-14,Boy,White,KIRSTEN,MACDONALD,555 Thomas Street,Oopstown,ST,60048.0,True,False,None
+73,Emma,YOST,2005-05-07,Girl,White,RHODA,YOST,2540 Ottis Street,Oopstown,ST,74854.0,True,False,None
+74,Hunter,MEYER,2000-11-11,Boy,White,STEFANIE,MEYER,2442 Emeral Dreams Drive,Oopstown,ST,60005.0,True,False,None
+75,Harper,GONZALEZ,2005-04-19,Boy,Hispanic,LIZZIE,GONZALEZ,2557 Stark Hollow Road,Oopstown,ST,81424.0,True,False,None
+76,Zachary,PEDERSON,1998-09-20,Boy,White,JOLENE,PEDERSON,2474 Pin Oak Drive,Oopstown,ST,92705.0,True,False,None
+77,Emmalynn,ARMSTEAD,2005-12-05,Girl,Black,MATHEW,ARMSTEAD,2430 Rollins Road,Oopstown,ST,68801.0,True,False,None
+78,Randall,OGLETREE,1998-12-24,Boy,Black,BOB,OGLETREE,1940 Walnut Street,Oopstown,ST,39401.0,True,False,None
+79,Asher,NAGY,1998-09-11,Boy,White,PETRA,NAGY,1584 Bel Meadow Drive,Oopstown,ST,90017.0,True,False,None
+80,Rey,WILLIAMS,2007-01-30,Boy,Black,REVA,WILLIAMS,2659 Farland Street,Oopstown,ST,60154.0,True,False,None
+81,Logan,RUSSO,2006-04-12,Boy,White,MARTINA,RUSSO,971 Irving Place,Oopstown,ST,63069.0,True,False,None
+82,Madyson,PANTOJA,2006-12-28,Girl,Hispanic,ELMA,PANTOJA,4166 Columbia Boulevard,Oopstown,ST,21215.0,True,False,None
+83,Madison,SHAFFER,1999-11-23,Girl,White,MEAGAN,SHAFFER,915 Benson Park Drive,Oopstown,ST,73109.0,True,False,None
+84,Shiloh,JIMENEZ,2005-08-05,Girl,Hispanic,SIMONE,JIMENEZ,2975 Palmer Road,Oopstown,ST,43017.0,True,False,None
+85,Izabella,SNYDER,2004-10-11,Girl,White,FRANKIE,SNYDER,4717 Khale Street,Oopstown,ST,29488.0,True,False,None
+86,Camden,TROYER,1999-02-20,Boy,White,GENE,TROYER,656 Grove Avenue,Oopstown,ST,73521.0,True,False,None
+87,Gustavo,RUSSO,2007-01-17,Boy,White,RANDI,RUSSO,2238 Virgil Street,Oopstown,ST,91504.0,True,False,None
+88,Emily,LARSON,2009-11-06,Girl,White,KIRSTEN,LARSON,3280 Irish Lane,Oopstown,ST,53532.0,True,False,None
+89,Ayden,WEBER,2000-02-07,Boy,White,BARBRA,WEBER,583 Cemetery Street,Oopstown,ST,77098.0,True,False,None
+90,Samson,GALAVIZ,2003-04-28,Boy,Hispanic,JODIE,VALTIERRA,1110 Davisson Street,Oopstown,ST,46120.0,True,False,None
+91,Bryanna,FRAUSTO,2000-11-27,Girl,Hispanic,MARISOL,FRAUSTO,2396 Byrd Lane,Oopstown,ST,87020.0,True,False,None
+92,Karlie,SMALLS,2007-03-14,Girl,Black,NOEMI,WILLIAMS,1877 Bloomfield Way,Oopstown,ST,4261.0,True,False,None
+93,Aubrey,MAYER,1999-12-29,Girl,White,LUISA,SCHROEDER,1445 Scenic Way,Oopstown,ST,61813.0,True,False,None
+94,Mohammed,HEALY,1999-11-13,Boy,White,LETHA,HEALY,1144 Eagle Drive,Oopstown,ST,48183.0,True,False,None
+95,Scarlette,LEUNG,2004-12-02,Girl,AAPI,HALLIE,HO,2962 Berry Street,Oopstown,ST,81149.0,True,False,None
+96,Boden,MOHAMMAD,1999-04-20,Boy,Other,ENRIQUE,MOHAMMAD,719 Raintree Boulevard,Oopstown,ST,55415.0,True,False,None
+97,Braden,SCHERER,2005-01-15,Boy,White,MAURICE,HANSEN,4926 Broadcast Drive,Oopstown,ST,20005.0,True,False,None
+98,Sandra,WASHINGTON,2007-05-12,Girl,Black,MADGE,WASHINGTON,2730 Shinn Street,Oopstown,ST,10004.0,True,False,None
+99,Adrien,ROBINSON,2008-07-29,Boy,Black,JORDAN,ROBINSON,561 Owen Lane,Oopstown,ST,44503.0,True,False,None
+100,Arianna,BURDICK,2001-11-22,Girl,White,ELMA,BURDICK,4238 Tyler Avenue,Oopstown,ST,33040.0,True,False,None
+101,Isabelle,BRENNAN,2004-05-15,Girl,White,RUBEN,LUND,4098 Station Street,Oopstown,ST,78756.0,True,False,None
+102,Rylen,ALI,1998-11-15,Boy,Other,ELBA,OMAR,174 George Avenue,Oopstown,ST,36693.0,True,False,None
+103,Samson,BARAJAS,1998-07-27,Boy,Hispanic,CATHLEEN,BARAJAS,966 Mount Olive Road,Oopstown,ST,30328.0,True,False,None
+104,Eleanor,NEFF,2006-02-09,Girl,White,SOCORRO,NEFF,744 Romrog Way,Oopstown,ST,69150.0,True,False,None
+105,Clinton,NGUY,1998-05-08,Boy,AAPI,VIRGIL,NGUY,3389 Shobe Lane,Oopstown,ST,80654.0,True,False,None
+106,Myah,NAJERA,2002-07-18,Girl,Hispanic,MARGRET,NAJERA,2846 Public Works Drive,Oopstown,ST,37385.0,True,False,None
+107,Naomi,LUTZ,2002-09-21,Girl,White,JAMI,BAUMAN,2470 Caynor Circle,Oopstown,ST,7477.0,True,False,None
+108,Wren,VAZQUEZ,1999-03-19,Girl,Hispanic,BETTE,VAZQUEZ,4256 Thunder Road,Oopstown,ST,94301.0,True,False,None
+109,Brooklyn,REILLY,2005-06-29,Girl,White,NOLA,REILLY,1039 Glory Road,Oopstown,ST,37040.0,True,False,None
+110,Ayden,METZ,2005-10-24,Boy,White,MEAGAN,GRAFF,4123 Snyder Avenue,Oopstown,ST,28210.0,True,False,None
+111,Sadie,HOFFMANN,2008-09-17,Girl,White,ROSETTA,HOFFMANN,3750 Woodland Avenue,Oopstown,ST,70112.0,True,False,None
+112,Harry,JIMENEZ,2007-03-14,Boy,Hispanic,JOCELYN,ARREDONDO,1526 Derek Drive,Oopstown,ST,44663.0,True,False,None
+113,Kaeden,JACKSON,2007-08-09,Boy,Black,CLARISSA,JACKSON,884 Boundary Street,Oopstown,ST,32207.0,True,False,None
+114,Paloma,CHARLESTON,2002-01-30,Girl,Black,ODESSA,MCCRAY,3403 West Side Avenue,Oopstown,ST,7042.0,True,False,None
+115,Dylan,SCHNEIDER,2004-11-20,Boy,White,KATHARINE,SCHNEIDER,119 Oakwood Circle,Oopstown,ST,92614.0,True,False,None
+116,Ashton,MCNAMARA,2002-05-31,Boy,White,ARNOLD,MCNAMARA,675 Boring Lane,Oopstown,ST,94108.0,True,False,None
+117,Van,HEARD,1998-04-30,Boy,Black,SASHA,HEARD,3732 Hannah Street,Oopstown,ST,28655.0,True,False,None
+118,Julianne,WILLIAMS,2003-07-10,Girl,Black,COLETTE,WILLIAMS,4822 Jim Rosa Lane,Oopstown,ST,94143.0,True,False,None
+119,Dakota,MAGUIRE,2002-12-23,Girl,White,KEISHA,MAGUIRE,4017 Concord Street,Oopstown,ST,28090.0,True,False,None
+120,Elliott,KRAUS,2001-01-20,Boy,White,PEDRO,KRAUS,1025 Musgrave Street,Oopstown,ST,73102.0,True,False,None
+121,Bodhi,PALACIOS,2009-07-18,Boy,Hispanic,GRACIE,PALACIOS,414 Hanover Street,Oopstown,ST,11530.0,True,False,None
+122,Julie,WAHL,2008-06-02,Girl,White,ANGELINE,SCHMIDT,483 Village View Drive,Oopstown,ST,33912.0,True,False,None
+123,Ares,WILLIAMS,2001-05-27,Boy,Black,ARLINE,WILLIAMS,604 Bingamon Road,Oopstown,ST,44141.0,True,False,None
+124,Moises,WEBER,2001-04-16,Boy,White,FRANKIE,WEBER,2897 Kelly Drive,Oopstown,ST,26301.0,True,False,None
+125,Ximena,LARSEN-HEATON,2007-11-20,Girl,White,MIA,LARSEN-HEATON,388 Whitetail Lane,Oopstown,ST,75253.0,True,False,None
+126,Camden,CARLSON,2005-10-21,Boy,White,ELMA,CARLSON,4145 Hillcrest Lane,Oopstown,ST,92660.0,True,False,None
+127,Scarlette,PATEL,2005-06-07,Girl,AAPI,TIA,LU,2448 Coolidge Street,Oopstown,ST,73109.0,True,False,None
+128,Ryland,SHOEMAKER,1998-10-28,Boy,White,BRENT,WALSH,3626 Hog Camp Road,Oopstown,ST,28263.0,True,False,None
+129,Sonia,BAE,2000-03-16,Girl,AAPI,MILLICENT,KIM,1474 Ryder Avenue,Oopstown,ST,98109.0,True,False,None
+130,Miya,JACKSON,2005-07-18,Girl,Black,TED,JACKSON,4572 Hillcrest Lane,Oopstown,ST,92664.0,True,False,None
+131,Tripp,RENTERIA-GONZALEZ,1998-04-01,Boy,Hispanic,CHRISTI,RENTERIA-GONZALEZ,4226 Moore Avenue,Oopstown,ST,76104.0,True,False,None
+132,Amos,GONZALEZ,2001-09-20,Boy,Hispanic,BEN,GONZALEZ,753 Randolph Street,Oopstown,ST,1501.0,True,False,None
+133,Maverick,FREY,2002-06-21,Boy,White,VERNON,SORENSON,3838 Sycamore Street,Oopstown,ST,95054.0,True,False,None
+134,Celine,MONTESDEOCA,2008-12-08,Girl,Hispanic,RAFAEL,HERNANDEZ,1771 Callison Lane,Oopstown,ST,19108.0,True,False,None
+135,Cameron,ACKERMAN,2000-11-15,Boy,White,RACHELLE,CONKLIN,116 Poplar Street,Oopstown,ST,60061.0,True,False,None
+136,Easton,JACOBSON,2005-07-04,Boy,White,LUPE,CHRISTENSEN,1809 Riverside Drive,Oopstown,ST,30741.0,True,False,None
+137,Rex,ROSAS,2002-08-03,Boy,Hispanic,PEDRO,ROSAS,3667 Bartlett Avenue,Oopstown,ST,48083.0,True,False,None
+138,Hadleigh,CALLOWAY,2000-04-05,Girl,Black,CHRYSTAL,CALLOWAY,2041 Oak Avenue,Oopstown,ST,60007.0,True,False,None
+139,Payton,ESTEP,2009-03-14,Girl,White,BRAD,ESTEP,759 Fort Street,Oopstown,ST,28562.0,True,False,None
+140,Khalil,GILLILAND,2009-07-22,Boy,White,ZACHARY,GILLILAND,1716 Timbercrest Road,Oopstown,ST,99743.0,True,False,None
+141,Madelyn,KRAUSE,2002-02-23,Girl,White,RACHELLE,KRAUSE,2749 Wescam Court,Oopstown,ST,89408.0,True,False,None
+142,Hank,OCHOA,1999-06-26,Boy,Hispanic,ELMA,OCHOA,260 Quiet Valley Lane,Oopstown,ST,91403.0,True,False,None
+143,Mohammad,SALGADO,2004-09-11,Boy,Hispanic,HELENA,SALGADO,537 Jewell Road,Oopstown,ST,55402.0,True,False,None
+144,Hope,FUNK,2003-01-13,Girl,White,LORIE,BERG,4466 Callison Lane,Oopstown,ST,97205.0,True,False,None
+145,Jazlynn,MACIAS,2005-10-30,Girl,Hispanic,WESLEY,MANCILLAS,4016 Hickory Ridge Drive,Oopstown,ST,89109.0,True,False,None
+146,Jonah,OCONNELL,2003-08-08,Boy,White,CORNELIA,OCONNELL,214 Rhapsody Street,Oopstown,ST,32757.0,True,False,None
+147,Evelyn,SKAGGS,2003-09-18,Girl,White,LUISA,SKAGGS,4996 Yorkie Lane,Oopstown,ST,31501.0,True,False,None
+148,Gino,KIM,2004-12-09,Boy,AAPI,ENID,SHEN,1556 Eagles Nest Drive,Oopstown,ST,95814.0,True,False,None
+149,Thomas,KRUSE,2003-01-08,Boy,White,CHANDRA,KRUSE,1909 Norman Street,Oopstown,ST,90014.0,True,False,None
+150,Liam,NEFF,2008-01-13,Boy,White,LORNA,NEFF,3958 Lamberts Branch Road,Oopstown,ST,33301.0,True,False,None
+151,Eleanor,KURTZ,2005-07-16,Girl,White,PEDRO,NIELSEN,4937 Half and Half Drive,Oopstown,ST,93721.0,True,False,None
+152,Carly,BAUER,2008-06-03,Girl,White,MIA,BAUER,1584 Bel Meadow Drive,Oopstown,ST,90017.0,True,False,None
+153,Jocelynn,PHAN,2005-12-22,Girl,AAPI,CHRISTIAN,VO,2673 Tavern Place,Oopstown,ST,80205.0,True,False,None
+154,Anahi,AVALOS,2001-06-17,Girl,Hispanic,CLAUDETTE,AVALOS,3204 White River Way,Oopstown,ST,84104.0,True,False,None
+155,Jack,SCHAEFFER,2004-09-02,Boy,White,SONDRA,SCHAEFFER,1048 Hinkle Lake Road,Oopstown,ST,60187.0,True,False,None
+156,Elle,CLEVENGER,2001-11-17,Girl,White,FRANKIE,CLEVENGER,4854 Sundown Lane,Oopstown,ST,78659.0,True,False,None
+157,Memphis,RAMIREZ,2001-06-02,Boy,Hispanic,ARNOLD,RAMIREZ,1397 Barrington Court,Oopstown,ST,72450.0,True,False,None
+158,Gemma,SHAFER,2009-08-25,Girl,White,DALE,SHAFER,546 Brown Avenue,Oopstown,ST,29669.0,True,False,None
+159,Finley,NIELSEN,1998-09-09,Girl,White,RAE,NIELSEN,1537 Woodland Avenue,Oopstown,ST,70171.0,True,False,None
+160,Jacob,OSWALD,1999-02-12,Boy,White,HILARY,OSWALD,4481 East Avenue,Oopstown,ST,62434.0,True,False,None
+161,Messiah,HUBER,1999-10-24,Boy,White,LESLIE,HUBER,1730 Kessla Way,Oopstown,ST,29577.0,True,False,None
+162,Cristopher,TRAN,2003-03-29,Boy,AAPI,TRACY,TRAN,213 Badger Pond Lane,Oopstown,ST,33610.0,True,False,None
+163,Monroe,DABNEY,2000-07-31,Girl,Black,YESENIA,DABNEY,1094 College Street,Oopstown,ST,30030.0,True,False,None
+164,Justice,WINTER-WEINSTEIN,1999-09-25,Girl,White,ISABELLE,HESS,1241 Harrison Street,Oopstown,ST,94909.0,True,False,None
+165,Sophie,DANIELSON,2008-08-15,Girl,White,DOMINIQUE,DANIELSON,326 Selah Way,Oopstown,ST,5301.0,True,False,None
+166,Davian,WILLIAMS,2010-01-21,Boy,Black,CLAUDINE,WILLIAMS,2397 Oak Lane,Oopstown,ST,64106.0,True,False,None
+167,Alfonso,DOZIER,2008-12-24,Boy,Black,SASHA,JACKSON,4463 Lake Road,Oopstown,ST,8109.0,True,False,None
+168,Omar,PFEIFFER,2000-07-23,Boy,White,ESPERANZA,PFEIFFER,2344 Emeral Dreams Drive,Oopstown,ST,60601.0,True,False,None
+169,Emersyn,SHULTZ,2010-05-15,Girl,White,FAY,SWENSON,1821 Bottom Lane,Oopstown,ST,14220.0,True,False,None
+170,Aiyana,AUGUSTE,2001-08-17,Girl,Black,ALEXANDRIA,AUGUSTE,3638 Patton Lane,Oopstown,ST,28202.0,True,False,None
+171,Brayden,PETERSEN,2007-04-19,Boy,White,VERNON,PETERSEN,4865 Cedar Street,Oopstown,ST,72201.0,True,False,None
+172,Lylah,CARDENAS,2006-09-22,Girl,Hispanic,ANGEL,CARDENAS,4991 Ocello Street,Oopstown,ST,92117.0,True,False,None
+173,Olivia,JENSEN,2009-07-08,Girl,White,DEAN,JENSEN,13 Swick Hill Street,Oopstown,ST,77515.0,True,False,None
+174,Gavin,TROUT,2009-02-01,Boy,White,CHRISTI,OLSON,572 Forest Avenue,Oopstown,ST,10013.0,True,False,None
+175,Destiny,WINTER,2005-10-07,Girl,White,SHAUNA,WINTER,1295 Hart Country Lane,Oopstown,ST,31901.0,True,False,None
+176,Scott,SCHULTE,2007-03-08,Boy,White,CATHLEEN,KAMINSKI,1713 Roguski Road,Oopstown,ST,71220.0,True,False,None
+177,Nicholas,BARNHART,2010-09-09,Boy,White,JANINE,BARNHART,4114 Cottonwood Lane,Oopstown,ST,49503.0,True,False,None
+178,Sadie,FUCHS,2004-08-21,Girl,White,ROSALYN,ROTH,1886 Fowler Avenue,Oopstown,ST,30071.0,True,False,None
+179,Marisol,WILLIAMS,2001-08-27,Girl,Black,LENORE,WILLIAMS,3127 Deercove Drive,Oopstown,ST,75142.0,True,False,None
+180,Amani,VAZQUEZ,2000-10-13,Girl,Hispanic,IMOGENE,URENA,510 Dola Mine Road,Oopstown,ST,27703.0,True,False,None
+181,Priscilla,PELLETIER-HUMMEL,2005-03-10,Girl,White,LEOLA,GALLAGHER,4977 Jenna Lane,Oopstown,ST,45245.0,True,False,None
+182,Briley,WILLIAMS,2005-07-19,Girl,Black,KURT,WILLIAMS,4131 Ritter Avenue,Oopstown,ST,48075.0,True,False,None
+183,Aliya,WILLIAMS-SINGLETARY,2003-06-15,Girl,Black,LORRIE,WILLIAMS-SINGLETARY,1277 Cimmaron Road,Oopstown,ST,92632.0,True,False,None
+184,Jairo,BOLDEN,2001-08-23,Boy,Black,ASHLEE,BOLDEN,2125 Oakway Lane,Oopstown,ST,92507.0,True,False,None
+185,Aileen,SCHROEDER,2005-03-26,Girl,White,PETRA,SCHROEDER,774 Patton Lane,Oopstown,ST,27603.0,True,False,None
+186,Steve,ROBINSON,2010-06-15,Boy,Black,EARLINE,ROBINSON,2455 Cody Ridge Road,Oopstown,ST,73105.0,True,False,None
+187,Vanessa,BOYLE-HAMMER,2006-12-14,Girl,White,COREY,BOYLE-HAMMER,2839 Wiseman Street,Oopstown,ST,92805.0,True,False,None
+188,Arely,HUERTA-RAMIREZ,1999-01-31,Girl,Hispanic,MARISA,HUERTA-RAMIREZ,4864 Nickel Road,Oopstown,ST,90017.0,True,False,None
+189,Meadow,JEANLOUIS-JOSEPH,2005-10-11,Girl,Black,MARGERY,JEANLOUIS-JOSEPH,3249 Valley Lane,Oopstown,ST,78723.0,True,False,None
+190,Liberty,MEYER,2003-02-12,Girl,White,RACHELLE,MEYER,4312 Coventry Court,Oopstown,ST,39531.0,True,False,None
+191,Leo,BRENNAN,2004-03-17,Boy,White,MAURICE,BRENNAN,704 Sugar Camp Road,Oopstown,ST,55402.0,True,False,None
+192,Giancarlo,JACKSON,2002-09-16,Boy,Black,LIZA,JACKSON,4182 Tenmile Road,Oopstown,ST,1890.0,True,False,None
+193,Nora,BLANK,2002-02-28,Girl,White,TRUDY,BLANK,2368 Roosevelt Wilson Lane,Oopstown,ST,92407.0,True,False,None
+194,Roger,BARRAZA,1998-01-09,Boy,Hispanic,LEILA,BARRAZA,4226 Moore Avenue,Oopstown,ST,76104.0,True,False,None
+195,Misael,WILLIAMS,2008-04-12,Boy,Black,REVA,WILLIAMS,2970 White Oak Drive,Oopstown,ST,64055.0,True,False,None
+196,Holland,JEAN,2008-08-15,Girl,Black,DARCY,JEAN,4098 Station Street,Oopstown,ST,78756.0,True,False,None
+197,Kimber,CASTELAN,2000-02-03,Girl,Hispanic,JANINE,CASTELAN,259 Stewart Street,Oopstown,ST,46202.0,True,False,None
+198,Macey,PATEL,2004-04-12,Girl,AAPI,DEENA,PATEL,1524 Fleming Street,Oopstown,ST,36330.0,True,False,None
+199,Evelyn,SCHMIDT,2009-03-28,Girl,White,CHARITY,KAISER,2320 Ella Street,Oopstown,ST,94005.0,True,False,None
+200,Elijah,RASMUSSEN,2005-02-18,Boy,White,MARCY,SNYDER,1397 Adams Drive,Oopstown,ST,77002.0,True,False,None
+201,Luciano,NAGY,1999-12-22,Boy,White,SUSANNE,DOHERTY,950 Still Pastures Drive,Oopstown,ST,29201.0,True,False,None
+202,Stephen,SWARTZ,2003-06-23,Boy,White,TRUDY,SWARTZ,411 Park Avenue,Oopstown,ST,95814.0,True,False,None
+203,Bradley,OLEARY,1999-08-19,Boy,White,RAMON,OLEARY,1281 Trails End Road,Oopstown,ST,33131.0,True,False,None
+204,Atticus,SCHREIBER,2002-05-23,Boy,White,LEA,SCHREIBER,1110 Hardesty Street,Oopstown,ST,12205.0,True,False,None
+205,Amelie,CONTRERAS,2005-05-01,Girl,Hispanic,OLA,CONTRERAS,1846 Wildrose Lane,Oopstown,ST,48226.0,True,False,None
+206,Faith,PETERSEN,2007-06-10,Girl,White,BEN,PETERSEN,2536 Kerry Way,Oopstown,ST,90017.0,True,False,None
+207,Aniya,SORENSON,2010-03-28,Girl,White,ROSARIO,KRAUS,3824 Meadowcrest Lane,Oopstown,ST,41144.0,True,False,None
+208,Payton,HORVATH,1999-06-26,Girl,White,URSULA,HORVATH,4402 Green Gate Lane,Oopstown,ST,21202.0,True,False,None
+209,Kole,HATCHETT,2002-09-11,Boy,Black,LOUISA,HATCHETT,1804 Sun Valley Road,Oopstown,ST,98908.0,True,False,None
+210,Mackenzie,STOCK,2002-05-14,Girl,White,TAMIKA,STOCK,3281 Warner Street,Oopstown,ST,32801.0,True,False,None
+211,Rosa,HERNANDEZ,2002-10-12,Girl,Hispanic,CORRINE,HERNANDEZ,4700 Washburn Street,Oopstown,ST,70805.0,True,False,None
+212,Richard,JANSEN,2003-06-22,Boy,White,RAUL,JANSEN,4478 Mesa Drive,Oopstown,ST,89119.0,True,False,None
+213,Avery,LEHMAN,1998-06-26,Girl,White,SHAUNA,CHRISTENSEN,1736 Hillside Street,Oopstown,ST,85251.0,True,False,None
+214,Denise,ROBINSON,2007-12-22,Girl,Black,MARGERY,ROBINSON,4155 Traction Street,Oopstown,ST,29302.0,True,False,None
+215,Quinn,ROTH,1999-06-02,Girl,White,ANGELIA,SCHWARZ,4269 Stroop Hill Road,Oopstown,ST,30309.0,True,False,None
+216,Haley,BLANKENSHIP-DONOVAN,2002-09-10,Girl,White,NELL,BLANKENSHIP-DONOVAN,841 Glenwood Avenue,Oopstown,ST,44132.0,True,False,None
+217,Virginia,CERVANTES,2007-03-23,Girl,Hispanic,GLEN,CERVANTES,4226 James Street,Oopstown,ST,14620.0,True,False,None
+218,Miracle,SCHWARTZ,2008-11-15,Girl,White,DENA,SCHWARTZ,60 Lindale Avenue,Oopstown,ST,94612.0,True,False,None
+219,Owen,SCHULTZ,2005-04-12,Boy,White,ABBY,RUSSO,3691 Raver Croft Drive,Oopstown,ST,37711.0,True,False,None
+220,Rayan,VAZQUEZ,1999-09-12,Boy,Hispanic,WILLA,BARRAGAN,591 Tibbs Avenue,Oopstown,ST,59701.0,True,False,None
+221,Zoe,DECKER,2008-12-08,Girl,White,MARGO,YODER,2127 Monroe Street,Oopstown,ST,77055.0,True,False,None
+222,James,OLSEN,2009-09-16,Boy,White,CATHLEEN,MAGUIRE,3483 Mayo Street,Oopstown,ST,54911.0,True,False,None
+223,Sophia,HUMMEL,2006-02-07,Girl,White,RENE,HUMMEL,4015 Neville Street,Oopstown,ST,47274.0,True,False,None
+224,Jamarion,ROBINSON,2002-04-04,Boy,Black,CATALINA,ROBINSON,4981 Kenwood Place,Oopstown,ST,33301.0,True,False,None
+225,Logan,OBRIEN,2009-11-24,Boy,White,LATONYA,OBRIEN,102 Conifer Drive,Oopstown,ST,98004.0,True,False,None
+226,Zion,CHIU,1999-06-25,Girl,AAPI,JULIAN,CHIU,705 Smithfield Avenue,Oopstown,ST,79088.0,True,False,None
+227,Irene,HERNANDEZ,2005-05-02,Girl,Hispanic,BARBRA,HERNANDEZ,1320 Earnhardt Drive,Oopstown,ST,40205.0,True,False,None
+228,Sebastian,SHULTZ,2000-08-28,Boy,White,GABRIELA,LEHMAN,3402 Zappia Drive,Oopstown,ST,40443.0,True,False,None
+229,Craig,KIM,2007-09-01,Boy,AAPI,LIZ,NGUYEN,3420 Sarah Drive,Oopstown,ST,70629.0,True,False,None
+230,Barbara,WILLIAMS,2002-11-15,Girl,Black,CLARISSA,WILLIAMS,755 Hall Place,Oopstown,ST,75604.0,True,True,Guessing-First Name
+231,Dukes,SANTIBANEZ,2003-07-22,Boy,Hispanic,GREG,SAUCEDO,1319 Turkey Pen Lane,Oopstown,ST,36104.0,True,True,Guessing-First Name
+232,Rowayna,ONEILL,2007-11-21,Girl,White,BEN,ONEILL,3073 Pineview Drive,Oopstown,ST,55904.0,True,True,Guessing-First Name
+233,Sean,ROTH,2005-02-15,Boy,White,STACI,ROTH,203 August Lane,Oopstown,ST,71101.0,True,True,Guessing-First Name
+234,Briggs,MYLES,2008-02-22,Boy,Black,LAWANDA,MYLES,801 Despard Street,Oopstown,ST,30344.0,True,True,Guessing-First Name
+235,Kingsley,COLEMAN,2007-01-12,Boy,Black,DEENA,WILLIAMS,582 Cottrill Lane,Oopstown,ST,63109.0,True,True,Guessing-First Name
+236,Johsiah,MCGRATH,2008-03-20,Boy,White,CHESTER,MCGRATH,3357 Bassel Street,Oopstown,ST,70380.0,True,True,Guessing-First Name
+237,Gaybriel,OLSON,1999-03-15,Boy,White,STEFANIE,DONOVAN,1153 Conference Center Way,Oopstown,ST,18614.0,True,True,Guessing-First Name
+238,Damien,SILVERMAN,2002-09-09,Boy,White,RICARDO,SILVERMAN,1749 Pooh Bear Lane,Oopstown,ST,29848.0,True,True,Guessing-First Name
+239,Abdiel,BATTLE,2009-10-20,Boy,Black,ALLYSON,GAYLE,3846 Charack Road,Oopstown,ST,47274.0,True,True,Guessing-First Name
+240,Galilea,CHAMBLISS,1999-03-20,Girl,Black,LORAINE,CHAMBLISS,3362 Maxwell Farm Road,Oopstown,ST,24555.0,True,True,Guessing-First Name
+241,Same,BAUER,2004-09-07,Boy,White,JEWELL,STAHL,4606 Warner Street,Oopstown,ST,33166.0,True,True,Guessing-First Name
+242,Liiam,OLSEN,2001-03-27,Boy,White,ELIZA,OLSEN,4016 Hickory Ridge Drive,Oopstown,ST,89109.0,True,True,Guessing-First Name
+243,Sutton,PARHAM,2001-02-21,Girl,Black,MADGE,WILLIAMS,1407 Elkview Drive,Oopstown,ST,34994.0,True,True,Guessing-First Name
+244,Bryant,GONZALEZ,2003-05-25,Boy,Hispanic,CECIL,RAMIREZ,3915 Oakridge Farm Lane,Oopstown,ST,53051.0,True,True,Guessing-First Name
+245,Lailea,SCHULTZ,1999-12-31,Girl,White,GRACIELA,SCHULTZ,2401 Freedom Lane,Oopstown,ST,95340.0,True,True,Guessing-First Name
+246,Llennen,GONZALEZ-RAMIREZ,2003-08-26,Boy,Hispanic,ELISE,ARGUETA,1821 Bottom Lane,Oopstown,ST,14220.0,True,True,Guessing-First Name
+247,Addison,NAGY,2001-09-22,Girl,White,MORGAN,SCHMIDT,1534 Radford Street,Oopstown,ST,40244.0,True,True,Guessing-First Name
+248,Langsten,CONTRERAS,2003-03-16,Boy,Hispanic,CLARISSA,CONTRERAS,2752 Harter Street,Oopstown,ST,45402.0,True,True,Guessing-First Name
+249,Arriadne,JOSEPH,2004-03-22,Girl,Black,JULIO,WILLIAMS,1 Green Hill Road,Oopstown,ST,72703.0,True,True,Guessing-First Name
+250,Hudson,DIETZ,2005-07-01,Boy,White,MARGO,DIETZ,4166 Columbia Boulevard,Oopstown,ST,21215.0,True,True,Guessing-First Name
+251,Charrlote,SCHULTZ,2003-01-24,Girl,White,WINNIE,SCHULTZ,4275 Neuport Lane,Oopstown,ST,30201.0,True,True,Guessing-First Name
+252,Owain,STOCK,2008-08-08,Boy,White,LUELLA,KRAFT,3129 Alpaca Way,Oopstown,ST,92686.0,True,True,Guessing-First Name
+253,Lachland,COLEMAN,2003-09-21,Boy,Black,ROSELLA,COLEMAN,2892 Middleville Road,Oopstown,ST,91744.0,True,True,Guessing-First Name
+254,Breiden,ROUNDTREE,2002-05-23,Boy,Black,CORY,ROUNDTREE,1649 Eden Drive,Oopstown,ST,23227.0,True,True,Guessing-First Name
+255,Julian,MCKENNA,1998-05-28,Boy,White,DERRICK,MCKENNA,971 Irving Place,Oopstown,ST,63069.0,True,True,Guessing-First Name
+256,Kalinn,GONZALEZ,2006-11-25,Girl,Hispanic,AILEEN,GONZALEZ,3562 Myra Street,Oopstown,ST,2903.0,True,True,Guessing-First Name
+257,Brooke,MCMAHON,2007-11-06,Girl,White,MARGRET,KOWALSKI,3835 Stoney Lonesome Road,Oopstown,ST,18360.0,True,True,Guessing-First Name
+258,Kolten,DIGGS,2005-04-10,Boy,Black,TESSA,WILLIAMS,2368 Olive Street,Oopstown,ST,43609.0,True,True,Guessing-First Name
+259,Anderz,ESCAMILLA,2005-09-03,Boy,Hispanic,KATHARINE,ESCAMILLA,872 Windy Ridge Road,Oopstown,ST,46571.0,True,True,Guessing-First Name
+260,Aryana,PALACIUS,2009-10-14,Girl,Hispanic,JEWELL,PALACIOS,404 Quarry Drive,Oopstown,ST,36830.0,True,True,Guessing-Last Name
+261,Farrah,WILLIAAMES,2008-08-24,Girl,Black,JAMI,WILLIAMS,3274 Denver Avenue,Oopstown,ST,92801.0,True,True,Guessing-Last Name
+262,Evelyn,FUNKO,2009-08-04,Girl,White,PETRA,FUNK,661 Sunburst Drive,Oopstown,ST,33923.0,True,True,Guessing-Last Name
+263,Jovanni,KKIM,2000-06-05,Boy,AAPI,FLORINE,KIM,2362 Holt Street,Oopstown,ST,33463.0,True,True,Guessing-Last Name
+264,Sebastian,BRENEAN,2000-02-16,Boy,White,HALEY,BRENNAN,4762 Mount Olive Road,Oopstown,ST,30076.0,True,True,Guessing-Last Name
+265,Yehuda,YAZIE,2003-10-24,Boy,Native,INES,BEGAY,1502 Kessla Way,Oopstown,ST,29577.0,True,True,Guessing-Last Name
+266,Chase,SCNIDER,2004-07-25,Boy,White,CALLIE,SNYDER,1131 Swick Hill Street,Oopstown,ST,77032.0,True,True,Guessing-Last Name
+267,Dimitri,WILLIAMOS,2001-01-02,Boy,Black,ELVIA,WILLIAMS,2604 Tree Frog Lane,Oopstown,ST,66215.0,True,True,Guessing-Last Name
+268,Cristian,BOLLINGE,2008-11-24,Boy,White,RICK,BOLLINGER,1182 Delaware Avenue,Oopstown,ST,94568.0,True,True,Guessing-Last Name
+269,Aidyn,CHOEUNG,2007-03-03,Boy,AAPI,MARION,MA,2470 Caynor Circle,Oopstown,ST,7477.0,True,True,Guessing-Last Name
+270,Lincoln,SHUHMAKER,2008-11-14,Boy,White,JANETTE,SHOEMAKER,4210 Arrowood Drive,Oopstown,ST,32091.0,True,True,Guessing-Last Name
+271,Sierra,OLSEN,2006-04-23,Girl,White,ESTELA,BUSCH,2643 Trouser Leg Road,Oopstown,ST,1103.0,True,True,Guessing-Last Name
+272,Kaydence,COUUGHLIN,2002-06-09,Girl,White,ROSALYN,SCHNEIDER,2835 Eastland Avenue,Oopstown,ST,39201.0,True,True,Guessing-Last Name
+273,Sara,CUURAN,2007-06-21,Girl,White,ELMA,CURRAN,3146 Pallet Street,Oopstown,ST,10606.0,True,True,Guessing-Last Name
+274,Lochlan,PATELLO,2003-08-21,Boy,AAPI,ANASTASIA,PATEL,388 Whitetail Lane,Oopstown,ST,75253.0,True,True,Guessing-Last Name
+275,Thiago,LORSON,2000-06-18,Boy,White,BERNADINE,LARSON,933 Ash Street,Oopstown,ST,75287.0,True,True,Guessing-Last Name
+276,Colton,NEWCOMS,2010-07-30,Boy,White,LADONNA,GOLDBERG,3529 Half and Half Drive,Oopstown,ST,93210.0,True,True,Guessing-Last Name
+277,Alice,BOLINGER,2005-06-22,Girl,White,DUANE,BOLLINGER,4729 Johnson Street,Oopstown,ST,27529.0,True,True,Guessing-Last Name
+278,Angelica,JENNSONN,2002-12-06,Girl,White,LARA,JENSEN,1576 Conifer Drive,Oopstown,ST,98161.0,True,True,Guessing-Last Name
+279,Aviana,DAWDEN,2002-03-17,Girl,Black,EVE,DARDEN,38 Elk City Road,Oopstown,ST,46204.0,True,True,Guessing-Last Name
+280,Zainab,WYLLIAMES,2000-08-19,Girl,Black,MADGE,MOORER,3317 Poplar Chase Lane,Oopstown,ST,83702.0,True,True,Guessing-Last Name
+281,Monroe,WILLIAMSI,2007-12-10,Girl,Black,JEANIE,CHARLES,2985 Kimberly Way,Oopstown,ST,49503.0,True,True,Guessing-Last Name
+282,Sophie,RUSCO,2003-08-01,Girl,White,CONSUELO,RUSSO,4312 Coventry Court,Oopstown,ST,39531.0,True,True,Guessing-Last Name
+283,Joaquin,GARBIERO,2009-06-17,Boy,White,MARC,GARBER,3433 Hall Valley Drive,Oopstown,ST,25701.0,True,True,Guessing-Last Name
+284,Elaine,JUAROZ,1998-09-14,Girl,Hispanic,JOCELYN,JUAREZ,3529 Twin Willow Lane,Oopstown,ST,28540.0,True,True,Guessing-Last Name
+285,Nolan,ROSSENBERG,2005-04-15,Boy,White,MORGAN,ROSENBERG,4095 Stroop Hill Road,Oopstown,ST,30303.0,True,True,Guessing-Last Name
+286,Lillianna,WILIAMB,1999-01-07,Girl,Black,RAE,WILLIAM,729 Havanna Street,Oopstown,ST,27573.0,True,True,Guessing-Last Name
+287,Audrey,XNYDER,2001-08-07,Girl,White,SHANE,SNYDER,1487 Lucy Lane,Oopstown,ST,47274.0,True,True,Guessing-Last Name
+288,Addison,SCHNEIDEROW,2005-07-10,Girl,White,BRETT,SAUER,544 Hill Haven Drive,Oopstown,ST,98499.0,True,True,Guessing-Last Name
+289,Leona,RAMIREIZ,2008-11-17,Girl,Hispanic,DENA,RAMIREZ,891 Fulton Street,Oopstown,ST,26030.0,True,True,Guessing-Last Name
+290,Fisher,FRIERSON-WOODSON,2009-04-01,Boy,Black,ALTHEA,FRIERSON-WOODSON,985 Sun Valley Road,Oopstown,ST,99201.0,True,True,Guessing-DOB
+291,Kai,OLSEN,2001-06-01,Boy,White,AILEEN,OLSEN,1915 Carson Street,Oopstown,ST,40403.0,True,True,Guessing-DOB
+292,Victoria,BURGER,2002-10-01,Girl,White,WESLEY,BURGER,843 Sherwood Circle,Oopstown,ST,27410.0,True,True,Guessing-DOB
+293,Yusuf,RAMIREZ,2004-01-01,Boy,Hispanic,ELNORA,RAMIREZ,3221 Grove Street,Oopstown,ST,10013.0,True,True,Guessing-DOB
+294,Noah,HANSEN,2000-12-01,Boy,White,ABBY,HANSEN,4860 Finwood Road,Oopstown,ST,7042.0,True,True,Guessing-DOB
+295,Terrell,ROBINSON,2005-01-01,Boy,Black,ZELMA,ROBINSON,2748 Adamsville Road,Oopstown,ST,78501.0,True,True,Guessing-DOB
+296,Lyric,MUHAMMAD,1998-12-01,Boy,Black,TESSA,MUHAMMAD,4555 College Street,Oopstown,ST,30338.0,True,True,Guessing-DOB
+297,Harper,SCHMITZ,2001-10-01,Girl,White,ESPERANZA,DAIGLE,3809 Broadcast Drive,Oopstown,ST,20166.0,True,True,Guessing-DOB
+298,Malachi,RUSSO,2000-03-01,Boy,White,NOLA,RUSSO,377 Brannon Street,Oopstown,ST,90017.0,True,True,Guessing-DOB
+299,Yusuf,SAGASTUME,1998-07-01,Boy,Hispanic,MARITZA,ESCAMILLA,4728 Murry Street,Oopstown,ST,23505.0,True,True,Guessing-DOB
+300,Reagan,KOEHLER-LEHMAN,2009-06-01,Girl,White,LESLEY,SCHAEFER,4426 University Drive,Oopstown,ST,60654.0,True,True,Guessing-DOB
+301,Kennedy,CHRISTENSEN,2008-11-01,Girl,White,MIA,BARNHART,1956 Musgrave Street,Oopstown,ST,73075.0,True,True,Guessing-DOB
+302,Gavin,FRIEDMAN-ENGEL,2001-01-01,Boy,White,VALARIE,KOCH,2583 McVaney Road,Oopstown,ST,28601.0,True,True,Guessing-DOB
+303,Mason,BAUMAN,2003-07-01,Boy,White,CONSUELO,BAUMAN,1319 Calico Drive,Oopstown,ST,99114.0,True,True,Guessing-DOB
+304,Kylie,YEAGER,0106-09-01,Girl,White,DEAN,YEAGER,2229 Whitetail Lane,Oopstown,ST,75240.0,True,True,Guessing-DOB
+305,Channingh,CASTELLANOS,2000-09-10,Boy,Hispanic,DERRICK,CASTELLANOS,4544 Honeysuckle Lane,Oopstown,ST,98161.0,True,True,Typo-First Name
+306,Natban,JENSEN,1999-07-31,Boy,White,NELL,REILLY,4482 Young Road,Oopstown,ST,83702.0,True,True,Typo-First Name
+307,Oljivia,MAIER,2010-09-04,Girl,White,CONSUELO,CRAMER,1837 Flanigan Oaks Drive,Oopstown,ST,20892.0,True,True,Typo-First Name
+308,Alahya,WILLIAMS,2007-07-23,Girl,Black,LILIANA,WASHINGTON,1639 Smith Street,Oopstown,ST,1606.0,True,True,Typo-First Name
+309,Rejuben,WASHINGTON,2003-07-23,Boy,Black,JESSIE,WASHINGTON,2429 Locust Court,Oopstown,ST,90670.0,True,True,Typo-First Name
+310,Aryqana,HERNANDEZ,2010-09-17,Girl,Hispanic,BEATRIZ,ZERMENO,4839 South Street,Oopstown,ST,22903.0,True,True,Typo-First Name
+311,Eolla,SCHUBERT,2006-05-12,Girl,White,LETHA,SCHUBERT,142 Garfield Road,Oopstown,ST,61607.0,True,True,Typo-First Name
+312,Chrisgtian,BARNHART,2003-05-15,Boy,White,JIMMIE,BARNHART,4280 Fincham Road,Oopstown,ST,91752.0,True,True,Typo-First Name
+313,Olicver,LEHMAN,2005-11-24,Boy,White,BEN,MEYER,1344 Spring Haven Trail,Oopstown,ST,7042.0,True,True,Typo-First Name
+314,Clnnor,WEINSTEIN,2003-04-15,Boy,White,SHEENA,ALLRED,3956 Meadow View Drive,Oopstown,ST,6492.0,True,True,Typo-First Name
+315,Priscills,WOLF,1999-07-12,Girl,White,DUSTIN,WOLF,1749 Pooh Bear Lane,Oopstown,ST,29848.0,True,True,Typo-First Name
+316,Abiyail,FREY,2010-05-23,Girl,White,GRACIELA,FREY,3786 Southern Avenue,Oopstown,ST,63366.0,True,True,Typo-First Name
+317,Natzalia,MCNALLY,2010-12-18,Girl,White,FAY,MCNALLY,3317 Poplar Chase Lane,Oopstown,ST,83702.0,True,True,Typo-First Name
+318,Jeruicho,KANG,1999-10-30,Boy,AAPI,MARIETTA,KANG,4007 Ross Street,Oopstown,ST,62863.0,True,True,Typo-First Name
+319,Esmre,WILLIAMS,2001-05-17,Girl,Black,JAVIER,WILLIAMS,2565 Dola Mine Road,Oopstown,ST,27549.0,True,True,Typo-First Name
+320,Teuman,LUONG,2002-10-14,Boy,AAPI,DEIRDRE,MOUA,4872 Martha Ellen Drive,Oopstown,ST,89509.0,True,True,Typo-First Name
+321,Elxa,SCHWARTZ,2010-08-05,Girl,White,LACEY,SCHWARTZ,1690 Kelly Street,Oopstown,ST,28073.0,True,True,Typo-First Name
+322,Amie,ALBRECHT,2005-12-06,Boy,White,GABRIELA,CAHILL,4229 Flinderation Road,Oopstown,ST,60605.0,True,True,Typo-First Name
+323,Jeeremy,SKAGGS-MOSER,2002-06-12,Boy,White,MAVIS,SKAGGS-MOSER,1094 College Street,Oopstown,ST,30030.0,True,True,Typo-First Name
+324,Abrielld,YU,2010-12-14,Girl,AAPI,HALLIE,YU,4007 Ross Street,Oopstown,ST,62863.0,True,True,Typo-First Name
+325,Josreph,DONOVAN,2007-04-18,Boy,White,MILTON,DONOVAN,930 Sycamore Road,Oopstown,ST,97702.0,True,True,Typo-First Name
+326,Ameloia,KESSLER-OLSON,1998-04-10,Girl,White,NATHANIEL,KESSLER-OLSON,1661 Illinois Avenue,Oopstown,ST,97019.0,True,True,Typo-First Name
+327,Triksten,SHOOK,2009-12-31,Boy,White,DEE,SHOOK,3049 Radford Street,Oopstown,ST,40202.0,True,True,Typo-First Name
+328,Linbdsay,SIFUENTES,2009-04-15,Girl,Hispanic,ARNOLD,SIFUENTES,1940 Angie Drive,Oopstown,ST,91505.0,True,True,Typo-First Name
+329,Daniekl,LANGE,2007-06-07,Boy,White,JONI,LANGE,3607 Sherman Street,Oopstown,ST,68345.0,True,True,Typo-First Name
+330,Brooked,SNYDER-CRABTREE,2000-07-31,Girl,White,ROSALIND,KRUEGER,2575 Pursglove Court,Oopstown,ST,45429.0,True,True,Typo-First Name
+331,Gertald,GATLING,2004-02-25,Boy,Black,AVA,GATLING,1370 Kovar Road,Oopstown,ST,2053.0,True,True,Typo-First Name
+332,Albeert,LUDWIG-CLINE,2001-05-14,Boy,White,WILLA,LUDWIG-CLINE,153 Beechwood Drive,Oopstown,ST,15205.0,True,True,Typo-First Name
+333,Angdel,BRAUN,2007-10-12,Boy,White,CECILE,BRAUN,4209 Viking Drive,Oopstown,ST,45732.0,True,True,Typo-First Name
+334,Jordhyn,HOFFMAN,2003-05-08,Girl,White,NELL,SHEETS,1303 Cardinal Lane,Oopstown,ST,62301.0,True,True,Typo-First Name
+335,Winston,WELLLER,2007-07-18,Boy,White,LARA,WELLER,2902 Swick Hill Street,Oopstown,ST,77853.0,True,True,Typo-Last Name
+336,Logan,NIELSSEN,2010-02-07,Boy,White,GLENNA,NIELSEN,1231 Union Street,Oopstown,ST,98109.0,True,True,Typo-Last Name
+337,Myra,TAAPIA,2004-07-04,Girl,Hispanic,BETTYE,TAPIA,3609 Old House Drive,Oopstown,ST,45619.0,True,True,Typo-Last Name
+338,Sean,RASSMUSSEN-BECKER,2007-11-23,Boy,White,RHODA,RASMUSSEN-BECKER,4140 Ashmor Drive,Oopstown,ST,56482.0,True,True,Typo-Last Name
+339,Jack,OCONNNOR,2001-03-13,Boy,White,COREY,OCONNOR,3172 August Lane,Oopstown,ST,71251.0,True,True,Typo-Last Name
+340,Ashley,WWOLF,1999-10-11,Girl,White,CLEO,WOLF,3501 Hardman Road,Oopstown,ST,3768.0,True,True,Typo-Last Name
+341,Charlie,OMALLLEY,2006-01-28,Boy,White,LEA,LANGE,1786 Hampton Meadows,Oopstown,ST,1742.0,True,True,Typo-Last Name
+342,Azariah,BAPTISSTE,1999-06-30,Boy,Black,JAIME,BAPTISTE,1 Green Hill Road,Oopstown,ST,72703.0,True,True,Typo-Last Name
+343,Caroline,LARSEEN,2006-03-15,Girl,White,DEBORA,LARSEN,1927 Breezewood Court,Oopstown,ST,67118.0,True,True,Typo-Last Name
+344,Jocelyn,MCDONNEELL,2009-01-24,Girl,White,SAM,MCDONNELL,3129 Alpaca Way,Oopstown,ST,92686.0,True,True,Typo-Last Name
+345,Hunter,BOUCHAARD,2009-12-11,Boy,White,KERI,BOUCHARD,665 Cinnamon Lane,Oopstown,ST,78205.0,True,True,Typo-Last Name
+346,Diamond,WILLLIAMS,2006-11-26,Girl,Black,MILAGROS,LAMPKIN,520 Robinson Lane,Oopstown,ST,43302.0,True,True,Typo-Last Name
+347,Mckenna,EPSTEEIN,2009-02-11,Girl,White,DOLLY,EPSTEIN,4022 Green Avenue,Oopstown,ST,94545.0,True,True,Typo-Last Name
+348,Gage,MMEYER,2008-10-09,Boy,White,COREY,MEYER,582 Cottrill Lane,Oopstown,ST,63109.0,True,True,Typo-Last Name
+349,Raina,VANNG,2003-03-31,Girl,AAPI,KATHERYN,VANG,2430 Rollins Road,Oopstown,ST,68801.0,True,True,Typo-Last Name
+350,Gauge,JACCKSON,2006-06-19,Boy,Black,NITA,JACKSON,4037 Kincheloe Road,Oopstown,ST,97383.0,True,True,Typo-Last Name
+351,Logan,MAAIER,2000-08-23,Boy,White,LEA,KAISER,4823 Hawks Nest Lane,Oopstown,ST,63101.0,True,True,Typo-Last Name
+352,Annalee,LAROCQUEE,2010-04-19,Girl,Native,HALLIE,LAROCQUE,1823 Joanne Lane,Oopstown,ST,1824.0,True,True,Typo-Last Name
+353,Valerie,PELLETIEER,2000-07-03,Girl,White,ANGEL,PELLETIER,4313 Broadcast Drive,Oopstown,ST,22021.0,True,True,Typo-Last Name
+354,Cora,SCCHNEIDER,1999-11-12,Girl,White,NATHANIEL,SCHNEIDER,4327 Carter Street,Oopstown,ST,62434.0,True,True,Typo-Last Name
+355,Roland,ESPARRZA,2001-11-07,Boy,Hispanic,ELMA,ESPARZA,4229 Flinderation Road,Oopstown,ST,60605.0,True,True,Typo-Last Name
+356,Aliza,CANTTY,2009-01-19,Girl,Black,ALLAN,CANTY,1499 Kildeer Drive,Oopstown,ST,23502.0,True,True,Typo-Last Name
+357,Olivia,GALLAGHERR,2003-11-03,Girl,White,BRENT,VOSS,1757 Rodney Street,Oopstown,ST,63011.0,True,True,Typo-Last Name
+358,Eugene,WITTHERSPOON,2003-04-16,Boy,Black,BRIANNA,WITHERSPOON,4402 Green Gate Lane,Oopstown,ST,21202.0,True,True,Typo-Last Name
+359,Brooke,KKAPLAN,2008-11-06,Girl,White,URSULA,KAPLAN,1292 Cityview Drive,Oopstown,ST,18101.0,True,True,Typo-Last Name
+360,Jackson,SCHULTZZ,2007-06-02,Boy,White,LESTER,SCHULTZ,1771 Callison Lane,Oopstown,ST,19108.0,True,True,Typo-Last Name
+361,Jackson,HANSSEN,1998-07-14,Boy,White,LORNA,GREENBERG,3920 Penn Street,Oopstown,ST,65473.0,True,True,Typo-Last Name
+362,Carl,BARAJAAS,1999-05-02,Boy,Hispanic,CLARICE,OCHOA,1504 Waldeck Street,Oopstown,ST,76133.0,True,True,Typo-Last Name
+363,Elisa,BAUERR,2004-09-06,Girl,White,DOROTHEA,BAUER,2351 Rainbow Drive,Oopstown,ST,44406.0,True,True,Typo-Last Name
+364,Londyn,BURKHARTT,2006-04-06,Girl,White,LILLY,PELLETIER,1395 Marshall Street,Oopstown,ST,20707.0,True,True,Typo-Last Name
+365,Dylan,SCHMIDT,2000-22-03,Boy,White,JILLIAN,SCHMIDT,4822 Maxwell Farm Road,Oopstown,ST,22801.0,True,True,Typo-DOB
+366,Harley,MARISCAL,2000-23-01,Boy,Hispanic,CECIL,MARISCAL,4951 Emma Street,Oopstown,ST,79029.0,True,True,Typo-DOB
+367,Randall,WILLIAMS-BATTS,2005-02-09,Boy,Black,DARREN,WILLIAMS-BATTS,3138 Adonais Way,Oopstown,ST,30303.0,True,True,Typo-DOB
+368,Hadley,HOFFMAN,2001-04-07,Girl,White,SHAUNA,HOFFMAN,3063 Heritage Road,Oopstown,ST,93711.0,True,True,Typo-DOB
+369,Jamison,HESS,1999-04-10,Boy,White,SOCORRO,HESS,4069 Lynch Street,Oopstown,ST,54115.0,True,True,Typo-DOB
+370,Evelyn,WOLF,1999-06-11,Girl,White,GEORGINA,WOLF,4592 Barrington Court,Oopstown,ST,72560.0,True,True,Typo-DOB
+371,Xavier,MONAHAN,2007-10-09,Boy,White,KIRSTEN,CLEVENGER,3797 Morgan Street,Oopstown,ST,32507.0,True,True,Typo-DOB
+372,Mara,MEJIA,2007-17-09,Girl,Hispanic,LESLIE,MEJIA,4247 Saints Alley,Oopstown,ST,33564.0,True,True,Typo-DOB
+373,Mariah,CONNOLLY,2003-22-03,Girl,White,AILEEN,HECK,1197 Austin Avenue,Oopstown,ST,31520.0,True,True,Typo-DOB
+374,Lilyanna,ROBINSON,2004-10-04,Girl,Black,SASHA,ROBINSON,137 Saint Francis Way,Oopstown,ST,53142.0,True,True,Typo-DOB
+375,Andrea,ROTH,2006-29-11,Girl,White,IMOGENE,ROTH,2650 Jadewood Drive,Oopstown,ST,60089.0,True,True,Typo-DOB
+376,Brecken,PIERRE,2007-06-11,Boy,Black,ALISSA,PIERRE,1329 Lynch Street,Oopstown,ST,53202.0,True,True,Typo-DOB
+377,Albert,DOHERTY,1999-11-04,Boy,White,BRETT,DOHERTY,4074 August Lane,Oopstown,ST,71101.0,True,True,Typo-DOB
+378,Benjamin,KERN,2002-24-09,Boy,White,RAFAEL,KERN,502 Geraldine Lane,Oopstown,ST,10022.0,True,True,Typo-DOB
+379,James,SNYDER,2000-08-03,Boy,White,CLYDE,SNYDER,1786 Mulberry Avenue,Oopstown,ST,72039.0,True,True,Typo-DOB
+380,Julpiiane,WENDT,2007-08-11,Boy,White,ANGELIA,WENDT,3768 Small Street,Oopstown,ST,10022.0,True,True,Guess and Typo-First Name
+381,Baikor,TANG,2000-12-31,Boy,AAPI,KIRK,TANG,140 County Line Road,Oopstown,ST,33634.0,True,True,Guess and Typo-First Name
+382,Charflotti,COFFMAN,1998-04-07,Girl,White,RON,BERG,2390 Luke Lane,Oopstown,ST,73401.0,True,True,Guess and Typo-First Name
+383,Aniedbel,BLUE,2009-07-26,Girl,Black,TOMMIE,BLUE,661 Beechwood Drive,Oopstown,ST,15222.0,True,True,Guess and Typo-First Name
+384,Kehrwa,FRIEDMAN,2009-07-22,Girl,White,FRANKIE,FRIEDMAN,489 Gladwell Street,Oopstown,ST,75601.0,True,True,Guess and Typo-First Name
+385,Vzllentin,KAMINSKI,2001-10-12,Girl,White,LUPE,KAMINSKI,1339 Turkey Pen Lane,Oopstown,ST,36104.0,True,True,Guess and Typo-First Name
+386,Natallio,DECKER,1998-04-18,Girl,White,LUCILE,DECKER,4058 Nutters Barn Lane,Oopstown,ST,50266.0,True,True,Guess and Typo-First Name
+387,Jersmmiah,KRAMER,2006-07-09,Boy,White,ERICKA,KRAMER,1695 Morningview Lane,Oopstown,ST,50438.0,True,True,Guess and Typo-First Name
+388,Midras,ZELAYA,1999-02-14,Girl,Hispanic,MAGDALENA,HERNANDEZ,1695 Fincham Road,Oopstown,ST,92262.0,True,True,Guess and Typo-First Name
+389,Chennimg,HUIZAR,2006-07-31,Boy,Hispanic,TIM,HUIZAR,759 Fort Street,Oopstown,ST,28562.0,True,True,Guess and Typo-First Name
+390,Xzavilar,RAMIREZ,2004-10-02,Boy,Hispanic,PETRA,RAMIREZ,2854 Orphan Road,Oopstown,ST,54701.0,True,True,Guess and Typo-First Name
+391,Doeotthy,HUIZAR,2008-06-20,Girl,Hispanic,BARBRA,HERNANDEZ,2333 Hartway Street,Oopstown,ST,57248.0,True,True,Guess and Typo-First Name
+392,Dahniielle,KOENIG,1999-05-09,Boy,White,DERRICK,LEAVITT,4525 Fulton Street,Oopstown,ST,26062.0,True,True,Guess and Typo-First Name
+393,Jadden,FRANTZ,2010-10-12,Boy,White,LORIE,SCHULTZ,1793 Walton Street,Oopstown,ST,84104.0,True,True,Guess and Typo-First Name
+394,Biully,BANKS,2004-04-11,Boy,Black,LORAINE,BANKS,4872 Martha Ellen Drive,Oopstown,ST,89509.0,True,True,Guess and Typo-First Name
+395,Matrinai,CARDENAS,2004-08-07,Girl,Hispanic,GRACIELA,AMAYA,674 Willison Street,Oopstown,ST,55121.0,True,True,Guess and Typo-First Name
+396,Ziopn,LUONG,2007-11-23,Girl,AAPI,ANNMARIE,LUONG,4130 Sarah Drive,Oopstown,ST,70629.0,True,True,Guess and Typo-First Name
+397,Harflew,CHRISTIANSEN,2010-12-13,Girl,White,ELNORA,CHRISTIANSEN,4049 Calvin Street,Oopstown,ST,21601.0,True,True,Guess and Typo-First Name
+398,Ureijah,WILLIAMS,2010-02-23,Boy,Black,SAUNDRA,WILLIAMS,979 Lamberts Branch Road,Oopstown,ST,33143.0,True,True,Guess and Typo-First Name
+399,Broddrerick,HUYNH,2010-06-27,Boy,AAPI,MADELEINE,SHIN,1006 Coal Road,Oopstown,ST,18641.0,True,True,Guess and Typo-First Name
+400,Genevieve,KAYING,2008-01-09,Girl,White,DEE,KEATING,3078 Colony Street,Oopstown,ST,6430.0,True,True,Guess and Typo-Last Name
+401,Edith,LEJMOUS,2002-10-22,Girl,Hispanic,DOROTHEA,ROJAS,4257 Oakway Lane,Oopstown,ST,91335.0,True,True,Guess and Typo-Last Name
+402,Javion,WOLLIAXMS,2004-07-06,Boy,Black,KARINA,CELESTIN,191 Blue Spruce Lane,Oopstown,ST,21207.0,True,True,Guess and Typo-Last Name
+403,Alma,HERNANNNDEZ,2008-09-14,Girl,Hispanic,JAYNE,HERNANDEZ,2805 Arbor Court,Oopstown,ST,82633.0,True,True,Guess and Typo-Last Name
+404,Elyse,AYELSA,1999-11-21,Girl,Hispanic,JILLIAN,AYALA,4500 Wayside Lane,Oopstown,ST,94597.0,True,True,Guess and Typo-Last Name
+405,Christina,PAPAXZ,2000-09-20,Girl,White,MILLIE,KERN,4555 College Street,Oopstown,ST,30338.0,True,True,Guess and Typo-Last Name
+406,Landry,ALSTHONS,1998-01-25,Boy,Black,MADELYN,BOOKER,58 Rainbow Road,Oopstown,ST,91801.0,True,True,Guess and Typo-Last Name
+407,Angeline,JACSKSOPN,2000-09-27,Girl,Black,NEIL,JACKSON,4306 Better Street,Oopstown,ST,66101.0,True,True,Guess and Typo-Last Name
+408,Daniela,ADCOKCKES,2010-02-20,Girl,White,STACI,RIZZO,336 Rafe Lane,Oopstown,ST,38725.0,True,True,Guess and Typo-Last Name
+409,Yusuf,SIFUANMTES,1999-01-04,Boy,Hispanic,RACHELLE,CIFUENTES,1997 Terra Cotta Street,Oopstown,ST,56452.0,True,True,Guess and Typo-Last Name
+410,Jolie,KOLEMAZN,2006-10-25,Girl,Black,PENELOPE,DORTCH,827 Red Maple Drive,Oopstown,ST,91766.0,True,True,Guess and Typo-Last Name
+411,Emily,GRYMMK,1999-02-02,Girl,White,DEBORA,GRIMM,4717 Khale Street,Oopstown,ST,29488.0,True,True,Guess and Typo-Last Name
+412,Jasiah,ROJAS,2003-04-06,Boy,Hispanic,SUSANA,ROJAS,2537 Corbin Branch Road,Oopstown,ST,37663.0,True,True,Guess and Typo-Last Name
+413,Emma,CRAFEMERS,2006-08-17,Girl,White,JORGE,ADLER,2536 Murry Street,Oopstown,ST,23323.0,True,True,Guess and Typo-Last Name
+414,Samuel,METZHERS,2002-07-13,Boy,White,DENA,REGAN,3754 Ford Street,Oopstown,ST,95050.0,True,True,Guess and Typo-Last Name
+415,Noah,SCHWARDTTZ,2004-11-02,Boy,White,PAIGE,SCHWARTZ,1796 Oak Street,Oopstown,ST,13697.0,True,True,Guess and Typo-Last Name
+416,Zane,NAEGBEL,1998-06-02,Boy,White,LEANNE,OLEARY,1829 Ethels Lane,Oopstown,ST,33825.0,True,True,Guess and Typo-Last Name
+417,Brooklyn,ERGICKONS,1999-01-28,Girl,White,GEORGINA,ERICKSON,2833 Tree Frog Lane,Oopstown,ST,64106.0,True,True,Guess and Typo-Last Name
+418,Jasiah,CAMARNW,2005-12-17,Boy,Hispanic,SIMONE,CAMARENA,2037 Dye Street,Oopstown,ST,85016.0,True,True,Guess and Typo-Last Name
+419,Gordon,VUHI,2010-09-06,Boy,AAPI,MARSHALL,VU,1623 Luke Lane,Oopstown,ST,74701.0,True,True,Guess and Typo-Last Name
+420,Kamden,LARSEN,2005-09-01,Boy,White,DUANE,DELONG,4664 Conference Center Way,Oopstown,ST,60005.0,False,True,Ambiguity DOB
+421,Sherlyn,COLEMAN,1998-04-01,Girl,Black,ROSALYN,COLEMAN,175 Poco Mas Drive,Oopstown,ST,77580.0,False,True,Ambiguity DOB
+422,Bridger,BUFFALO,2005-01-01,Boy,Native,RAE,DUPRIS,943 Pearlman Avenue,Oopstown,ST,66210.0,False,True,Ambiguity DOB
+423,Leah,OBRIEN-LANGE,2005-05-01,Girl,White,KATELYN,SCHAEFER,4929 Capitol Avenue,Oopstown,ST,77056.0,False,True,Ambiguity DOB
+424,Lucian,ESPARZA,2006-03-01,Boy,Hispanic,CANDY,ESPARZA,4468 Pinewood Drive,Oopstown,ST,71101.0,False,True,Ambiguity DOB
+425,Alexa,CONROY,2001-06-01,Girl,White,GRACIELA,ROSEN,3405 Woodhill Avenue,Oopstown,ST,28655.0,False,True,Ambiguity DOB
+426,Jonah,DEATON,2000-10-22,Boy,White,LEWIS,GRAF,2189 University Drive,Oopstown,ST,46765.0,False,True,Ambiguity Exact
+427,Anaya,ROOT,2004-02-12,Girl,White,MORGAN,CAUDILL,434 Cantebury Drive,Oopstown,ST,33868.0,False,True,Ambiguity Exact
+428,Bella,HANSEN,2008-07-12,Girl,White,KATHARINE,HANSEN,609 Heather Sees Way,Oopstown,ST,32803.0,False,True,Ambiguity Exact
+429,Alfred,HAIRSTON,2003-05-10,Boy,Black,AILEEN,DORSEY,1720 Martha Ellen Drive,Oopstown,ST,98052.0,False,True,Ambiguity Exact
+430,Alan,WESTFALL,2004-11-14,Boy,White,CHRISTI,WESTFALL,2802 Irving Place,Oopstown,ST,40741.0,False,True,Ambiguity Exact
+431,Giancarlo,CHARLES,2005-02-21,Boy,Black,ALLIE,CHARLES,2868 Gateway Road,Oopstown,ST,28263.0,False,True,Ambiguity Exact
+432,Alondra,WEISS,2002-06-29,Girl,White,DWAYNE,QUIGLEY,1156 Isaacs Creek Road,Oopstown,ST,30161.0,False,True,Ambiguity Exact
+433,Tamia,ZHOU,2003-11-15,Girl,AAPI,CHARITY,ZHOU,4671 Johnstown Road,Oopstown,ST,2812.0,False,True,Ambiguity Exact
+434,Isabella,FERRARA,2009-02-26,Girl,White,CLARISSA,FERRARA,2817 Biddie Lane,Oopstown,ST,70629.0,False,True,Ambiguity Exact
+435,Beau,BECKER,2010-07-01,Boy,White,WILLA,BECKER,1133 Mahlon Street,Oopstown,ST,78401.0,False,True,Ambiguity Exact
+436,Charlotte,DONOVAN,1998-03-14,Girl,White,CONSUELO,DONOVAN,973 Hummingbird Way,Oopstown,ST,30253.0,False,True,Ambiguity First Name
+437,Emilee,HERNANDES,2002-02-09,Girl,Hispanic,JANNIE,ARMENDARIZ,1958 Walnut Hill Drive,Oopstown,ST,37748.0,False,True,Ambiguity First Name
+438,Josephine,GENTILE,1998-10-14,Girl,White,JONI,BLANK,2055 Aaron Smith Drive,Oopstown,ST,33178.0,False,True,Ambiguity First Name
+439,Zoey,SCHNEIDER,2003-08-07,Girl,White,JONI,SCHNEIDER,2540 John Avenue,Oopstown,ST,55415.0,False,True,Ambiguity First Name
+440,Matthew,OLSON,2004-02-19,Boy,White,CORINA,KLEIN,1135 Friendship Lane,Oopstown,ST,58203.0,False,True,Ambiguity First Name
+441,Ryker,NOVAK,2005-01-21,Boy,White,SHEENA,NOVAK,3259 Whispering Pines Circle,Oopstown,ST,21111.0,False,True,Ambiguity First Name
+442,Edison,HERNANDEZ,2010-01-09,Boy,Hispanic,DALE,HERNANDEZ,1583 Melrose Street,Oopstown,ST,4101.0,False,True,Ambiguity First Name
+443,Lena,MACDONALD,2005-05-19,Girl,White,BRAD,MACDONALD,1943 Evergreen Lane,Oopstown,ST,25301.0,False,True,Ambiguity First Name
+444,Adrien,WILLIAMS,2008-05-26,Boy,Black,HELENA,JACKSON,4729 Shearwood Forest Drive,Oopstown,ST,48075.0,False,True,Ambiguity Last Name
+445,Charles,FUCHS,2003-03-02,Boy,White,JIMMIE,SWENSON,3637 Ripple Street,Oopstown,ST,47408.0,False,True,Ambiguity Last Name
+446,Piper,SORENSEN,1999-02-21,Girl,White,RUBEN,SORENSEN,3429 Edsel Road,Oopstown,ST,19103.0,False,True,Ambiguity Last Name
+447,Temperance,MILTON,2007-09-21,Girl,Black,MEAGAN,MCKOY,3629 Cecil Street,Oopstown,ST,75287.0,False,True,Ambiguity Last Name
+448,Mia,BECKMAN,2004-07-27,Girl,White,SHAUNA,BECKMAN,3940 Boundary Street,Oopstown,ST,90026.0,False,True,Ambiguity Last Name
+449,Douglas,IBARRA,2006-02-06,Boy,Hispanic,RAMON,IBARRA,874 Layman Court,Oopstown,ST,93210.0,False,True,Ambiguity Last Name
+450,Harper,OBRIEN,2005-04-26,Girl,White,GRACIE,OBRIEN,3299 Andell Road,Oopstown,ST,43081.0,False,False,None
+451,Athena,WERNER,1999-06-09,Girl,White,HARVEY,WERNER,2926 Ward Road,Oopstown,ST,10994.0,False,False,None
+452,Mary,HARTMAN,2010-03-27,Girl,White,DAPHNE,HARTMAN,4641 John Avenue,Oopstown,ST,48823.0,False,False,None
+453,Alfred,FAISON,2003-11-11,Boy,Black,BRIANA,MAHONE,4889 West Fork Street,Oopstown,ST,59501.0,False,False,None
+454,Aubrielle,TOLIVER,2003-02-26,Girl,Black,ALBERTO,TOLIVER,2643 Trouser Leg Road,Oopstown,ST,1103.0,False,False,None
+455,Lucas,CONDON,2001-01-30,Boy,White,GABRIELA,BAUER,3474 Wescam Court,Oopstown,ST,89701.0,False,False,None
+456,Elizabeth,JENSEN,2007-10-11,Girl,White,GENE,JENSEN,4583 Valley Street,Oopstown,ST,8110.0,False,False,None
+457,Nyla,WINTER,2009-04-25,Girl,White,ELMER,CHRISTENSEN,3320 Calico Drive,Oopstown,ST,99114.0,False,False,None
+458,Micheal,HOLLOMAN,2001-03-25,Boy,Black,JAMI,WILLIAMS,3723 Meadow Drive,Oopstown,ST,59601.0,False,False,None
+459,Franco,JACKSON,2007-09-16,Boy,Black,RAE,WILLIAMS,3854 Lodgeville Road,Oopstown,ST,55423.0,False,False,None
+460,Skye,GALLAGHER,2004-03-16,Girl,White,CECILE,GALLAGHER,2743 Cameron Road,Oopstown,ST,14712.0,False,False,None
+461,Lincoln,NOVAK,2005-02-21,Boy,White,CECIL,NOVAK,1411 High Meadow Lane,Oopstown,ST,17976.0,False,False,None
+462,Azaria,QUACH,2010-01-25,Girl,AAPI,ADRIAN,GANDHI,3073 Oakmound Drive,Oopstown,ST,60661.0,False,False,None
+463,Alexa,SCHULZ,2005-04-19,Girl,White,CECIL,WOLF,4978 Clay Lick Road,Oopstown,ST,80020.0,False,False,None
+464,Julia,CLINE,2000-11-03,Girl,White,THERESE,CLINE,4240 Smithfield Avenue,Oopstown,ST,79410.0,False,False,None
+465,Amelia,BOYLE-MEYER,2010-11-01,Girl,White,DAN,DELUCA,1208 Aviation Way,Oopstown,ST,90071.0,False,False,None
+466,Jaime,FUNK,2003-01-22,Boy,White,LEOLA,FUNK,4468 Pinewood Drive,Oopstown,ST,60089.0,False,False,None
+467,Beckett,LARSON,2005-10-06,Boy,White,MARIBEL,LARSON,2352 Rollins Road,Oopstown,ST,69170.0,False,False,None
+468,Mason,JENSEN,2008-10-22,Boy,White,LEANN,JENSEN,3203 Stuart Street,Oopstown,ST,15017.0,False,False,None
+469,Donovan,JENSEN,2003-09-26,Boy,White,ZACHARY,OCONNOR,434 Upland Avenue,Oopstown,ST,43556.0,False,False,None
+470,Broderick,NGUYEN,2002-04-09,Boy,AAPI,TISHA,NGUYEN,4661 Evergreen Lane,Oopstown,ST,92618.0,False,False,None
+471,Lillie,MEEHAN,2004-01-13,Girl,White,SHANE,MEEHAN,1843 Mulberry Street,Oopstown,ST,77032.0,False,False,None
+472,Sophia,CAHILL,2003-12-21,Girl,White,LEILA,HANSEN,4591 Marie Street,Oopstown,ST,20765.0,False,False,None
+473,Angelica,LUTZ,2001-05-27,Girl,White,LOU,BAUER,184 Woodridge Lane,Oopstown,ST,38134.0,False,False,None
+474,Marina,RAMIREZ,2002-04-08,Girl,Hispanic,DEANA,RAMIREZ,1418 Spring Avenue,Oopstown,ST,97205.0,False,False,None
+475,Noah,KRAUS,1999-02-05,Boy,White,WINNIE,KRAUS,339 Washington Avenue,Oopstown,ST,39213.0,False,False,None
+476,Libby,ROBINSON,2009-03-18,Girl,Black,MATHEW,LEFLORE,2390 Adonais Way,Oopstown,ST,30310.0,False,False,None
+477,Emily,SHEETS,1999-12-28,Girl,White,FRANKLIN,SHEETS,4789 Richison Drive,Oopstown,ST,59923.0,False,False,None
+478,Morgan,LEIJA,1999-12-13,Boy,Hispanic,LESTER,LEIJA,377 Pheasant Ridge Road,Oopstown,ST,19103.0,False,False,None
+479,Lincoln,GIORDANO,2009-05-15,Boy,White,LADONNA,SCHUMACHER,1559 Badger Pond Lane,Oopstown,ST,33868.0,False,False,None
+480,Taryn,RANDLE,2001-10-09,Girl,Black,FELIX,RANDLE,4544 Jerry Dove Drive,Oopstown,ST,29501.0,False,False,None
+481,Max,BOUCHARD-BOWER,2010-04-06,Boy,White,JUSTINE,BOUCHARD-BOWER,2718 Gordon Street,Oopstown,ST,91766.0,False,False,None
+482,Maxim,OLVERA-RIOS,2009-01-06,Boy,Hispanic,SHANA,OLVERA-RIOS,2557 Stark Hollow Road,Oopstown,ST,81424.0,False,False,None
+483,Alina,ROSENTHAL,2002-07-11,Girl,White,PEDRO,GAGNON,924 Rollins Road,Oopstown,ST,68958.0,False,False,None
+484,Judah,SCHROEDER,2001-02-10,Boy,White,SELMA,BERG,4502 Robinson Court,Oopstown,ST,49738.0,False,False,None
+485,Noah,WEISS,2004-02-19,Boy,White,LESLEY,WEISS,1437 Ruckman Road,Oopstown,ST,73113.0,False,False,None
+486,Shaun,SARAVIA,2008-09-24,Boy,Hispanic,MARTINA,SARAVIA,3669 Lang Avenue,Oopstown,ST,84074.0,False,False,None
+487,Natalie,MACKENZIE,2000-08-04,Girl,White,GLEN,TUTTLE,1646 Earnhardt Drive,Oopstown,ST,40202.0,False,False,None
+488,Brenna,MCCLENDON,2001-11-01,Girl,Black,SELENA,BOLDEN,3624 Stiles Street,Oopstown,ST,15205.0,False,False,None
+489,Sofia,KESSLER,2000-11-25,Girl,White,OLA,KESSLER,1256 Wood Street,Oopstown,ST,70447.0,False,False,None
+490,Tamia,YANG,2005-09-22,Girl,AAPI,QUEEN,PHAN,1821 Armory Road,Oopstown,ST,28387.0,False,False,None
+491,Adrienne,WILLIAMS,2008-09-23,Girl,Black,ELNORA,WILLIAMS,2333 Hartway Street,Oopstown,ST,57248.0,False,False,None
+492,Mayson,LOCKETT-GARY,2009-08-09,Boy,Black,SAVANNAH,LOCKETT-GARY,1793 Walton Street,Oopstown,ST,84104.0,False,False,None
+493,Viviana,MCNAMARA-HIRSCH,2007-11-11,Girl,White,JEANINE,DANIELSON,2013 Cemetery Street,Oopstown,ST,93901.0,False,False,None
+494,Justus,JACKSON,2006-06-17,Boy,Black,IMELDA,JACKSON,3442 Giraffe Hill Drive,Oopstown,ST,75207.0,False,False,None
+495,Kate,FELDMAN,2005-04-29,Girl,White,GLEN,FELDMAN,4534 Joy Lane,Oopstown,ST,90017.0,False,False,None
+496,Sadie,BECKER,2005-12-19,Girl,White,GRACIE,BECKER,3261 Bel Meadow Drive,Oopstown,ST,92335.0,False,False,None
+497,Holland,WILLIAMS,2007-03-05,Girl,Black,MADGE,WILLIAMS,2324 Kelly Street,Oopstown,ST,28208.0,False,False,None
+498,Raina,KIM,2004-05-15,Girl,AAPI,CONCETTA,KIM,3201 Boggess Street,Oopstown,ST,76380.0,False,False,None
+499,Catherine,MEIER,2004-06-24,Girl,White,SOCORRO,MEIER,2701 Diamond Street,Oopstown,ST,28202.0,False,False,None
+500,Madelyn,OUELLETTE,2004-12-21,Girl,White,JORGE,WEBER,1800 Pinnickinnick Street,Oopstown,ST,8701.0,False,False,None
+501,Kylah,HUYNH,2006-09-16,Girl,AAPI,JULIAN,TRAN,4539 Joy Lane,Oopstown,ST,91204.0,False,False,None
+502,Hailey,CARLSON,2000-11-30,Girl,White,JEANNINE,CARLSON,3504 Walnut Drive,Oopstown,ST,58746.0,False,False,None
+503,Joseph,CONKLIN,2003-02-01,Boy,White,ROSARIO,CONKLIN,1094 College Street,Oopstown,ST,30030.0,False,False,None
+504,Liam,SCHWARZ,2003-04-02,Boy,White,GEORGINA,CLINE,63 Chardonnay Drive,Oopstown,ST,98052.0,False,False,None
+505,Nathan,MCKENNA,2006-11-13,Boy,White,FLOSSIE,BERGERON,2442 Emeral Dreams Drive,Oopstown,ST,60005.0,False,False,None
+506,Chaya,MAGDALENO,2000-02-13,Girl,Hispanic,SHANA,MAGDALENO,3771 Henry Ford Avenue,Oopstown,ST,10016.0,False,False,None
+507,Hannah,OLSON,2008-03-23,Girl,White,AUDRA,OLSON,3471 Oakdale Avenue,Oopstown,ST,33830.0,False,False,None
+508,Marisol,GIVENS,2008-09-17,Girl,Black,DWAYNE,GIVENS,1362 Leverton Cove Road,Oopstown,ST,1103.0,False,False,None
+509,Emma,NEUMANN,2009-01-26,Girl,White,DEANA,ALLRED,3117 Marietta Street,Oopstown,ST,94612.0,False,False,None
+510,London,POST,2001-08-26,Girl,White,SUMMER,POST,2318 Stuart Street,Oopstown,ST,15219.0,False,False,None
+511,Ashlyn,HOFFMAN,2001-07-13,Girl,White,ESTELA,HOFFMAN,4059 Driftwood Road,Oopstown,ST,95054.0,False,False,None
+512,Cedric,WILLIAMS,2000-11-03,Boy,Black,MARCI,WILLIAMS,4435 Nuzum Court,Oopstown,ST,14202.0,False,False,None
+513,Madison,MOYER,2008-07-08,Girl,White,SELMA,KEENAN,3534 Green Avenue,Oopstown,ST,94609.0,False,False,None
+514,Marshall,RUSSO,1998-02-25,Boy,White,LESLIE,RUSSO,4181 Newton Street,Oopstown,ST,55321.0,False,False,None
+515,Joshua,STAUFFER,2005-06-27,Boy,White,SOCORRO,STAUFFER,2270 Cost Avenue,Oopstown,ST,20770.0,False,False,None
+516,Nathanael,JIMENEZ-HERNANDEZ,2000-11-01,Boy,Hispanic,CARMELA,JIMENEZ-HERNANDEZ,1302 Spruce Drive,Oopstown,ST,15090.0,False,False,None
+517,Nolan,MEEHAN,2005-02-21,Boy,White,CALLIE,MEEHAN,102 Conifer Drive,Oopstown,ST,98004.0,False,False,None
+518,Janessa,WILLIAMS,2006-06-15,Girl,Black,ANNABELLE,ALFRED,1309 Selah Way,Oopstown,ST,5403.0,False,False,None
+519,William,KUHN,2010-08-27,Boy,White,ROSETTA,KUHN,2324 Limer Street,Oopstown,ST,30240.0,False,False,None
+520,Leah,BOUCHER,2005-02-28,Girl,White,GABRIEL,BOUCHER,164 Stratford Court,Oopstown,ST,27513.0,False,False,None
+521,Giovani,ABDULLAH,2003-04-10,Boy,Black,NADIA,MCGRIFF,2443 College Street,Oopstown,ST,30340.0,False,False,None
+522,Gwen,HUYNH,2006-12-25,Girl,AAPI,BYRON,YANG,4822 Bates Brothers Road,Oopstown,ST,43085.0,False,False,None
+523,Katelyn,STRAUSS,2002-12-07,Girl,White,CONSUELO,KRAFT,1550 James Street,Oopstown,ST,14895.0,False,False,None
+524,Miles,CAUDILL,2001-11-13,Boy,White,LESLIE,CAUDILL,538 John Avenue,Oopstown,ST,48823.0,False,False,None
+525,Aryana,FAZ,2008-05-16,Girl,Hispanic,ELIZA,FAZ,4430 Hide A Way Road,Oopstown,ST,95035.0,False,False,None
+526,Patience,TARBELL,1999-12-11,Girl,Native,TWILA,TARBELL,3071 Calvin Street,Oopstown,ST,21076.0,False,False,None
+527,Ariyah,NGUYEN,2002-01-19,Girl,AAPI,RHEA,NGUYEN,4414 Daffodil Lane,Oopstown,ST,22202.0,False,False,None
+528,Sophia,BELANGER,2003-07-27,Girl,White,WESLEY,BELANGER,2130 Mcwhorter Road,Oopstown,ST,39201.0,False,False,None
+529,Rylan,CHISOLM,2010-10-19,Girl,Black,ROSEANN,MUHAMMAD,1800 Pinnickinnick Street,Oopstown,ST,8701.0,False,False,None
+530,Arian,HERNANDEZ,2007-04-27,Boy,Hispanic,HALEY,HERNANDEZ,1808 Bridge Avenue,Oopstown,ST,70526.0,False,False,None
+531,Luke,BRENNAN,2002-11-24,Boy,White,HARVEY,JENSEN,2318 Stuart Street,Oopstown,ST,15219.0,False,False,None
+532,Ainsley,REILLY,2010-08-03,Girl,White,MARC,REILLY,3756 Settlers Lane,Oopstown,ST,11426.0,False,False,None
+533,Heidi,ERICKSON,2005-07-25,Girl,White,RAMON,ERICKSON,3407 College View,Oopstown,ST,63042.0,False,False,None
+534,Olivia,ROOT,2007-08-24,Girl,White,LORIE,ROOT,4393 Leo Street,Oopstown,ST,80014.0,False,False,None
+535,Colton,ADLER,2005-08-20,Boy,White,ALISA,ADLER,113 Winding Way,Oopstown,ST,2914.0,False,False,None
+536,Avalynn,YOU-PHUNG,2003-01-02,Girl,AAPI,RENE,YOU-PHUNG,4777 Gandy Street,Oopstown,ST,13057.0,False,False,None
+537,Jericho,CHAN,2009-04-07,Boy,AAPI,SAVANNAH,CHAN,3134 Washington Avenue,Oopstown,ST,85003.0,False,False,None
+538,Jaxson,RINEHART,2005-06-21,Boy,White,ANDRE,RINEHART,1070 Douglas Dairy Road,Oopstown,ST,24315.0,False,False,None
+539,Gracelynn,MCGOVERN,2007-04-13,Girl,White,GILBERT,MCGOVERN,2853 Upland Avenue,Oopstown,ST,44837.0,False,False,None
+540,Lee,MACIAS,2002-05-27,Boy,Hispanic,BRIANNA,MACIAS,870 Harter Street,Oopstown,ST,45402.0,False,False,None
+541,Sean,HOFFMAN,2005-05-06,Boy,White,LORIE,HOFFMAN,159 Washburn Street,Oopstown,ST,70814.0,False,False,None
+542,Barbara,MCGHEE,2005-11-22,Girl,Black,MITZI,MCGHEE,4240 Smithfield Avenue,Oopstown,ST,79410.0,False,False,None
+543,Jillian,REICH,2004-10-06,Girl,White,RAFAEL,STOCK,3493 Clover Drive,Oopstown,ST,80903.0,False,False,None
+544,Grace,SHAFFER,2001-04-05,Girl,White,MATILDA,KLINE,896 Stanton Hollow Road,Oopstown,ST,1610.0,False,False,None
+545,Noemi,JUAREZ,2002-09-21,Girl,Hispanic,SAM,JUAREZ,1887 American Drive,Oopstown,ST,32301.0,False,False,None
+546,Camila,YEAGER,2006-04-29,Girl,White,BEN,YEAGER,4134 Blackwell Street,Oopstown,ST,99658.0,False,False,None
+547,Arabella,SHAFFER,2001-12-22,Girl,White,JOCELYN,ELLER,4674 Kovar Road,Oopstown,ST,2132.0,False,False,None
+548,Ariel,SCHULTZ,2002-06-23,Girl,White,SYBIL,SCHULTZ,116 Poplar Street,Oopstown,ST,60061.0,False,False,None
+549,Gemma,BLANK,1999-06-09,Girl,White,GILBERT,VOSS,3771 Henry Ford Avenue,Oopstown,ST,10016.0,False,False,None
+550,Simone,LARIOS,2004-07-24,Girl,Hispanic,LESTER,MALDONADO,4448 Essex Court,Oopstown,ST,5403.0,False,False,None
+551,Jamari,HARMS,2007-10-08,Boy,White,LENORE,SHEA,680 Marshville Road,Oopstown,ST,12601.0,False,False,None
+552,Gabriella,STUMP,2007-02-26,Girl,White,MARGO,KATZ,4606 Warner Street,Oopstown,ST,33166.0,False,False,None
+553,Nora,KUHN,2001-02-05,Girl,White,HALEY,KUHN,1144 Front Street,Oopstown,ST,48185.0,False,False,None
+554,Kayla,BUSCH,2007-12-21,Girl,White,DERRICK,HOFFMAN,3181 Wyatt Street,Oopstown,ST,33434.0,False,False,None
+555,Farrah,ARCHIE,2001-07-30,Girl,Black,JANNA,ARCHIE,3923 Hart Ridge Road,Oopstown,ST,48651.0,False,False,None
+556,Tripp,RUVALCABA,2001-06-17,Boy,Hispanic,ZACHARY,RUVALCABA,3732 Hannah Street,Oopstown,ST,28655.0,False,False,None
+557,Nathan,MUELLER,2006-01-26,Boy,White,GLEN,MUELLER,4322 Arrowood Drive,Oopstown,ST,32258.0,False,False,None
+558,Israel,HOFF,2000-01-24,Boy,White,ALISA,HOFF,1182 Delaware Avenue,Oopstown,ST,94568.0,False,False,None
+559,Angelina,BAUM,2010-09-07,Girl,White,MATILDA,BAUM,983 Cook Hill Road,Oopstown,ST,6604.0,False,False,None
+560,Jonathan,BECKER,2004-10-12,Boy,White,GILBERT,BECKER,4533 Matthews Street,Oopstown,ST,61101.0,False,False,None
+561,Asia,BLACKSHEAR,2010-10-25,Girl,Black,ASHLEE,BLACKSHEAR,3176 Southern Avenue,Oopstown,ST,50049.0,False,False,None
+562,Zion,WILLIAMS,2004-05-10,Girl,Black,MALLORY,WILLIAMS,1690 Amethyst Drive,Oopstown,ST,48933.0,False,False,None
+563,Harper,JACOBSEN,2007-06-30,Girl,White,ABBY,JACOBSEN,4137 Jenna Lane,Oopstown,ST,50447.0,False,False,None
+564,Ryker,CRABTREE,2007-09-23,Boy,White,CLYDE,CRABTREE,2399 Railroad Street,Oopstown,ST,49968.0,False,False,None
+565,Camren,MA,2009-05-03,Boy,AAPI,WILLARD,MA,2936 Hurry Street,Oopstown,ST,24011.0,False,False,None
+566,Joseph,SCHMIDT,2007-07-26,Boy,White,MARITZA,SCHMIDT,3872 Biddie Lane,Oopstown,ST,23227.0,False,False,None
+567,Logan,ROSEN,2010-05-30,Boy,White,RUBEN,ROSEN,31 Pinchelone Street,Oopstown,ST,23502.0,False,False,None
+568,Pyper,NGUYEN,2009-04-11,Girl,AAPI,ANDY,CHA,2992 Kemper Lane,Oopstown,ST,84119.0,False,False,None
+569,Liam,ONEILL,2006-03-19,Boy,White,IMOGENE,ONEILL,998 Conaway Street,Oopstown,ST,47201.0,False,False,None
+570,Alejandra,SCHELL,2004-07-04,Girl,White,GILBERT,SCHELL,2139 Franklin Avenue,Oopstown,ST,32114.0,False,False,None
+571,Jaden,RINEHART,2009-11-22,Boy,White,JIMMIE,RINEHART,1089 Walnut Street,Oopstown,ST,39211.0,False,False,None
+572,Samuel,MCHUGH,1998-08-31,Boy,White,JERI,DIETZ,1250 Norma Lane,Oopstown,ST,71109.0,False,False,None
+573,Sofia,KURTZ,2009-01-16,Girl,White,LADONNA,MCMAHON,3249 Valley Lane,Oopstown,ST,78723.0,False,False,None
+574,Isabela,CERVANTES,2006-12-09,Girl,Hispanic,ESPERANZA,CERVANTES,3355 Timber Oak Drive,Oopstown,ST,93032.0,False,False,None
+575,Aileen,SCHMIDT,2007-07-30,Girl,White,TYLER,SCHMIDT,282 Gateway Avenue,Oopstown,ST,90670.0,False,False,None
+576,Carter,BOYLE,2003-06-11,Boy,White,CARMELA,BOYLE,3297 Irving Place,Oopstown,ST,63077.0,False,False,None
+577,Logan,OLSEN,2008-11-04,Boy,White,JEANNINE,GALLAGHER,2423 Jerome Avenue,Oopstown,ST,78550.0,False,False,None
+578,Chloe,ERICKSON,2001-04-10,Girl,White,NATHANIEL,HAAS,2599 South Street,Oopstown,ST,79703.0,False,False,None
+579,Lewis,ORELLANA,2005-05-04,Boy,Hispanic,GABRIEL,ORELLANA,3127 Deercove Drive,Oopstown,ST,75142.0,False,False,None
+580,Kyrie,EPSTEIN,1998-02-27,Boy,White,LADONNA,EPSTEIN,2611 Cardinal Lane,Oopstown,ST,62522.0,False,False,None
+581,Darian,WILLIAMS,2003-06-04,Boy,Black,EDWINA,WILLIAMS,4448 Essex Court,Oopstown,ST,5403.0,False,False,None
+582,Denise,WASHINGTON,1999-02-16,Girl,Black,TANIA,WASHINGTON,3786 Southern Avenue,Oopstown,ST,63366.0,False,False,None
+583,Caroline,MESSER,2006-04-06,Girl,White,JONI,DEATON,855 Asylum Avenue,Oopstown,ST,6902.0,False,False,None
+584,Leah,MEYER,2006-07-11,Girl,White,CANDY,MEYER,3470 Simpson Avenue,Oopstown,ST,17064.0,False,False,None
+585,Karen,ZIMMERMAN,2006-02-26,Girl,White,CAROLINA,ZIMMERMAN,3398 New Creek Road,Oopstown,ST,46802.0,False,False,None
+586,Benjamin,KNAPP,2006-03-06,Boy,White,LEANN,HAMMER,3740 Murry Street,Oopstown,ST,23505.0,False,False,None
+587,Esmeralda,CLINE,2004-09-07,Girl,White,SYBIL,CLINE,441 Harley Vincent Drive,Oopstown,ST,44046.0,False,False,None
+588,Jayden,NEWCOMB,2008-10-12,Boy,White,KERI,BERGMAN,2591 Austin Avenue,Oopstown,ST,31405.0,False,False,None
+589,Harper,CHRISTIANSEN,2003-09-01,Girl,White,VALARIE,CHRISTIANSEN,1231 Union Street,Oopstown,ST,98109.0,False,False,None
+590,Lilia,KIM,2002-05-23,Girl,AAPI,MARQUITA,KIM,1464 Rosemont Avenue,Oopstown,ST,32810.0,False,False,None
+591,Cora,CARLSON,2006-11-03,Girl,White,VALARIE,CARLSON,2051 Bassel Street,Oopstown,ST,70458.0,False,False,None
+592,Jaida,HICKSON,2008-02-23,Girl,Black,NEVA,HICKSON,4632 Post Farm Road,Oopstown,ST,30339.0,False,False,None
+593,Evelyn,OUELLETTE,2000-12-11,Girl,White,BRIDGETTE,SCHROEDER,1711 Moore Avenue,Oopstown,ST,76107.0,False,False,None
+594,Zaiden,ANDERSEN,2008-04-28,Boy,White,THERESE,ANDERSEN,1194 Quiet Valley Lane,Oopstown,ST,91403.0,False,False,None
+595,Olivia,WERNER,2010-09-29,Girl,White,TAMIKA,SNYDER,4145 Hillcrest Lane,Oopstown,ST,92660.0,False,False,None
+596,Lucas,KESSLER,2000-01-07,Boy,White,LOU,KESSLER,1229 Hall Place,Oopstown,ST,75601.0,False,False,None
+597,Abby,CARLSON,1998-02-10,Girl,White,CARMELA,CARLSON,1502 Ferrell Street,Oopstown,ST,55722.0,False,False,None
+598,Lucy,MAHER,1999-07-31,Girl,White,MAVIS,MAHER,644 Wayback Lane,Oopstown,ST,11717.0,False,False,None
+599,Lily,SCHNEIDER,2001-11-14,Girl,White,ROLAND,SCHNEIDER,2055 Fulton Street,Oopstown,ST,25301.0,False,False,None
+600,Hunter,DECKER,2003-01-11,Boy,White,LILLY,DECKER,841 Glenwood Avenue,Oopstown,ST,44132.0,False,False,None
+601,Omari,REYNOSO,2002-07-25,Boy,Hispanic,SELMA,REYNOSO,3387 Walnut Hill Drive,Oopstown,ST,45241.0,False,False,None
+602,Lennon,CEJA,2006-05-05,Girl,Hispanic,DUSTIN,CEJA,2013 Steele Street,Oopstown,ST,60187.0,False,False,None
+603,Taylor,CHRISTENSEN,2002-09-28,Girl,White,GRACIELA,CHRISTENSEN,3176 Southern Avenue,Oopstown,ST,50049.0,False,False,None
+604,Dana,DORTCH,2001-08-19,Girl,Black,LORAINE,DORTCH,2736 Delaware Avenue,Oopstown,ST,94107.0,False,False,None
+605,Emmet,HUYNH,2002-04-03,Boy,AAPI,JAMES,HUYNH,1353 Wright Court,Oopstown,ST,98168.0,False,False,None
+606,Emerson,MEYER,2005-12-14,Girl,White,STACI,ACKERMAN,4229 Flinderation Road,Oopstown,ST,60605.0,False,False,None
+607,Levi,LARSEN,1998-02-03,Boy,White,KIMBERLEY,SCHREIBER,3998 New Creek Road,Oopstown,ST,35967.0,False,False,None
+608,James,ROSENBERG,1999-08-03,Boy,White,JERI,ROSENBERG,1940 Walnut Street,Oopstown,ST,39401.0,False,False,None
+609,Mustafa,LE,2009-05-01,Boy,AAPI,HELGA,LE,1843 Mulberry Street,Oopstown,ST,77032.0,False,False,None
+610,Alexander,BOUCHARD,2005-05-19,Boy,White,ESTER,BOUCHARD,1730 Kessla Way,Oopstown,ST,29577.0,False,False,None
+611,Remington,ROSAS,2004-06-14,Girl,Hispanic,PETRA,ROSAS,1082 Richards Avenue,Oopstown,ST,95204.0,False,False,None
+612,Matilda,RESENDIZ,2006-10-27,Girl,Hispanic,SHANNA,RESENDIZ,634 Dogwood Road,Oopstown,ST,85034.0,False,False,None
+613,Giovani,RHONE,1999-09-05,Boy,Black,TYRONE,RHONE,2092 Jenna Lane,Oopstown,ST,45245.0,False,False,None
+614,Marley,SCHUBERT,2006-11-16,Girl,White,JORGE,OBRIEN,1552 Green Avenue,Oopstown,ST,94539.0,False,False,None
+615,Sophia,MESSER,2005-06-05,Girl,White,CLYDE,MEYER,1986 Green Acres Road,Oopstown,ST,27536.0,False,False,None
+616,Conrad,URZUA,2010-08-25,Boy,Hispanic,SYBIL,URZUA,1823 Daffodil Lane,Oopstown,ST,22070.0,False,False,None
+617,Adonis,ESPINOZA,2002-12-22,Boy,Hispanic,JONI,RAMIREZ,2214 Frosty Lane,Oopstown,ST,13901.0,False,False,None
+618,Bryn,XIONG,2005-10-22,Girl,AAPI,CHASITY,TRINH,2201 Morgan Street,Oopstown,ST,32456.0,False,False,None
+619,Ryker,SHAFFER,2001-11-16,Boy,White,MINERVA,KRAUS,2522 Maxwell Street,Oopstown,ST,6103.0,False,False,None
+620,Heather,BEAMON,2010-05-28,Girl,Black,NEIL,POLK,1393 Roguski Road,Oopstown,ST,71260.0,False,False,None
+621,Aviana,ROBINSON,2010-07-10,Girl,Black,KARL,ROBINSON,1538 Tree Top Lane,Oopstown,ST,19406.0,False,False,None
+622,Alan,SCHMIDT,1999-04-23,Boy,White,WESLEY,BAUMAN,52 Jacobs Street,Oopstown,ST,15212.0,False,False,None
+623,Caroline,SCHAEFFER,2010-02-02,Girl,White,RAE,SCHAEFFER,609 Heather Sees Way,Oopstown,ST,74401.0,False,False,None
+624,Kinslee,PHAM,1999-05-04,Girl,AAPI,JOHNNIE,PHAM,1203 Doctors Drive,Oopstown,ST,90017.0,False,False,None
+625,Emily,REILLY,2006-08-08,Girl,White,KIMBERLEY,HANSEN,1720 Bird Street,Oopstown,ST,87301.0,False,False,None
+626,Grady,BOYLE,1999-02-06,Boy,White,CANDY,KRAUSE,165 Evergreen Lane,Oopstown,ST,92618.0,False,False,None
+627,Madison,BAUM,2004-10-22,Girl,White,FRANKIE,BAUM,592 Park Street,Oopstown,ST,94556.0,False,False,None
+628,Reese,ERICKSON,2001-09-16,Girl,White,CANDY,ERICKSON,1860 Massachusetts Avenue,Oopstown,ST,20009.0,False,False,None
+629,Blaze,WILLIAMS,2003-01-21,Boy,Black,MARCI,WILLIAMS,2301 Rardin Drive,Oopstown,ST,94539.0,False,False,None
+630,Kynlee,GONZALEZ,2004-05-23,Girl,Hispanic,RAMON,RAMIREZ,1066 Paul Wayne Haggerty Road,Oopstown,ST,70065.0,False,False,None
+631,Aubree,WOLF,2007-07-26,Girl,White,GENE,WOLF,1699 Golden Ridge Road,Oopstown,ST,12148.0,False,False,None
+632,Ethan,MCNALLY,2001-12-26,Boy,White,BERNADINE,MCNALLY,4167 Cedarstone Drive,Oopstown,ST,43537.0,False,False,None
+633,Clementine,NGUYEN,2006-08-01,Girl,AAPI,JACKLYN,VU,4919 Roosevelt Road,Oopstown,ST,67062.0,False,False,None
+634,Briley,JACKSON,2010-07-27,Girl,Black,RUTHIE,BELLAMY,4368 Vernon Street,Oopstown,ST,92242.0,False,False,None
+635,Olivia,BAUMANN,1999-11-20,Girl,White,PEDRO,BAUMANN,624 Northwest Boulevard,Oopstown,ST,7094.0,False,False,None
+636,David,CARLSON,2005-12-16,Boy,White,LUPE,CHRISTENSEN,4235 Ridenour Street,Oopstown,ST,33179.0,False,False,None
+637,Marleigh,PATEL,2003-09-24,Girl,AAPI,CARLY,PATEL,3105 Leverton Cove Road,Oopstown,ST,1103.0,False,False,None
+638,Camren,TANG,2000-07-08,Boy,AAPI,ISAAC,TANG,202 Glory Road,Oopstown,ST,37398.0,False,False,None
+639,Zainab,CAPERS,1999-02-16,Girl,Black,ESMERALDA,DEWBERRY,3096 Tipple Road,Oopstown,ST,19121.0,False,False,None
+640,Londyn,WESTFALL,2009-03-26,Girl,White,MARGRET,WESTFALL,2464 Horseshoe Lane,Oopstown,ST,19403.0,False,False,None
+641,Ezra,CARUSO,2003-06-30,Boy,White,AUDRA,CARUSO,2409 Grey Fox Farm Road,Oopstown,ST,77337.0,False,False,None
+642,Rylee,SKAGGS,2007-10-31,Girl,White,MILLIE,SKAGGS,1801 Sumner Street,Oopstown,ST,90291.0,False,False,None
+643,Kale,CHON,2003-08-08,Boy,AAPI,FANNY,CHON,1634 Bryan Avenue,Oopstown,ST,55404.0,False,False,None
+644,Averi,CARDENAS,1999-01-10,Girl,Hispanic,MITCHELL,CARDENAS,1282 Passaic Street,Oopstown,ST,7728.0,False,False,None
+645,Harrison,HIRSCH,2009-05-21,Boy,White,REGINALD,HIRSCH,4930 Main Street,Oopstown,ST,98101.0,False,False,None
+646,Nicholas,BAUER,1999-03-26,Boy,White,MAURICE,WHALEN,2476 Hidden Pond Road,Oopstown,ST,37206.0,False,False,None
+647,Salvador,ARREGUIN,1998-07-09,Boy,Hispanic,KIMBERLEY,HERNANDEZ,3145 Oxford Court,Oopstown,ST,39701.0,False,False,None
+648,Marjorie,VILLICANA,2006-07-25,Girl,Hispanic,DOMINIQUE,VILLICANA,4251 Clarence Court,Oopstown,ST,90017.0,False,False,None
+649,Reagan,WATANABE-FERNANDES,2002-06-24,Boy,Other,KITTY,LEE,4393 Whitetail Lane,Oopstown,ST,75204.0,False,False,None
+650,Dylan,WELLER,2006-04-01,Boy,White,BRETT,WELLER,3529 Twin Willow Lane,Oopstown,ST,28540.0,False,False,None
+651,Derek,HANSEN,2003-05-11,Boy,White,ELIZA,HANSEN,4547 Marie Street,Oopstown,ST,21076.0,False,False,None
+652,Madilynn,SCHNEIDER,2006-01-16,Girl,White,TAMIKA,CONDON,4958 Charack Road,Oopstown,ST,47408.0,False,False,None
+653,Gabriela,TROUT,2001-10-21,Girl,White,JAMI,TROUT,3127 Deercove Drive,Oopstown,ST,75142.0,False,False,None
+654,Renata,JUAREZ,2008-05-26,Girl,Hispanic,BOBBI,JUAREZ,871 Mount Olive Road,Oopstown,ST,30093.0,False,False,None
+655,Alexis,RICHTER,2010-04-02,Boy,White,CECILE,CAUDILL,998 Conaway Street,Oopstown,ST,47201.0,False,False,None
+656,Michael,SHAFER,2008-12-07,Boy,White,GABRIELLE,SHAFER,3816 Skips Lane,Oopstown,ST,85901.0,False,False,None
+657,Ethan,HOFFMANN,2001-01-18,Boy,White,RUBEN,PEDERSEN,2627 Fairmont Avenue,Oopstown,ST,63549.0,False,False,None
+658,Briggs,WILLIAMS,2003-10-02,Boy,Black,OPHELIA,WILLIAMS,1890 Del Dew Drive,Oopstown,ST,20601.0,False,False,None
+659,Leo,HARTMAN,2007-08-09,Boy,White,CONCEPCION,MCDONNELL,2240 Parrish Avenue,Oopstown,ST,95054.0,False,False,None
+660,Danika,BOOKER-MOSLEY,1999-12-27,Girl,Black,ELVIA,BOOKER-MOSLEY,3567 Edsel Road,Oopstown,ST,91405.0,False,False,None
+661,Kayden,SORTO,2004-11-01,Girl,Hispanic,ANGEL,SORTO,3888 Meadowcrest Lane,Oopstown,ST,41267.0,False,False,None
+662,Claire,BRAUN,1998-03-29,Girl,White,VERNON,RINEHART,2338 Charla Lane,Oopstown,ST,75002.0,False,False,None
+663,Cullen,HERNANDEZ,2001-10-16,Boy,Hispanic,LORIE,HERNANDEZ,2409 Grey Fox Farm Road,Oopstown,ST,77337.0,False,False,None
+664,Nathan,KRAUSE,1999-10-21,Boy,White,CHERIE,KRAUSE,2627 Fairmont Avenue,Oopstown,ST,63549.0,False,False,None
+665,Felipe,JUAREZ,2001-07-16,Boy,Hispanic,TYLER,VENEGAS,2234 State Street,Oopstown,ST,63102.0,False,False,None
+666,Moshe,WISNIEWSKI,2005-03-12,Boy,White,WESLEY,WISNIEWSKI,3988 Woodhill Avenue,Oopstown,ST,21601.0,False,False,None
+667,Kevin,SCHUMACHER,2010-07-27,Boy,White,JACLYN,SCHUMACHER,516 Lincoln Street,Oopstown,ST,8030.0,False,False,None
+668,Dorothy,GONZALEZ,1999-05-28,Girl,Hispanic,VERNON,GONZALEZ,706 Walnut Avenue,Oopstown,ST,7601.0,False,False,None
+669,Xzavier,LIRIANO,2005-04-04,Boy,Hispanic,LESLEY,GONZALEZ,891 Fulton Street,Oopstown,ST,26030.0,False,False,None
+670,Terrell,WASHINGTON,1999-11-13,Boy,Black,JERRI,WASHINGTON,439 Fulton Street,Oopstown,ST,26589.0,False,False,None
+671,Caroline,ELLER,2007-05-27,Girl,White,CAROLINA,ELLER,3940 Boundary Street,Oopstown,ST,32216.0,False,False,None
+672,Rex,AGUILERA,1998-07-06,Boy,Hispanic,MANUELA,AGUILERA,2557 Veltri Drive,Oopstown,ST,99603.0,False,False,None
+673,Anders,WILLIAMS,1999-02-14,Boy,Black,CLINTON,LOUIS,4397 Maxwell Street,Oopstown,ST,6103.0,False,False,None
+674,Maia,AGUILERA,1998-06-06,Girl,Hispanic,DEANA,AGUILERA,4894 Emeral Dreams Drive,Oopstown,ST,60424.0,False,False,None
+675,Kaleb,BECKER,2006-09-17,Boy,White,GABRIELLE,BECKER,3321 Hood Avenue,Oopstown,ST,92128.0,False,False,None
+676,Yousef,CONYERS,2009-10-09,Boy,Black,ROSELLA,CONYERS,454 Brighton Circle Road,Oopstown,ST,56277.0,False,False,None
+677,Rex,RAMIREZ,2002-11-09,Boy,Hispanic,ELMA,RAMIREZ,890 B Street,Oopstown,ST,55110.0,False,False,None
+678,Jayden,OUELLETTE,2001-07-19,Boy,White,ALTA,GALLAGHER,1011 Broadway Street,Oopstown,ST,29461.0,False,False,None
+679,Leah,HAGER,2000-01-08,Girl,White,DUANE,HAGER,1238 Bailey Drive,Oopstown,ST,52401.0,False,False,None
+680,Fisher,JACKSON,2005-07-05,Boy,Black,DAVE,JACKSON,1305 Blackwell Street,Oopstown,ST,99515.0,False,False,None
+681,Eric,OCONNELL,1998-09-01,Boy,White,MARIBEL,OCONNELL,3181 Wyatt Street,Oopstown,ST,33434.0,False,False,None
+682,Olivia,LEHMAN,2005-09-02,Girl,White,GLENNA,LEHMAN,1208 Aviation Way,Oopstown,ST,90071.0,False,False,None
+683,Magdalena,HO,2009-01-29,Girl,AAPI,INES,KO,2666 Chestnut Street,Oopstown,ST,34623.0,False,False,None
+684,Shayla,HERNANDEZ,1998-03-20,Girl,Hispanic,ANGELIA,HERNANDEZ,4945 Waldeck Street,Oopstown,ST,75212.0,False,False,None
+685,Braxton,TUTTLE,2009-02-13,Boy,White,RAFAEL,TUTTLE,818 Heavner Court,Oopstown,ST,50597.0,False,False,None
+686,Ibrahim,KLEIN,2003-02-27,Boy,White,ROSARIO,KLEIN,2604 Tree Frog Lane,Oopstown,ST,66215.0,False,False,None
+687,Keegan,JORGENSEN,1998-10-18,Boy,White,LESLIE,JORGENSEN,2361 Long Street,Oopstown,ST,34471.0,False,False,None
+688,Destiny,RIZZO,2003-07-22,Girl,White,KATHARINE,RIZZO,3736 Hanover Street,Oopstown,ST,11530.0,False,False,None
+689,Vincent,SIEGEL,2010-10-03,Boy,White,SHANNA,ROOT,3185 Gnatty Creek Road,Oopstown,ST,11743.0,False,False,None
+690,Eliana,ENGLE,2008-11-30,Girl,White,NOLA,ENGLE,2391 Wood Street,Oopstown,ST,48629.0,False,False,None
+691,Terry,RIOS,2004-03-11,Boy,Hispanic,LESTER,RIOS,4173 Cemetery Street,Oopstown,ST,93901.0,False,False,None
+692,Lorelai,COLEMAN,2005-12-01,Girl,Black,SAVANNAH,COLEMAN,611 Brooke Street,Oopstown,ST,77092.0,False,False,None
+693,Willow,DANIELSON,2001-07-16,Girl,White,HELENA,DANIELSON,203 August Lane,Oopstown,ST,71101.0,False,False,None
+694,Carter,VITALE,1999-07-16,Boy,White,JILLIAN,VITALE,4489 Hannah Street,Oopstown,ST,28801.0,False,False,None
+695,Katelynn,STEINER,2000-01-25,Girl,White,MARISOL,STEINER,3835 Stoney Lonesome Road,Oopstown,ST,18360.0,False,False,None
+696,Skylar,SNYDER,2002-09-20,Girl,White,GREG,SNYDER,4479 Kembery Drive,Oopstown,ST,60603.0,False,False,None
+697,Conner,BLOOM,2004-08-16,Boy,White,ABBY,ZIMMER,1203 Doctors Drive,Oopstown,ST,90017.0,False,False,None
+698,Jensen,SCHMITT-DIETRICH,2004-08-25,Boy,White,KEISHA,SCHMITT-DIETRICH,643 Rhode Island Avenue,Oopstown,ST,20763.0,False,False,None
+699,Judith,LEUNG,2004-06-22,Girl,AAPI,ENID,LEUNG,2752 Harter Street,Oopstown,ST,45402.0,False,False,None
+700,Jenny,WILLIAMS,1999-12-30,Girl,Black,CARMELLA,WILLIAMS,181 Dola Mine Road,Oopstown,ST,27560.0,False,False,None
+701,Vanessa,ERICKSON,2004-05-21,Girl,White,GENE,ERICKSON,665 Elk Rd Little,Oopstown,ST,12207.0,False,False,None
+702,Sophia,STEINER,2000-02-04,Girl,White,VERNON,STEINER,4468 Pinewood Drive,Oopstown,ST,60089.0,False,False,None
+703,Aliza,WILLIAMS,2004-02-19,Girl,Black,ROSANNE,WILLIAMS,1607 Patterson Street,Oopstown,ST,77478.0,False,False,None
+704,David,HIRSCH,2001-06-07,Boy,White,JANETTE,HIRSCH,4462 Brown Street,Oopstown,ST,94520.0,False,False,None
+705,Alessandro,ORELLANA,2003-10-04,Boy,Hispanic,JANINE,HERNANDEZ,1448 Valley View Drive,Oopstown,ST,2186.0,False,False,None
+706,Joselyn,QUINTERO,1999-03-06,Girl,Hispanic,BETTE,QUINTERO,2273 Lamberts Branch Road,Oopstown,ST,33166.0,False,False,None
+707,Jefferson,MACIAS,1998-08-05,Boy,Hispanic,JACLYN,HERNANDEZ,4728 Murry Street,Oopstown,ST,23505.0,False,False,None
+708,Jeremiah,NIELSEN,2004-10-30,Boy,White,ELIZA,GRIMM,4516 Aaron Smith Drive,Oopstown,ST,17011.0,False,False,None
+709,Lucy,WEBER,2006-02-10,Girl,White,BRETT,WEBER,1334 Pretty View Lane,Oopstown,ST,95436.0,False,False,None
+710,Cory,SIFUENTES,2007-03-22,Boy,Hispanic,HARVEY,RESENDEZ,2892 Middleville Road,Oopstown,ST,91744.0,False,False,None
+711,Daniel,SCHROEDER,2007-02-26,Boy,White,DONA,SCHROEDER,31 Pinchelone Street,Oopstown,ST,23502.0,False,False,None
+712,Samantha,JENSEN,2002-06-21,Girl,White,FRANKIE,JENSEN,202 Clarksburg Park Road,Oopstown,ST,85364.0,False,False,None
+713,Lochlan,HWANG,2005-07-24,Boy,AAPI,JOSEFA,HWANG,2972 Jessie Street,Oopstown,ST,43130.0,False,False,None
+714,Sky,ESPINAL,2002-06-12,Girl,Hispanic,JODIE,MALDONADO,2623 Feathers Hooves Drive,Oopstown,ST,10107.0,False,False,None
+715,Abigail,KUHN,1999-10-20,Girl,White,FRIEDA,KUHN,4002 Cedar Street,Oopstown,ST,72212.0,False,False,None
+716,Bryson,MCNALLY,2007-07-04,Boy,White,LEWIS,SCHWAB,2389 Sardis Station,Oopstown,ST,55414.0,False,False,None
+717,Jase,KNAPP,2010-11-04,Boy,White,LILLY,KNAPP,3324 Romano Street,Oopstown,ST,2110.0,False,False,None
+718,Sabrina,LUTZ,2009-06-27,Girl,White,CHESTER,CONKLIN,2136 Sugar Camp Road,Oopstown,ST,56175.0,False,False,None
+719,Remy,HO,2008-10-04,Girl,AAPI,YOUNG,HO,446 Alpha Avenue,Oopstown,ST,75662.0,False,False,None
+720,Nathanael,GONZALEZ,2000-01-21,Boy,Hispanic,SYBIL,GONZALEZ,3665 Harper Street,Oopstown,ST,42101.0,False,False,None
+721,Noah,HANSEN,2004-12-01,Boy,White,MARCY,HANSEN,4984 Summit Street,Oopstown,ST,52807.0,False,False,None
+722,Jordan,HOFFMAN-FLAHERTY,2009-08-01,Boy,White,ROSALIND,SORENSEN,4876 Coplin Avenue,Oopstown,ST,85023.0,False,False,None
+723,Sophie,SCHULZ,2000-12-01,Girl,White,SUMMER,HOFFMAN,644 Wayback Lane,Oopstown,ST,11717.0,False,False,None
+724,Rosa,BARRAGAN,2006-01-25,Girl,Hispanic,AUDRA,BARRAGAN,1372 Cityview Drive,Oopstown,ST,19348.0,False,False,None
+725,Barbara,COLEMAN,2009-12-15,Girl,Black,ERICKA,SHAVERS,2361 Long Street,Oopstown,ST,34471.0,False,False,None
+726,Stella,REILLY,1999-04-14,Girl,White,BRIDGETTE,KERN,2474 Saint Clair Street,Oopstown,ST,38930.0,False,False,None
+727,Hunter,SILVERMAN,1998-04-19,Boy,White,MARGRET,SILVERMAN,993 Woodland Drive,Oopstown,ST,51101.0,False,False,None
+728,Dylan,CURRAN,2003-09-13,Boy,White,CHARITY,CURRAN,4173 Prospect Valley Road,Oopstown,ST,90250.0,False,False,None
+729,Jason,MCNAMARA,2008-01-29,Boy,White,MARITZA,MCNAMARA,983 Cook Hill Road,Oopstown,ST,6604.0,False,False,None
+730,Beckett,WEISS,2001-12-02,Boy,White,BEN,WEISS,2553 Butternut Lane,Oopstown,ST,62220.0,False,False,None
+731,Travis,RHOADS,2009-10-23,Boy,White,ROSETTA,RHOADS,1813 Bryan Avenue,Oopstown,ST,55415.0,False,False,None
+732,Carolina,NAGEL,2003-10-11,Girl,White,ELMA,NAGEL,3918 Cooks Mine Road,Oopstown,ST,87321.0,False,False,None
+733,Addison,NIELSEN,2006-10-28,Girl,White,MAGDALENA,JACOBSON,4441 Sugarfoot Lane,Oopstown,ST,47905.0,False,False,None
+734,Vaughn,LE,1999-07-13,Boy,AAPI,JANNIE,LE,2770 Round Table Drive,Oopstown,ST,45011.0,False,False,None
+735,Priscilla,BARONE,2007-07-16,Girl,White,CLEO,BARONE,3449 Edgewood Avenue,Oopstown,ST,93721.0,False,False,None
+736,Kiley,ROSAS,2002-12-25,Girl,Hispanic,MILLIE,ROSAS,4105 Flynn Street,Oopstown,ST,44004.0,False,False,None
+737,Harper,ERICKSON,1999-01-07,Girl,White,CECILE,MACDONALD,1887 American Drive,Oopstown,ST,32301.0,False,False,None
+738,Aimee,COLEMAN,2008-03-01,Girl,Black,ANNABELLE,COLEMAN,4344 Lonely Oak Drive,Oopstown,ST,36602.0,False,False,None
+739,Jazlynn,GONZALEZ,2004-10-24,Girl,Hispanic,TYLER,GONZALEZ,3118 Eagles Nest Drive,Oopstown,ST,95814.0,False,False,None
+740,Brady,CARLSON,2001-06-14,Boy,White,TRUDY,ENGEL,1056 Dogwood Road,Oopstown,ST,85003.0,False,False,None
+741,Jackson,HANSEN,2006-06-06,Boy,White,ARNOLD,BRENNAN,1673 Glen Falls Road,Oopstown,ST,19090.0,False,False,None
+742,Boston,BECKER,2008-11-05,Boy,White,SAM,BECKER,153 Beechwood Drive,Oopstown,ST,15205.0,False,False,None
+743,Emmaline,WASHINGTON,2007-07-15,Girl,Black,JULIO,WASHINGTON,3119 Pick Street,Oopstown,ST,80537.0,False,False,None
+744,Chance,DECKER,2000-08-14,Boy,White,GALE,JENSEN,1972 Cessna Drive,Oopstown,ST,46802.0,False,False,None
+745,Matthew,FRIEDMAN,2002-03-08,Boy,White,LARA,LANGE,1587 Burke Street,Oopstown,ST,2192.0,False,False,None
+746,Aryana,GONZALEZ,2009-02-05,Girl,Hispanic,LACEY,GONZALEZ,3473 Church Street,Oopstown,ST,10013.0,False,False,None
+747,Khloe,STOCK,2001-09-21,Girl,White,DAPHNE,STOCK,1820 Jenna Lane,Oopstown,ST,45245.0,False,False,None
+748,Xzavier,RAMIREZ,2000-01-26,Boy,Hispanic,MARIBEL,JIMENEZ,1639 Smith Street,Oopstown,ST,1606.0,False,False,None
+749,Kaelynn,HASSAN,2007-07-21,Girl,Other,CELINA,HASSAN,627 Webster Street,Oopstown,ST,7102.0,False,False,None
+750,Collins,GIPSON,1998-08-04,Girl,Black,TAMEKA,GIPSON,1267 Spinnaker Lane,Oopstown,ST,60115.0,False,False,None
+751,Hudson,YOST,2005-12-09,Boy,White,TRUDY,YOST,2202 Briarhill Lane,Oopstown,ST,44212.0,False,False,None
+752,Tomas,AYALA,2003-11-11,Boy,Hispanic,GORDON,AYALA,1305 Blackwell Street,Oopstown,ST,99515.0,False,False,None
+753,Kori,MULDROW,2005-09-11,Girl,Black,TANIA,MULDROW,4974 Sardis Sta,Oopstown,ST,75081.0,False,False,None
+754,Mekhi,HINOJOSA,2006-10-24,Boy,Hispanic,ISABELLE,GAMEZ,3703 Ashcraft Court,Oopstown,ST,92020.0,False,False,None
+755,Aliana,ALCANTAR,2004-06-23,Girl,Hispanic,ROBBIE,ALCANTAR,1182 Delaware Avenue,Oopstown,ST,94568.0,False,False,None
+756,Aubri,MAPP,2007-11-12,Girl,Black,JAMIE,MAPP,3020 Romines Mill Road,Oopstown,ST,75202.0,False,False,None
+757,Terry,HERNANDEZ,2009-05-11,Boy,Hispanic,HILARY,HERNANDEZ,3334 Khale Street,Oopstown,ST,29501.0,False,False,None
+758,Mason,WILHELM,1999-05-04,Boy,White,ELNORA,WILHELM,58 Rainbow Road,Oopstown,ST,91801.0,False,False,None
+759,Cristian,SNYDER,2004-03-25,Boy,White,FRIEDA,SNYDER,2904 Memory Lane,Oopstown,ST,61101.0,False,False,None
+760,Timothy,RHOADS,2007-02-08,Boy,White,LATISHA,RHOADS,3433 Hall Valley Drive,Oopstown,ST,25701.0,False,False,None
+761,Roger,GONZALEZ,1998-07-02,Boy,Hispanic,GRETA,GONZALEZ,609 Heather Sees Way,Oopstown,ST,74401.0,False,False,None
+762,Bryson,JENSEN,2000-08-10,Boy,White,CHARLIE,JENSEN,4000 Hickory Street,Oopstown,ST,84118.0,False,False,None
+763,Jasper,ONEILL,2002-12-15,Boy,White,FRANKIE,ONEILL,4641 John Avenue,Oopstown,ST,48823.0,False,False,None
+764,Eden,HUERTA,2002-03-24,Boy,Hispanic,ELMER,HUERTA,278 George Avenue,Oopstown,ST,36693.0,False,False,None
+765,Ella,MCDONOUGH,1998-12-10,Girl,White,TERRIE,BRENNAN,4822 Bates Brothers Road,Oopstown,ST,43085.0,False,False,None
+766,Sergio,SCHMIDT,1998-06-16,Boy,White,HALEY,SCHMIDT,3764 Black Oak Hollow Road,Oopstown,ST,94086.0,False,False,None
+767,Oakley,ARIZMENDI,2010-08-22,Boy,Hispanic,VERNON,ARIZMENDI,1936 Crestview Terrace,Oopstown,ST,78861.0,False,False,None
+768,Whitney,RAMIREZ,2006-12-07,Girl,Hispanic,ISABELLE,RAMIREZ,4161 Howard Street,Oopstown,ST,48846.0,False,False,None
+769,Christian,METZ,1999-02-07,Boy,White,OLA,BECKER,1291 Pyramid Valley Road,Oopstown,ST,52335.0,False,False,None
+770,Darrell,WILLIAMS,2003-02-08,Boy,Black,MALINDA,WILLIAMS,3103 Willow Oaks Lane,Oopstown,ST,70501.0,False,False,None
+771,Azaria,NGUYEN,1999-08-30,Girl,AAPI,WILLARD,NGUYEN,2917 Renwick Drive,Oopstown,ST,19103.0,False,False,None
+772,Grant,METZ,1999-08-30,Boy,White,HERMAN,PELLETIER,1812 Duke Lane,Oopstown,ST,7712.0,False,False,None
+773,Nolan,SCHULTZ,2009-09-16,Boy,White,ELNORA,WERNER,2722 Berkley Street,Oopstown,ST,19462.0,False,False,None
+774,Haylee,SWENSON,2008-12-05,Girl,White,NELL,SWENSON,4811 Fairfield Road,Oopstown,ST,53188.0,False,False,None
+775,Ernest,TEASLEY-CANTY,2003-03-22,Boy,Black,MADGE,JACKSON,1761 Farland Street,Oopstown,ST,1730.0,False,False,None
+776,Axl,CHARLES,2005-07-11,Boy,Black,MIA,COLBERT,184 Woodridge Lane,Oopstown,ST,38134.0,False,False,None
+777,Grady,MOHR,1998-11-20,Boy,White,LORNA,HOLM,101 Lyndon Street,Oopstown,ST,19082.0,False,False,None
+778,Isabelle,ONEILL,1999-07-09,Girl,White,CALLIE,ONEILL,1067 Lochmere Lane,Oopstown,ST,6103.0,False,False,None
+779,Kolten,HAYWOOD,1998-03-04,Boy,Black,ALISSA,HAYWOOD,2337 Valley View Drive,Oopstown,ST,2110.0,False,False,None
+780,Hassan,STITH,1999-05-27,Boy,Black,JESSIE,STITH,1401 Rainbow Drive,Oopstown,ST,44408.0,False,False,None
+781,Allison,DRISCOLL,2007-12-07,Girl,White,PETRA,DRISCOLL,153 Beechwood Drive,Oopstown,ST,15205.0,False,False,None
+782,Mira,MEZA,2002-05-20,Girl,Hispanic,ROSALYN,MEZA,4390 Clark Street,Oopstown,ST,11530.0,False,False,None
+783,Daniel,ALLRED,2007-06-11,Boy,White,KIRSTEN,ALLRED,3272 Spring Avenue,Oopstown,ST,19108.0,False,False,None
+784,Terrance,GONZALEZ,2008-09-07,Boy,Hispanic,KEISHA,GONZALEZ,1607 Patterson Street,Oopstown,ST,77478.0,False,False,None
+785,Naya,CALLOWAY,2010-05-24,Girl,Black,CORRINE,CALLOWAY,656 Chapel Street,Oopstown,ST,77521.0,False,False,None
+786,Hunter,CLEARY,1999-05-13,Boy,White,NELL,CLEARY,1066 Briercliff Road,Oopstown,ST,10467.0,False,False,None
+787,Aria,JANSEN,2006-11-17,Girl,White,ALTA,JANSEN,377 Brannon Street,Oopstown,ST,90017.0,False,False,None
+788,Alyvia,LIM,2005-07-12,Girl,AAPI,SALVADOR,LIM,1621 Isaacs Creek Road,Oopstown,ST,62338.0,False,False,None
+789,Logan,ERICKSON,2006-05-12,Boy,White,CATHLEEN,ERICKSON,1208 Aviation Way,Oopstown,ST,90071.0,False,False,None
+790,Logan,HOFFMAN,2001-12-15,Boy,White,JOCELYN,MCNAMARA,1783 Ford Street,Oopstown,ST,95054.0,False,False,None
+791,Lorelai,WESLEY,2001-04-10,Girl,Black,ERICKA,WESLEY,891 Fulton Street,Oopstown,ST,26030.0,False,False,None
+792,Marshall,ODONNELL,2002-03-18,Boy,White,PATRICA,ODONNELL,4409 Aspen Court,Oopstown,ST,2114.0,False,False,None
+793,Lilith,MANDUJANO,2000-02-05,Girl,Hispanic,AUDRA,MANDUJANO,2904 Memory Lane,Oopstown,ST,61101.0,False,False,None
+794,Cassius,NAJERA,2003-11-29,Boy,Hispanic,LETHA,HERNANDEZ,1445 Scenic Way,Oopstown,ST,61813.0,False,False,None
+795,Madalynn,ALMANZA,2003-05-28,Girl,Hispanic,SHANE,BARCENAS,386 Main Street,Oopstown,ST,98204.0,False,False,None
+796,Courtney,MALDONADO,2001-12-07,Girl,Hispanic,LESTER,MALDONADO,1958 McDowell Street,Oopstown,ST,37204.0,False,False,None
+797,Ethan,CHRISTENSEN,2002-03-06,Boy,White,FRANKLIN,CHRISTENSEN,3199 Vineyard Drive,Oopstown,ST,44026.0,False,False,None
+798,Hattie,ESCOBEDO,1999-08-16,Girl,Hispanic,SUMMER,ESCOBEDO,2273 Lamberts Branch Road,Oopstown,ST,33166.0,False,False,None
+799,Skylar,HERNANDEZ,1998-03-01,Boy,Hispanic,LEOLA,HERNANDEZ,2848 Oakridge Farm Lane,Oopstown,ST,53188.0,False,False,None
+800,Kara,RASMUSSEN,2010-09-18,Girl,White,BRENT,RASMUSSEN,3325 Little Acres Lane,Oopstown,ST,62650.0,False,False,None
+801,Hudson,KOCH,2000-12-01,Boy,White,JEWELL,KOCH,826 Paradise Lane,Oopstown,ST,91752.0,False,False,None
+802,Ellie,ROOT,2007-07-03,Girl,White,COREY,ROOT,4661 Evergreen Lane,Oopstown,ST,92618.0,False,False,None
+803,Memphis,HERNANDEZ,2000-01-26,Boy,Hispanic,LIZZIE,HERNANDEZ,4654 Brentwood Drive,Oopstown,ST,78758.0,False,False,None
+804,Jayden,REGAN,2003-10-05,Boy,White,SHANNA,REGAN,2595 Mount Street,Oopstown,ST,48625.0,False,False,None
+805,Lylah,GONZALEZ,2003-12-17,Girl,Hispanic,AILEEN,ESPINOZA,2926 Tuna Street,Oopstown,ST,48075.0,False,False,None
+806,Nevaeh,LENTZ,1999-05-12,Girl,White,ADELA,FRITZ,4082 Windy Ridge Road,Oopstown,ST,46711.0,False,False,None
+807,Arianna,DECKER,2003-09-24,Girl,White,STEFANIE,DECKER,2765 McVaney Road,Oopstown,ST,28801.0,False,False,None
+808,Jayse,KWAN,2002-04-04,Boy,AAPI,ADRIAN,KWAN,4414 Hope Street,Oopstown,ST,75149.0,False,False,None
+809,Bristol,SHEA,1999-12-17,Girl,White,ALTA,SHEA,1728 Hamilton Drive,Oopstown,ST,21128.0,False,False,None
+810,Dayton,MANDUJANO,1999-03-19,Boy,Hispanic,ELISE,MANDUJANO,2949 Beechwood Drive,Oopstown,ST,21146.0,False,False,None
+811,Jose,RASMUSSEN,2007-11-03,Boy,White,NATHANIEL,RASMUSSEN,4584 Worley Avenue,Oopstown,ST,23970.0,False,False,None
+812,Jada,SCHNEIDER,2004-07-12,Girl,White,ANGEL,SCHNEIDER,129 Forest Drive,Oopstown,ST,20200.0,False,False,None
+813,Gunner,WALSH,2000-08-26,Boy,White,FAY,WALSH,4676 Bobcat Drive,Oopstown,ST,20008.0,False,False,None
+814,Niko,CERVANTES,2000-07-26,Boy,Hispanic,LEWIS,GONZALEZ,4641 John Avenue,Oopstown,ST,48823.0,False,False,None
+815,Victoria,SIEGEL,2006-05-20,Girl,White,ROSARIO,SIEGEL,3332 Wayside Lane,Oopstown,ST,94108.0,False,False,None
+816,Randy,DECKER,2004-03-12,Boy,White,KIRSTEN,DECKER,3872 Biddie Lane,Oopstown,ST,23227.0,False,False,None
+817,Wesley,KATZ,2007-04-21,Boy,White,JEWELL,KATZ,723 Michael Street,Oopstown,ST,77033.0,False,False,None
+818,Angelina,RICHTER,2010-11-01,Girl,White,CORNELIA,RICHTER,2249 Ruckman Road,Oopstown,ST,73113.0,False,False,None
+819,Wilson,HERNANDEZ,2008-11-22,Boy,Hispanic,LATISHA,HERNANDEZ,1575 Quiet Valley Lane,Oopstown,ST,91301.0,False,False,None
+820,Jayleen,CARLSON,2004-03-15,Girl,White,DAPHNE,LARSON,3624 Joes Road,Oopstown,ST,12207.0,False,False,None
+821,Farrah,DORSEY,2010-12-13,Girl,Black,VILMA,WILLIAMS,3703 Colonial Drive,Oopstown,ST,77006.0,False,False,None
+822,Edwin,BURKHART,1999-08-31,Boy,White,RHODA,GUSTAFSON,1033 Murphy Court,Oopstown,ST,92501.0,False,False,None
+823,Xzavier,LANDAVERDE,2001-10-19,Boy,Hispanic,CALLIE,LANDAVERDE,1000 Kenwood Place,Oopstown,ST,33311.0,False,False,None
+824,Brett,GONZALEZ,2007-09-26,Boy,Hispanic,JAMI,GONZALEZ,2247 Anthony Avenue,Oopstown,ST,79602.0,False,False,None
+825,Jaiden,BRANDT,2009-01-20,Boy,White,LATISHA,BRANDT,4482 Young Road,Oopstown,ST,83702.0,False,False,None
+826,John,MOSHER,1998-05-17,Boy,White,JODIE,MEYER,4544 Matthews Street,Oopstown,ST,61081.0,False,False,None
+827,Jairo,GIST,2005-08-11,Boy,Black,SASHA,GIST,4729 Shearwood Forest Drive,Oopstown,ST,3820.0,False,False,None
+828,Lizbeth,WILLIAMS,2006-04-27,Girl,Black,HILLARY,WILLIAMS,2917 Hickman Street,Oopstown,ST,60005.0,False,False,None
+829,Hadley,DOLAN-WEBER,2001-04-20,Girl,White,ADELA,WALSH,4031 Southern Street,Oopstown,ST,11101.0,False,False,None
+830,Emily,LARSEN,2006-01-31,Girl,White,MARC,LARSEN,2841 Haymond Rocks Road,Oopstown,ST,97720.0,False,False,None
+831,Amya,RAGIN,2003-05-01,Girl,Black,SUSANNA,RAGIN,4411 Raoul Wallenberg Place,Oopstown,ST,6902.0,False,False,None
+832,Kailyn,BAUER,2007-10-20,Girl,White,ANGELINE,CARLSON,83 Park Avenue,Oopstown,ST,95826.0,False,False,None
+833,Everett,HAGEN,2008-12-27,Boy,White,DEAN,HAGEN,1552 Fincham Road,Oopstown,ST,92243.0,False,False,None
+834,Julia,SPRAGUE,2007-12-09,Girl,White,CECILE,RUSSO,520 Robinson Lane,Oopstown,ST,43302.0,False,False,None
+835,Julissa,CAPPS,2006-07-30,Girl,White,DUSTIN,CAPPS,3813 Pride Avenue,Oopstown,ST,11368.0,False,False,None
+836,Kiana,MOSLEY,2004-06-14,Girl,Black,HARRIETT,SINGLETARY,1942 Leo Street,Oopstown,ST,80202.0,False,False,None
+837,Adonis,MURILLO,2008-05-18,Boy,Hispanic,JILLIAN,CASTELAN,4690 Burwell Heights Road,Oopstown,ST,77627.0,False,False,None
+838,Ariana,MEYER,1998-11-04,Girl,White,VERNON,MEYER,3401 Hartland Avenue,Oopstown,ST,54115.0,False,False,None
+839,Alexis,VOGEL,1998-09-30,Boy,White,HALEY,VOGEL,4694 Bolman Court,Oopstown,ST,61820.0,False,False,None
+840,Tristian,MCKOY,2003-12-07,Boy,Black,MINERVA,MCKOY,1950 Woodside Circle,Oopstown,ST,32466.0,False,False,None
+841,Eli,BECKER,2001-11-11,Boy,White,RUBEN,BECKER,2645 Maloy Court,Oopstown,ST,66425.0,False,False,None
+842,Kenzie,FISCHER,1999-11-09,Girl,White,RUBEN,FOSS,1942 Sugar Camp Road,Oopstown,ST,55060.0,False,False,None
+843,Kellen,OCONNOR-KRAMER,2009-11-02,Boy,White,TONIA,OCONNOR-KRAMER,1861 Augusta Park,Oopstown,ST,25143.0,False,False,None
+844,Bailey,HAMMER,2002-09-22,Girl,White,PETRA,HAMMER,2234 State Street,Oopstown,ST,63102.0,False,False,None
+845,John,BOYLE-KAUFMAN,2008-12-18,Boy,White,GABRIELA,GRIMM,1940 Walnut Street,Oopstown,ST,39401.0,False,False,None
+846,Robert,BERG,2002-01-24,Boy,White,FLOSSIE,BERG,2820 Raver Croft Drive,Oopstown,ST,37403.0,False,False,None
+847,Bryleigh,MUHAMMAD,2005-04-21,Girl,Black,JIMMIE,MUHAMMAD,2564 Hill Croft Farm Road,Oopstown,ST,95814.0,False,False,None
+848,Asia,ROBINSON,2002-07-03,Girl,Black,MARI,ROBINSON,2211 Eagle Drive,Oopstown,ST,48184.0,False,False,None
+849,Xavier,SHAPIRO,1999-04-13,Boy,White,KEISHA,SHAPIRO,4777 Ferry Street,Oopstown,ST,36201.0,False,False,None
+850,Elisabeth,ALMARAZ,2005-09-14,Girl,Hispanic,RENE,ALMARAZ,759 Griffin Street,Oopstown,ST,85041.0,False,False,None
+851,James,DECKER,2003-12-01,Boy,White,JEANNINE,COFFMAN,1078 Hillview Street,Oopstown,ST,29201.0,False,False,None
+852,Scarlette,KOSHY,2006-09-07,Girl,AAPI,SIDNEY,KOSHY,3555 Kimberly Way,Oopstown,ST,49401.0,False,False,None
+853,Rex,GONZALEZ,2005-09-21,Boy,Hispanic,ROSALYN,GONZALEZ,2749 Wescam Court,Oopstown,ST,89408.0,False,False,None
+854,Lillian,REILLY,2006-11-01,Girl,White,ALISA,REILLY,2417 Kuhl Avenue,Oopstown,ST,30209.0,False,False,None
+855,Maxton,ROBINSON,2000-12-12,Boy,Black,JORDAN,WILLIAMS,4247 Saints Alley,Oopstown,ST,33564.0,False,False,None
+856,Bryanna,JAIMES,2003-07-21,Girl,Hispanic,STEFANIE,JAIMES,4117 Oak Avenue,Oopstown,ST,60015.0,False,False,None
+857,Maryam,ROJAS-CONTRERAS,2010-06-04,Girl,Hispanic,ROBERTO,ROJAS-CONTRERAS,215 Levy Court,Oopstown,ST,1610.0,False,False,None
+858,Lucas,NIELSEN,2003-12-21,Boy,White,JEWELL,SHEETS,1846 Wildrose Lane,Oopstown,ST,48226.0,False,False,None
+859,Natalie,OBRIEN,2003-07-09,Girl,White,LACEY,OBRIEN,4114 Cottonwood Lane,Oopstown,ST,49503.0,False,False,None
+860,Kaylynn,HERNANDEZ,2010-03-04,Girl,Hispanic,GRACIE,GONZALEZ,626 Centennial Farm Road,Oopstown,ST,51463.0,False,False,None
+861,Ernest,WILLIAMS,2009-02-04,Boy,Black,BYRON,WILLIAMS,3534 Green Avenue,Oopstown,ST,94609.0,False,False,None
+862,Isabella,LEHMAN,2008-01-12,Girl,White,RAFAEL,LEHMAN,3449 Edgewood Avenue,Oopstown,ST,93721.0,False,False,None
+863,Jessie,RAMIREZ,2005-01-23,Girl,Hispanic,LILY,RAMIREZ,241 Linden Avenue,Oopstown,ST,32789.0,False,False,None
+864,Ariel,SCHULTZ,2003-02-12,Girl,White,MAURICE,PETERSEN,1623 Luke Lane,Oopstown,ST,74701.0,False,False,None
+865,Emanuel,BRENNAN,2000-07-21,Boy,White,CALLIE,BRENNAN,3736 Hanover Street,Oopstown,ST,11530.0,False,False,None
+866,Logan,OUELLETTE,1999-06-11,Boy,White,CARMELA,FERRARA,1790 Monroe Avenue,Oopstown,ST,34205.0,False,False,None
+867,Tommy,RAMIREZ,2008-01-08,Boy,Hispanic,LORIE,RAMIREZ,975 Jadewood Drive,Oopstown,ST,60606.0,False,False,None
+868,Jack,MESSER,2009-09-14,Boy,White,SELMA,SILVERMAN,1072 Winding Way,Oopstown,ST,2840.0,False,False,None
+869,Amelia,SCHMIDT,2007-02-17,Girl,White,ELIZA,GUNDERSON,4170 Hickman Street,Oopstown,ST,60457.0,False,False,None
+870,Tabitha,TO,2007-09-12,Girl,AAPI,AMPARO,KWON,2595 Mount Street,Oopstown,ST,48625.0,False,False,None
+871,Isabella,SAUER,2007-02-08,Girl,White,DEBORA,SAUER,4279 Oakway Lane,Oopstown,ST,91204.0,False,False,None
+872,Zayn,COVINGTON,2001-09-09,Boy,Black,ALYCE,COVINGTON,4920 Clement Street,Oopstown,ST,30076.0,False,False,None
+873,Josiah,WEBER,2006-04-20,Boy,White,CLAUDETTE,WEBER,2125 Oakway Lane,Oopstown,ST,92507.0,False,False,None
+874,Micah,PAULSON,2006-05-23,Boy,White,JONI,PAULSON,2616 Bond Street,Oopstown,ST,2840.0,False,False,None
+875,Arianna,LORENZ,2002-03-20,Girl,White,LOU,LORENZ,3408 Boone Crockett Lane,Oopstown,ST,98261.0,False,False,None
+876,Julia,FRIEDMAN,2004-06-10,Girl,White,BRIANNA,FRIEDMAN,3694 Middleville Road,Oopstown,ST,91801.0,False,False,None
+877,John,MUELLER,2003-09-29,Boy,White,JODIE,PELLETIER,700 Rainy Day Drive,Oopstown,ST,2107.0,False,False,None
+878,Sarah,SILVERMAN,2000-07-10,Girl,White,RACHELLE,SILVERMAN,3118 Eagles Nest Drive,Oopstown,ST,95814.0,False,False,None
+879,Mckayla,RUFFIN,2010-12-19,Girl,Black,JARED,RUFFIN,3105 Leverton Cove Road,Oopstown,ST,1103.0,False,False,None
+880,Kenya,GONZALEZ,2010-10-24,Girl,Hispanic,ELMA,RAMIREZ,2359 Leroy Lane,Oopstown,ST,57279.0,False,False,None
+881,Elyse,GAMEZ,2009-05-20,Girl,Hispanic,DOROTHEA,GAMEZ,4466 Callison Lane,Oopstown,ST,97205.0,False,False,None
+882,Gabriel,NAGY,2002-04-09,Boy,White,FRANKLIN,NAGY,609 Horizon Circle,Oopstown,ST,98402.0,False,False,None
+883,Abigail,SHAFFER,2005-07-23,Girl,White,REGINALD,SHAFFER,4860 Finwood Road,Oopstown,ST,7042.0,False,False,None
+884,Nixon,HERNANDEZ,2001-09-28,Boy,Hispanic,LORNA,HERNANDEZ,947 Lilac Lane,Oopstown,ST,31316.0,False,False,None
+885,Ayden,ERICKSON,2008-09-28,Boy,White,TAMIKA,ERICKSON,1695 Morningview Lane,Oopstown,ST,50438.0,False,False,None
+886,Dexter,FRIEDMAN,2004-03-15,Boy,White,MILLIE,FRIEDMAN,2324 Limer Street,Oopstown,ST,30240.0,False,False,None
+887,Landry,WU,2005-07-18,Girl,AAPI,MARIANA,SONG,4344 Lonely Oak Drive,Oopstown,ST,36602.0,False,False,None
+888,Patience,BENALLY,2004-10-03,Girl,Native,BERTIE,LOCKLEAR,4273 Cook Hill Road,Oopstown,ST,6510.0,False,False,None
+889,Asher,BOWER,2006-03-30,Boy,White,MAURICE,BOWER,1025 Musgrave Street,Oopstown,ST,73102.0,False,False,None
+890,Lucca,ARAIZA,2007-08-29,Boy,Hispanic,ESTELA,ARAIZA,3448 Byrd Lane,Oopstown,ST,88101.0,False,False,None
+891,Mason,ERNST,2001-06-26,Boy,White,WESLEY,OLSON,4671 Traders Alley,Oopstown,ST,64012.0,False,False,None
+892,Ezra,ROARK,2000-12-18,Boy,White,LESTER,ROARK,669 Tator Patch Road,Oopstown,ST,60610.0,False,False,None
+893,Juliette,COYLE,2006-06-08,Girl,White,ILA,MEIER,476 Russell Street,Oopstown,ST,1608.0,False,False,None
+894,Addison,FISCHER,1998-12-13,Girl,White,DONA,FISCHER,1550 James Street,Oopstown,ST,14895.0,False,False,None
+895,Cayson,RAMIREZ,1998-02-23,Boy,Hispanic,CHESTER,CISNEROS,3821 Union Street,Oopstown,ST,98101.0,False,False,None
+896,Angelica,BRENNAN,2000-07-29,Girl,White,RICK,BRENNAN,3405 Woodhill Avenue,Oopstown,ST,21632.0,False,False,None
+897,Jorge,FUNK,1998-07-22,Boy,White,BRENT,FUNK,4285 Hardman Road,Oopstown,ST,5401.0,False,False,None
+898,Mason,WOLF,2007-10-17,Boy,White,DENA,OBRIEN,3099 Glen Street,Oopstown,ST,42079.0,False,False,None
+899,Demetrius,TOVAR,2008-12-09,Boy,Hispanic,GABRIELA,ARZOLA,4224 Cottonwood Lane,Oopstown,ST,49508.0,False,False,None
+900,Junior,BOLDEN-JOSEPH,2009-07-09,Boy,Black,TERRIE,JACKSON,2637 Lynn Street,Oopstown,ST,1801.0,False,False,None
+901,Jamie,MUHAMMAD,2008-05-17,Boy,Black,KATELYN,MUHAMMAD,1716 Timbercrest Road,Oopstown,ST,99743.0,False,False,None
+902,Joselyn,HERNANDEZ,2005-11-06,Girl,Hispanic,MAYRA,HERNANDEZ,1666 Norma Lane,Oopstown,ST,71101.0,False,False,None
+903,Xavier,NIELSEN,2003-01-17,Boy,White,OLA,NIELSEN,2927 Woodstock Drive,Oopstown,ST,91801.0,False,False,None
+904,Cristopher,LUONG,2008-07-27,Boy,AAPI,SAVANNAH,JIANG,2229 Whitetail Lane,Oopstown,ST,75240.0,False,False,None
+905,Colton,LUND,2005-06-22,Boy,White,JONI,LUND,2205 O Conner Street,Oopstown,ST,39501.0,False,False,None
+906,Axton,JEANBAPTISTE,2004-12-16,Boy,Black,NANETTE,JEANBAPTISTE,4073 Coventry Court,Oopstown,ST,39531.0,False,False,None
+907,Julia,CARUSO,2002-03-28,Girl,White,GEORGINA,SCHELL,885 Eagle Lane,Oopstown,ST,58203.0,False,False,None
+908,Nevaeh,WHALEN,1999-06-26,Girl,White,GREG,GERBER,1803 Locust Court,Oopstown,ST,90802.0,False,False,None
+909,Samuel,CONDON,2000-10-20,Boy,White,TIA,CONDON,3696 Lewis Street,Oopstown,ST,60515.0,False,False,None

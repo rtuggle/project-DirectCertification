@@ -1,0 +1,911 @@
+,First Name,Last Name,DOB,Gender,Selected Race,Guardian First,Guardian Last,Street,City,State,Zip,ELIGIBLE,ERRORS,ERROR TYPE
+0,Frankie,CHEN,2010-01-05,Boy,AAPI,CORINA,CHEN,3150 Post Farm Road,Cleantown,ST,30303.0,True,False,None
+1,Vivienne,DURBIN,2010-08-16,Girl,White,CANDY,DURBIN,1796 Oak Street,Cleantown,ST,13697.0,True,False,None
+2,Alma,CEJA,2006-07-19,Girl,Hispanic,SOCORRO,VELAZQUEZ,3988 Rockwell Lane,Cleantown,ST,28562.0,True,False,None
+3,Autumn,DOUGHERTY,2006-06-20,Girl,White,KERI,CRABTREE,823 Filbert Street,Cleantown,ST,19103.0,True,False,None
+4,Ulises,VAZQUEZ,1998-06-01,Boy,Hispanic,RHODA,VAZQUEZ,42 Hillview Drive,Cleantown,ST,31901.0,True,False,None
+5,Matilda,HERNANDEZ,2010-02-03,Girl,Hispanic,LILLY,HERNANDEZ,656 Chapel Street,Cleantown,ST,77521.0,True,False,None
+6,Greyson,OLEARY,2007-02-04,Boy,White,CHANDRA,LEAVITT,1178 Small Street,Cleantown,ST,10017.0,True,False,None
+7,Kassandra,ACEVES,2003-08-06,Girl,Hispanic,KERI,ACEVES,1305 Blackwell Street,Cleantown,ST,99515.0,True,False,None
+8,Halle,WILLIAMS,2006-10-07,Girl,Black,ILA,HOLLINS,1801 Linda Street,Cleantown,ST,19714.0,True,False,None
+9,Lilah,SNODGRASS,2002-04-18,Girl,White,ESTELA,DONOVAN,418 Windy Ridge Road,Cleantown,ST,61081.0,True,False,None
+10,Dante,JENSEN,2010-10-29,Boy,White,DAN,KAPLAN,321 Hott Street,Cleantown,ST,73129.0,True,False,None
+11,Vivaan,VU,2006-11-23,Boy,AAPI,LAKEISHA,VU,2212 Calvin Street,Cleantown,ST,21202.0,True,False,None
+12,Terrell,JACKSON,2004-01-08,Boy,Black,JOSEFA,WASHINGTON,1613 Watson Street,Cleantown,ST,8210.0,True,False,None
+13,Isaac,METZ,2009-08-30,Boy,White,LUPE,METZ,3242 Elliot Avenue,Cleantown,ST,98032.0,True,False,None
+14,Rayan,HUERTA,1999-11-24,Boy,Hispanic,MARTINA,GONZALEZ,3503 Steve Hunt Road,Cleantown,ST,33176.0,True,False,None
+15,Will,BURNEY,2004-12-22,Boy,Black,MINERVA,BURNEY,231 Anthony Avenue,Cleantown,ST,79602.0,True,False,None
+16,Wendy,CONEY,2006-05-17,Girl,Black,ASHLEE,BEY,4123 Aspen Court,Cleantown,ST,2110.0,True,False,None
+17,Santiago,OBRIEN,2000-09-06,Boy,White,TAMIKA,OBRIEN,1916 University Street,Cleantown,ST,98101.0,True,False,None
+18,Blaise,JEAN,2005-06-13,Boy,Black,ARMANDO,JEAN,3234 Jennifer Lane,Cleantown,ST,27713.0,True,False,None
+19,Giancarlo,TOLBERT-MACK,2005-10-05,Boy,Black,MELISA,TOLBERT-MACK,640 Jefferson Street,Cleantown,ST,23417.0,True,False,None
+20,Lauren,SNYDER,1998-03-09,Girl,White,REGINALD,SNYDER,2630 Mount Street,Cleantown,ST,48607.0,True,False,None
+21,Terrance,AYALA,2000-12-10,Boy,Hispanic,DUSTIN,AYALA,3872 Biddie Lane,Cleantown,ST,23227.0,True,False,None
+22,Aliza,RUFFIN,2006-04-04,Girl,Black,ROSELLA,EDMOND,1981 Romano Street,Cleantown,ST,2199.0,True,False,None
+23,Dorothy,ALMARAZ,1999-05-19,Girl,Hispanic,ROLAND,ALMARAZ,1236 Ethels Lane,Cleantown,ST,33873.0,True,False,None
+24,Adeline,CAUDILL,2005-03-23,Girl,White,RUTHIE,CAUDILL,2999 Clement Street,Cleantown,ST,30071.0,True,False,None
+25,Valentin,HSU,1999-12-07,Boy,AAPI,BRIANA,HSU,712 Burning Memory Lane,Cleantown,ST,19125.0,True,False,None
+26,Danny,BERMAN,2007-09-24,Boy,White,SHARRON,BERMAN,4599 Stockert Hollow Road,Cleantown,ST,98011.0,True,False,None
+27,Milania,MCNAIR,2004-05-14,Girl,Black,DONA,DORSEY,3500 Science Center Drive,Cleantown,ST,83402.0,True,False,None
+28,Zoey,BEYER,1998-07-22,Girl,White,CHARITY,BEYER,3685 Jail Drive,Cleantown,ST,61234.0,True,False,None
+29,Ronald,WISNIEWSKI,2009-11-04,Boy,White,DAPHNE,WISNIEWSKI,769 School House Road,Cleantown,ST,39402.0,True,False,None
+30,Daniella,CONDON,2008-01-01,Girl,White,SUSANA,CONDON,113 Winding Way,Cleantown,ST,2914.0,True,False,None
+31,Nickolas,HERNANDEZ,2002-12-26,Boy,Hispanic,LATONYA,HERNANDEZ,2082 Rockford Mountain Lane,Cleantown,ST,54303.0,True,False,None
+32,Emily,OCONNELL,2005-03-06,Girl,White,RUTHIE,OCONNELL,1393 Grand Avenue,Cleantown,ST,32805.0,True,False,None
+33,Lillian,GIORDANO,1999-05-20,Girl,White,DENA,GIORDANO,2390 Luke Lane,Cleantown,ST,73401.0,True,False,None
+34,Nicholas,MORRISSEY,2005-06-13,Boy,White,TYLER,MORRISSEY,328 Whitetail Lane,Cleantown,ST,75207.0,True,False,None
+35,Maddison,NEUMANN,1998-08-26,Girl,White,OLA,NEUMANN,3129 Alpaca Way,Cleantown,ST,92686.0,True,False,None
+36,Jacoby,VERDUZCO,2010-10-31,Boy,Hispanic,CLARICE,VERDUZCO,4813 Washburn Street,Cleantown,ST,70346.0,True,False,None
+37,Emily,CARUSO,2007-04-06,Girl,White,REGINALD,CARUSO,4037 Kincheloe Road,Cleantown,ST,97383.0,True,False,None
+38,Judah,HANSEN-HARTMAN,2003-10-20,Boy,White,JOLENE,HANSEN-HARTMAN,377 Pheasant Ridge Road,Cleantown,ST,19103.0,True,False,None
+39,Elizabeth,CARLSON,1998-03-26,Girl,White,ESPERANZA,HEATON,2202 Briarhill Lane,Cleantown,ST,44212.0,True,False,None
+40,Jamarion,WILLIAMS-BROADNAX,1999-12-26,Boy,Black,ILENE,WILLIAMS-BROADNAX,160 Gandy Street,Cleantown,ST,17102.0,True,False,None
+41,Lucas,BYRNE,2006-09-13,Boy,White,CANDY,MEYER,3424 Sarah Drive,Cleantown,ST,70629.0,True,False,None
+42,Erika,GONZALEZ,2006-10-13,Girl,Hispanic,ROSARIO,GONZALEZ,4193 Coolidge Street,Cleantown,ST,59030.0,True,False,None
+43,Layla,GRIMM,2009-09-03,Girl,White,DAPHNE,GRIMM,1011 Broadway Street,Cleantown,ST,29461.0,True,False,None
+44,Haven,SCHROEDER,2004-08-22,Girl,White,MILTON,BOUCHARD,406 Lucky Duck Drive,Cleantown,ST,15219.0,True,False,None
+45,Peyton,FUCHS,2000-07-26,Girl,White,ILA,FUCHS,2975 Palmer Road,Cleantown,ST,43017.0,True,False,None
+46,Dalia,DU,2005-01-21,Girl,AAPI,ROSANNE,DU,3002 Mcwhorter Road,Cleantown,ST,39201.0,True,False,None
+47,Olivia,MCKENNA,2007-01-28,Girl,White,LATISHA,MCKENNA,2443 Forest Avenue,Cleantown,ST,19034.0,True,False,None
+48,Aidyn,TRAN,2004-07-04,Boy,AAPI,SIDNEY,TRAN,1063 Abia Martin Drive,Cleantown,ST,10013.0,True,False,None
+49,Sharon,DORSEY,2002-06-25,Girl,Black,TOMMIE,STARKS,3853 Reeves Street,Cleantown,ST,54204.0,True,False,None
+50,Ethan,HIRSCH,2004-09-07,Boy,White,LILLY,HIRSCH,2264 Park Street,Cleantown,ST,94612.0,True,False,None
+51,Juan,SHEA,2000-05-15,Boy,White,BRETT,SHEA,3030 Freedom Lane,Cleantown,ST,95202.0,True,False,None
+52,Brenna,WARE,2007-06-26,Girl,Black,ILENE,WARE,4276 Frank Avenue,Cleantown,ST,1103.0,True,False,None
+53,Dwayne,COLEMAN,2001-04-12,Boy,Black,MIA,COLEMAN,364 Dane Street,Cleantown,ST,97058.0,True,False,None
+54,Rachel,CLINE,2001-06-18,Girl,White,CALLIE,CLINE,2270 Cost Avenue,Cleantown,ST,72051.0,True,False,None
+55,Emmitt,PUENTES,2004-04-08,Boy,Hispanic,SHANNA,PUENTES,2902 Swick Hill Street,Cleantown,ST,77853.0,True,False,None
+56,Ava,WELLER,2005-09-25,Girl,White,BOBBI,WELLER,4767 Woodstock Drive,Cleantown,ST,11001.0,True,False,None
+57,Dilan,WILLIAMS,2007-12-26,Boy,Black,DWAYNE,MCNEAL,4677 Dogwood Lane,Cleantown,ST,85653.0,True,False,None
+58,Jeremiah,LEHMAN,2009-11-21,Boy,White,CHARITY,LEHMAN,4676 Goldcliff Circle,Cleantown,ST,20011.0,True,False,None
+59,Eliana,WHALEN-HARMAN,1999-07-01,Girl,White,GREG,WHALEN-HARMAN,915 Benson Park Drive,Cleantown,ST,73109.0,True,False,None
+60,Katalina,THREATT,2002-05-10,Girl,Black,BERNADINE,THREATT,1397 Adams Drive,Cleantown,ST,77002.0,True,False,None
+61,Olivia,CAUDILL,2006-07-02,Girl,White,RICARDO,CAUDILL,893 Michigan Avenue,Cleantown,ST,97205.0,True,False,None
+62,Ellison,EPPS,2002-03-11,Girl,Black,DWAYNE,BLACKMON,246 Carolyns Circle,Cleantown,ST,75204.0,True,False,None
+63,Chace,WERITO,1999-06-23,Boy,Native,DIONNE,WERITO,4894 Emeral Dreams Drive,Cleantown,ST,60424.0,True,False,None
+64,Kayden,ARNDT-BUSCH,2005-04-24,Boy,White,LESLEY,ARNDT-BUSCH,965 Dog Hill Lane,Cleantown,ST,66044.0,True,False,None
+65,Anniston,POINTER,2000-04-29,Girl,Black,LOUISA,POINTER,2643 Trouser Leg Road,Cleantown,ST,1103.0,True,False,None
+66,Colt,LUTZ,1998-11-23,Boy,White,LATONYA,LUTZ,2296 Stoney Lonesome Road,Cleantown,ST,17701.0,True,False,None
+67,Annabell,YUAN,2007-02-25,Girl,AAPI,MARIETTA,YUAN,3222 Elkview Drive,Cleantown,ST,33457.0,True,False,None
+68,Holden,MCDONOUGH,2007-08-19,Boy,White,JERI,MCDONOUGH,4982 Delaware Avenue,Cleantown,ST,94115.0,True,False,None
+69,Briley,POWE,2005-10-05,Girl,Black,SUZETTE,POWE,1607 Patterson Street,Cleantown,ST,77478.0,True,False,None
+70,Azaria,QIN-TRAN,2008-02-23,Girl,AAPI,SHEREE,PHAM,2203 Trails End Road,Cleantown,ST,33179.0,True,False,None
+71,Matthew,SWARTZ,2008-11-18,Boy,White,SHANE,SWARTZ,1295 Shingleton Road,Cleantown,ST,49503.0,True,False,None
+72,Kelly,SCHROEDER,1998-04-01,Girl,White,CHERIE,SCHROEDER,936 Grant View Drive,Cleantown,ST,53130.0,True,False,None
+73,Delaney,HARTMAN,2007-07-24,Girl,White,DEAN,BAUGHMAN,2113 Turkey Pen Road,Cleantown,ST,10016.0,True,False,None
+74,Angelina,BERNSTEIN,2005-04-29,Girl,White,RICARDO,STEIN,4719 Leverton Cove Road,Cleantown,ST,1103.0,True,False,None
+75,Owen,ROTH,1998-08-31,Boy,White,CONCEPCION,ROTH,868 Blair Court,Cleantown,ST,65237.0,True,False,None
+76,Noah,KRAMER,2007-08-09,Boy,White,JACLYN,KRAMER,2224 West Side Avenue,Cleantown,ST,8901.0,True,False,None
+77,Alexis,KNAPP,1999-05-10,Girl,White,ABBY,KNAPP,971 Still Street,Cleantown,ST,43604.0,True,False,None
+78,Kareem,COLBERT,2006-05-23,Boy,Black,KARL,WINSTON,841 Glenwood Avenue,Cleantown,ST,44132.0,True,False,None
+79,Oliver,LUND,1999-11-21,Boy,White,BEATRIZ,LUND,4880 Bell Street,Cleantown,ST,10019.0,True,False,None
+80,Brooks,BRENNAN,2004-11-26,Boy,White,MARGO,SCHROEDER,1376 Long Street,Cleantown,ST,32711.0,True,False,None
+81,Carter,KOENIG,2009-09-02,Boy,White,BETTE,KOENIG,1946 Abner Road,Cleantown,ST,54501.0,True,False,None
+82,Evangeline,SCHUMACHER,2001-08-20,Girl,White,THERESE,SCHUMACHER,829 Marion Drive,Cleantown,ST,33619.0,True,False,None
+83,Layla,BLOOM,2001-07-04,Girl,White,LILY,BLOOM,1550 Jarvis Street,Cleantown,ST,14202.0,True,False,None
+84,Amy,KOCH,2003-01-26,Girl,White,FRIEDA,KOCH,4058 Nutters Barn Lane,Cleantown,ST,50266.0,True,False,None
+85,Emily,REICH,2003-09-01,Girl,White,MAURICE,REICH,2419 Monroe Street,Cleantown,ST,77002.0,True,False,None
+86,Liana,JIMENEZ,1998-06-12,Girl,Hispanic,LATONYA,JIMENEZ,4056 Poplar Chase Lane,Cleantown,ST,83617.0,True,False,None
+87,Maurice,QUINTERO,2001-04-09,Boy,Hispanic,MATILDA,BARRAGAN,4954 Emily Renzelli Boulevard,Cleantown,ST,93901.0,True,False,None
+88,Jolie,MCNEAL,2008-04-29,Girl,Black,TED,GIVENS,4837 Watson Street,Cleantown,ST,8005.0,True,False,None
+89,Wilson,JIMENEZ,2007-08-14,Boy,Hispanic,MINERVA,JIMENEZ,2254 Arrowood Drive,Cleantown,ST,32216.0,True,False,None
+90,Titan,WILLIAMS,2007-06-24,Boy,Black,AVA,WILLIAMS,2003 Adamsville Road,Cleantown,ST,78550.0,True,False,None
+91,Ciara,BAHENA,2004-03-24,Girl,Hispanic,THERESE,BAHENA,1508 Kennedy Court,Cleantown,ST,2081.0,True,False,None
+92,Fabian,JACOBSON,1998-10-16,Boy,White,JEANINE,WALSH,2351 Rainbow Drive,Cleantown,ST,44406.0,True,False,None
+93,Adriel,DENNEY,2003-05-02,Boy,White,ELNORA,MATTINGLY,2705 Walkers Ridge Way,Cleantown,ST,60062.0,True,False,None
+94,Nolan,GOLDSTEIN,2002-07-19,Boy,White,MAYRA,GOLDSTEIN,1733 Garrett Street,Cleantown,ST,49503.0,True,False,None
+95,Sofia,FRANTZ,1999-11-19,Girl,White,RAMON,FRANTZ,1783 Griffin Street,Cleantown,ST,85012.0,True,False,None
+96,Mohamed,SPRAGUE,2004-07-13,Boy,White,ROSETTA,SPRAGUE,3103 Willow Oaks Lane,Cleantown,ST,70501.0,True,False,None
+97,Eden,FERRARA,1998-04-06,Girl,White,LACEY,FERRARA,4874 John Calvin Drive,Cleantown,ST,60162.0,True,False,None
+98,Landry,NGUYEN,2003-08-10,Girl,AAPI,AISHA,PATEL,4038 Hickory Lane,Cleantown,ST,20024.0,True,False,None
+99,Christopher,MCKENNA,2003-05-05,Boy,White,JEANINE,MCKENNA,3342 Lake Floyd Circle,Cleantown,ST,20200.0,True,False,None
+100,Braydon,KLEIN,2003-05-18,Boy,White,LEANN,KLEIN,3626 Hog Camp Road,Cleantown,ST,60090.0,True,False,None
+101,Judson,NGUYEN,2004-10-19,Boy,AAPI,JULIAN,SONG,1902 Fowler Avenue,Cleantown,ST,47374.0,True,False,None
+102,Wren,RUELAS,1999-01-23,Girl,Hispanic,MARISOL,RUELAS,1305 Blackwell Street,Cleantown,ST,99515.0,True,False,None
+103,Aurelia,SAMUEL-RICKS,2001-03-26,Girl,Black,MELISA,SAMUEL-RICKS,1301 Atha Drive,Cleantown,ST,93301.0,True,False,None
+104,Zane,MUELLER,2003-10-25,Boy,White,ROBBIE,MUELLER,3020 Romines Mill Road,Cleantown,ST,75202.0,True,False,None
+105,Lochlan,CHAU,2010-10-27,Boy,AAPI,KURT,CHAU,4540 Meadow Drive,Cleantown,ST,88260.0,True,False,None
+106,Vincent,STERN,2009-06-27,Boy,White,ROBBIE,STERN,1994 Heavner Court,Cleantown,ST,10016.0,True,False,None
+107,Lara,WILLIAMS,2007-01-16,Girl,Black,CHRISTIAN,WILLIAMS,1489 Doctors Drive,Cleantown,ST,90025.0,True,False,None
+108,Chase,BAUMANN,2003-05-15,Boy,White,CORNELIA,BAUMANN,4022 Green Avenue,Cleantown,ST,94545.0,True,False,None
+109,Olivia,WEBER,2009-01-07,Girl,White,DUANE,WEBER,3986 Maloy Court,Cleantown,ST,43315.0,True,False,None
+110,Cole,SEAMAN,2002-07-08,Boy,White,IMOGENE,ROARK,877 Hill Haven Drive,Cleantown,ST,98161.0,True,False,None
+111,Braelynn,ZIMMERMAN,2008-12-23,Girl,White,MITCHELL,ZIMMERMAN,1125 Finwood Road,Cleantown,ST,7071.0,True,False,None
+112,Casey,DEBERRY,2007-07-31,Girl,Black,JAVIER,DEBERRY,4656 Woodstock Drive,Cleantown,ST,91731.0,True,False,None
+113,Byron,ESPARZA,2008-04-25,Boy,Hispanic,LORIE,COVARRUBIAS,3503 Lynn Ogden Lane,Cleantown,ST,77630.0,True,False,None
+114,Jaylah,SCHMIDT,2002-11-10,Girl,White,CECIL,GROSSMAN,4936 Hidden Pond Road,Cleantown,ST,37209.0,True,False,None
+115,Parker,LEDFORD,2002-06-11,Girl,White,CECIL,LEDFORD,614 Emily Drive,Cleantown,ST,29036.0,True,False,None
+116,Thatcher,WASHINGTON,2001-06-22,Boy,Black,ALISSA,WASHINGTON,393 James Martin Circle,Cleantown,ST,43215.0,True,False,None
+117,Barbara,MACK,2005-01-10,Girl,Black,SERENA,JACKSON,3685 Poe Lane,Cleantown,ST,66215.0,True,False,None
+118,Neil,VAZQUEZ,2007-03-15,Boy,Hispanic,ALEXANDRIA,HERNANDEZ,2987 Heavner Court,Cleantown,ST,50315.0,True,False,None
+119,Isaiah,KRAMER,1999-12-21,Boy,White,ELMER,KRAMER,2675 Horseshoe Lane,Cleantown,ST,19714.0,True,False,None
+120,Kayden,VOSS,1998-07-06,Boy,White,SIMONE,VOSS,2322 Dawson Drive,Cleantown,ST,72212.0,True,False,None
+121,Terry,NAJERA,2002-01-30,Boy,Hispanic,DONA,NAJERA,907 Wayside Lane,Cleantown,ST,94606.0,True,False,None
+122,Grace,COFFMAN,2007-11-11,Girl,White,SHEENA,COFFMAN,2772 Frederick Street,Cleantown,ST,79905.0,True,False,None
+123,Aniyah,OUELLETTE,2000-05-12,Girl,White,NOLA,OUELLETTE,15 Duncan Avenue,Cleantown,ST,10014.0,True,False,None
+124,Lauren,HOFFMAN,2009-04-04,Girl,White,GABRIEL,HOFFMAN,4990 Sardis Station,Cleantown,ST,55402.0,True,False,None
+125,Ronnie,MCGRIFF,2003-09-25,Boy,Black,BENITA,WIGFALL,3259 Whispering Pines Circle,Cleantown,ST,75287.0,True,False,None
+126,Natalia,HANSEN-HOLM,1998-09-27,Girl,White,MARC,HANSEN-HOLM,1502 Kessla Way,Cleantown,ST,29577.0,True,False,None
+127,Imani,SCHROEDER,2006-12-24,Girl,White,HERMAN,HENSLEY,3269 Stratford Drive,Cleantown,ST,96819.0,True,False,None
+128,Nolan,MEYER,2002-08-10,Boy,White,ROLAND,KRAMER,1878 Maple Street,Cleantown,ST,92632.0,True,False,None
+129,Liam,MESSER,1998-07-07,Boy,White,CHRISTI,SHOEMAKER,2417 Kuhl Avenue,Cleantown,ST,30209.0,True,False,None
+130,Aubriella,KIM,2002-10-16,Girl,AAPI,VIRGIL,KIM,58 Rainbow Road,Cleantown,ST,91801.0,True,False,None
+131,Jordan,DEVRIES,2005-09-15,Boy,White,DOROTHEA,DEVRIES,441 Harley Vincent Drive,Cleantown,ST,44046.0,True,False,None
+132,Alfonso,WILLIAMS,2006-05-22,Boy,Black,ELINOR,WILLIAMS,4269 Turkey Pen Lane,Cleantown,ST,36104.0,True,False,None
+133,Jeffery,GONZALEZ,2006-02-12,Boy,Hispanic,TONIA,GONZALEZ,4869 Melody Lane,Cleantown,ST,23027.0,True,False,None
+134,Mason,BLANKENSHIP,2006-03-16,Boy,White,CATHLEEN,BLANKENSHIP,591 Tibbs Avenue,Cleantown,ST,59701.0,True,False,None
+135,Deshawn,ROLLE,2009-01-16,Boy,Black,LENORE,HOLIDAY,4114 Meadowview Drive,Cleantown,ST,22980.0,True,False,None
+136,Josue,SIEGEL,2001-06-21,Boy,White,SHANE,SIEGEL,3731 Green Avenue,Cleantown,ST,94536.0,True,False,None
+137,Rowen,RICKS,1998-12-03,Boy,Black,JAMIE,WASHINGTON,4231 Woodridge Lane,Cleantown,ST,38110.0,True,False,None
+138,Andrew,SHOEMAKER,2010-10-04,Boy,White,FRANKIE,WOLF,4780 Newton Street,Cleantown,ST,56303.0,True,False,None
+139,Fisher,ROBINSON,2002-11-05,Boy,Black,SHARRON,JACKSON,83 Park Avenue,Cleantown,ST,95826.0,True,False,None
+140,Richard,ERICKSON,2000-03-12,Boy,White,SHANA,OLSON,4544 Jerry Dove Drive,Cleantown,ST,29501.0,True,False,None
+141,Greta,HERNANDEZ,2010-01-14,Girl,Hispanic,GRACIE,HERNANDEZ,4828 Dogwood Road,Cleantown,ST,85012.0,True,False,None
+142,Dalton,NEFF,2001-03-15,Boy,White,MATILDA,NEFF,699 Stockert Hollow Road,Cleantown,ST,98052.0,True,False,None
+143,Emma,HAMMER,2010-12-14,Girl,White,COREY,MUELLER,910 Seth Street,Cleantown,ST,78639.0,True,False,None
+144,Caylee,HERNANDEZ,2009-03-24,Girl,Hispanic,HALEY,HERNANDEZ,3454 Bobcat Drive,Cleantown,ST,20653.0,True,False,None
+145,Avery,BLANKENSHIP,2003-11-16,Girl,White,ALTA,BLANKENSHIP,3179 Moonlight Drive,Cleantown,ST,8102.0,True,False,None
+146,Lucian,GONZALEZ,2008-10-10,Boy,Hispanic,CAROLINA,MACIAS,3639 Commerce Boulevard,Cleantown,ST,68102.0,True,False,None
+147,Meadow,BANKS,1998-02-28,Girl,Black,CORRINE,BANKS,1203 Timberbrook Lane,Cleantown,ST,81643.0,True,False,None
+148,Hailey,CHRISTENSEN,2003-05-08,Girl,White,FAY,CHRISTENSEN,2336 Charter Street,Cleantown,ST,66207.0,True,False,None
+149,Maxwell,KRUEGER,2008-12-15,Boy,White,ANGEL,KRUEGER,4032 Westfall Avenue,Cleantown,ST,55060.0,True,False,None
+150,Lola,SCHMITT,2003-11-06,Girl,White,CHESTER,WEINSTEIN,3785 Godfrey Street,Cleantown,ST,27801.0,True,False,None
+151,Josiah,DONOHUE,2008-07-11,Boy,White,STEFANIE,DONOHUE,4231 Woodridge Lane,Cleantown,ST,38110.0,True,False,None
+152,Anthony,KLEIN,2002-02-09,Boy,White,ESTER,FRITZ,1347 Sunset Drive,Cleantown,ST,71602.0,True,False,None
+153,Ishaan,ROBINSON,2000-11-14,Boy,Black,MILAGROS,ROBINSON,63 Bernardo Street,Cleantown,ST,47610.0,True,False,None
+154,Odin,PETERSEN,2010-02-16,Boy,White,DERRICK,KLINE,612 Elk Rd Little,Cleantown,ST,85701.0,True,False,None
+155,Nicole,HANSEN,2002-07-31,Girl,White,CLARICE,MUELLER,3724 Boundary Street,Cleantown,ST,32246.0,True,False,None
+156,Lily,BRAUN,2007-03-13,Girl,White,GABRIELLE,BRAUN,688 Waterview Lane,Cleantown,ST,87501.0,True,False,None
+157,Emily,BRAUN,2001-02-04,Girl,White,JOLENE,BRAUN,3145 Oxford Court,Cleantown,ST,39701.0,True,False,None
+158,Cole,MUELLER,2005-10-23,Boy,White,TERRIE,SHOEMAKER,773 Edington Drive,Cleantown,ST,30093.0,True,False,None
+159,Zachary,SHOEMAKER,2010-01-01,Boy,White,PAIGE,SHOEMAKER,2992 Kemper Lane,Cleantown,ST,84119.0,True,False,None
+160,Brynlee,VITALE,2007-02-24,Girl,White,DUANE,VITALE,3231 White Oak Drive,Cleantown,ST,64052.0,True,False,None
+161,Sophia,TACKETT,1999-02-03,Girl,White,MEAGAN,TACKETT,2314 Carter Street,Cleantown,ST,62801.0,True,False,None
+162,Charles,MCGOVERN-HENSLEY,2002-11-16,Boy,White,ELMA,MCGOVERN-HENSLEY,2685 Hornor Avenue,Cleantown,ST,74146.0,True,False,None
+163,Kai,THAYER,2004-03-14,Boy,White,CLAUDETTE,KAPLAN,3473 Church Street,Cleantown,ST,10013.0,True,False,None
+164,Jeremiah,KRUSE,2005-11-16,Boy,White,DOROTHEA,KRUSE,2498 Ward Road,Cleantown,ST,79912.0,True,False,None
+165,Mya,KOHLER,2005-01-20,Girl,White,LACEY,WEBER,2232 Wood Street,Cleantown,ST,70139.0,True,False,None
+166,Layla,BRENNAN,2001-04-01,Girl,White,DINA,RINEHART,1887 American Drive,Cleantown,ST,32301.0,True,False,None
+167,Nevaeh,WOLF,2007-05-11,Girl,White,ALTA,WOLF,2579 Tuna Street,Cleantown,ST,48302.0,True,False,None
+168,Rebecca,NAGEL,2010-11-17,Girl,White,BIANCA,NAGEL,4255 Fairway Drive,Cleantown,ST,94520.0,True,False,None
+169,Gianna,HANSEN,2008-08-05,Girl,White,ERICKA,SPRAGUE,741 Carolyns Circle,Cleantown,ST,75247.0,True,False,None
+170,Maya,ANDERSEN,2008-01-05,Girl,White,IVY,ANDERSEN,4286 Glenview Drive,Cleantown,ST,78476.0,True,False,None
+171,Jacob,HESS-OBRIEN,2008-06-25,Boy,White,THERESE,SCHROEDER,4796 Beeghley Street,Cleantown,ST,76661.0,True,False,None
+172,Serenity,WEBER,2005-03-01,Girl,White,CAROLINA,GIORDANO,863 Oakway Lane,Cleantown,ST,91204.0,True,False,None
+173,Henry,KAUFMAN,2009-12-27,Boy,White,PEDRO,KAUFMAN,1502 Ferrell Street,Cleantown,ST,55722.0,True,False,None
+174,London,RUSSO,2001-02-17,Girl,White,GORDON,RUSSO,157 Cityview Drive,Cleantown,ST,19010.0,True,False,None
+175,Jasmine,CHRISTIANSEN,2010-06-22,Girl,White,BRENT,CHRISTIANSEN,375 Highland Drive,Cleantown,ST,54911.0,True,False,None
+176,Lillian,GOETZ,2005-07-22,Girl,White,ESTELA,GOETZ,3129 Alpaca Way,Cleantown,ST,92686.0,True,False,None
+177,Antonia,HAN,2010-12-19,Girl,AAPI,ROSELLA,HAN,856 Lauren Drive,Cleantown,ST,53718.0,True,False,None
+178,Blaise,LAMPKIN,2007-04-02,Boy,Black,MARI,LAMPKIN,2725 Steve Hunt Road,Cleantown,ST,33169.0,True,False,None
+179,Penny,COLEMAN,1998-05-29,Girl,Black,OPHELIA,COLEMAN,1951 Dovetail Drive,Cleantown,ST,60016.0,True,False,None
+180,Bella,ZIMMERMAN,2000-12-13,Girl,White,JORGE,ZIMMERMAN,3083 Hickory Heights Drive,Cleantown,ST,21045.0,True,False,None
+181,Marcel,GAINES,2002-12-01,Boy,Black,ESMERALDA,GAINES,229 Robinson Lane,Cleantown,ST,45662.0,True,False,None
+182,Deborah,WILLIAMS,2003-01-08,Girl,Black,JORDAN,WILLIAMS,2537 Johnny Lane,Cleantown,ST,53151.0,True,False,None
+183,Allie,WOLF,1999-01-24,Girl,White,ELMER,WOLF,4328 Khale Street,Cleantown,ST,29501.0,True,False,None
+184,Christian,HANSEN,1998-10-08,Boy,White,TRUDY,HANSEN,2318 Stuart Street,Cleantown,ST,15219.0,True,False,None
+185,Shane,BERNSTEIN,2002-09-27,Boy,White,HILARY,OLSON,213 Reppert Coal Road,Cleantown,ST,48075.0,True,False,None
+186,Patricia,CARDENAS,2008-09-07,Girl,Hispanic,LIDIA,CARDENAS,2245 Olive Street,Cleantown,ST,43602.0,True,False,None
+187,Samiyah,WASHINGTON,2002-03-27,Girl,Other,HERMINIA,CHOW,2532 Hickory Heights Drive,Cleantown,ST,21208.0,True,False,None
+188,Ethan,CLEVENGER,1999-06-25,Boy,White,RACHELLE,BAUMANN,105 Bolman Court,Cleantown,ST,61820.0,True,False,None
+189,Broderick,VU,2004-11-11,Boy,AAPI,MADELYN,VU,1819 Smith Road,Cleantown,ST,30253.0,True,False,None
+190,Kaeden,WILLIAMS,2006-02-12,Boy,Black,DARRYL,WILLIAMS,859 Forest Avenue,Cleantown,ST,10011.0,True,False,None
+191,Leo,BOCK,1999-10-30,Boy,White,JAYNE,ALBRECHT,4592 Wakefield Street,Cleantown,ST,19067.0,True,False,None
+192,Ivanna,HERNANDEZ,2006-10-17,Girl,Hispanic,CLEO,OCHOA,362 Upton Avenue,Cleantown,ST,4863.0,True,False,None
+193,Jake,MAURER,2000-10-17,Boy,White,ELISE,MAURER,4839 Elk Rd Little,Cleantown,ST,85701.0,True,False,None
+194,Luke,SCHAEFFER,2004-05-25,Boy,White,ELMA,MADSEN,1899 George Street,Cleantown,ST,34471.0,True,False,None
+195,Tatum,ESPARZA,2002-06-07,Boy,Hispanic,ROSALYN,ESPARZA,4608 Junkins Avenue,Cleantown,ST,31707.0,True,False,None
+196,Lydia,OLSON,2002-04-22,Girl,White,MARIBEL,OLSON,583 McDowell Street,Cleantown,ST,37210.0,True,False,None
+197,Tobias,KAUFMAN,2004-04-29,Boy,White,DALE,KAUFMAN,2619 McKinley Avenue,Cleantown,ST,80112.0,True,False,None
+198,Sadie,SCHWARTZ,2003-04-11,Girl,White,AILEEN,SCHWARTZ,238 Wiseman Street,Cleantown,ST,37917.0,True,False,None
+199,Patience,NOSIE,2005-04-14,Girl,Native,EDUARDO,NOSIE,88 Briarhill Lane,Cleantown,ST,44308.0,True,False,None
+200,Alisha,CAESAR,2007-10-07,Girl,Black,CLAUDINE,CAESAR,167 Trails End Road,Cleantown,ST,33069.0,True,False,None
+201,Cole,ESPOSITO,2001-06-30,Boy,White,LUPE,ESPOSITO,3063 Heritage Road,Cleantown,ST,93711.0,True,False,None
+202,Hugh,JACKSON,2005-05-23,Boy,Black,ESMERALDA,JACKSON,2765 McVaney Road,Cleantown,ST,28801.0,True,False,None
+203,Ella,GROSSMAN-HAMMER,2008-01-10,Girl,White,BETTYE,GROSSMAN-HAMMER,471 Davisson Street,Cleantown,ST,47320.0,True,False,None
+204,Sage,HERNANDEZ,2004-08-30,Boy,Hispanic,URSULA,HERNANDEZ,2322 Dawson Drive,Cleantown,ST,72212.0,True,False,None
+205,Karter,DO,2008-01-10,Girl,AAPI,RENE,DO,2519 Lena Lane,Cleantown,ST,39201.0,True,False,None
+206,Paul,SNYDER,2001-09-10,Boy,White,BRETT,SNYDER,2253 Coffman Alley,Cleantown,ST,42718.0,True,False,None
+207,Sloan,WHITFIELD,2010-06-07,Girl,Black,RAE,WHITFIELD,3606 Meadowbrook Mall Road,Cleantown,ST,90291.0,True,False,None
+208,Deshawn,TOWNES-GAINES,2008-06-26,Boy,Black,DARRYL,TOWNES-GAINES,1522 Bagwell Avenue,Cleantown,ST,34471.0,True,False,None
+209,Harper,HERNANDEZ,1999-04-03,Boy,Hispanic,MILTON,HERNANDEZ,2644 Poling Farm Road,Cleantown,ST,68048.0,True,False,None
+210,Jadiel,JACKSON,2001-10-17,Boy,Black,HILARY,JACKSON,3598 Duke Lane,Cleantown,ST,7477.0,True,False,None
+211,Landry,LIN,2007-01-25,Girl,AAPI,ANNMARIE,LIN,883 Thorn Street,Cleantown,ST,82003.0,True,False,None
+212,Albert,KRAFT-KERN,2009-03-06,Boy,White,ABBY,KRAFT-KERN,2927 Stout Street,Cleantown,ST,17401.0,True,False,None
+213,Leah,LARSON,2006-07-10,Girl,White,LADONNA,LARSON,269 Oliver Street,Cleantown,ST,75051.0,True,False,None
+214,Blaze,CALLOWAY,2008-06-04,Boy,Black,LOUISA,CALLOWAY,4449 State Street,Cleantown,ST,63141.0,True,False,None
+215,Amelie,MALDONADO,1999-10-10,Girl,Hispanic,JONI,MALDONADO,1087 Gateway Avenue,Cleantown,ST,93304.0,True,False,None
+216,Amalia,FAVORS,1998-12-30,Girl,Black,ARACELI,LOCKETT,13 Swick Hill Street,Cleantown,ST,77515.0,True,False,None
+217,Callan,VILLALOBOS,2004-08-12,Boy,Hispanic,BRAD,VAZQUEZ,3827 Murry Street,Cleantown,ST,23462.0,True,False,None
+218,Chloe,HARMAN,2006-04-27,Girl,White,CHESTER,HARMAN,1016 Tenmile,Cleantown,ST,23608.0,True,False,None
+219,Brayden,SCHAFER,2007-12-22,Boy,White,ERICKA,SCHAFER,1979 Jehovah Drive,Cleantown,ST,22408.0,True,False,None
+220,Arian,TOVAR,2006-04-05,Boy,Hispanic,GRACIELA,TOVAR,3284 Dogwood Lane,Cleantown,ST,85712.0,True,False,None
+221,Hendrix,DECKER,2009-03-27,Boy,White,CANDY,LENTZ,1344 Spring Haven Trail,Cleantown,ST,7042.0,True,False,None
+222,Courtney,DELCID,2008-03-17,Girl,Hispanic,DONA,DELCID,215 Oak Lane,Cleantown,ST,64635.0,True,False,None
+223,Mason,LARSON,2003-08-12,Boy,White,SHANE,LARSON,3129 Alpaca Way,Cleantown,ST,92686.0,True,False,None
+224,Lawson,SCHNEIDER,1998-06-08,Boy,White,CHESTER,RUSSO,252 Rinehart Road,Cleantown,ST,33169.0,True,False,None
+225,Naomi,BRAUN,1998-03-15,Girl,White,THERESE,WOLF,3962 Elk Creek Road,Cleantown,ST,28801.0,True,False,None
+226,Chace,BEGAY,2008-06-07,Boy,Native,FELECIA,BEGAY,753 Brown Street,Cleantown,ST,94553.0,True,False,None
+227,Courtney,ZAZUETA,2001-04-04,Girl,Hispanic,CLARICE,RAMIRES,4834 Alfred Drive,Cleantown,ST,10011.0,True,False,None
+228,Lewis,HERNANDEZ,2002-06-08,Boy,Hispanic,SIMONE,HERNANDEZ,2261 Jadewood Drive,Cleantown,ST,46404.0,True,False,None
+229,Abel,ZIMMERMAN,2001-11-19,Boy,White,MARCY,YOST,592 Park Street,Cleantown,ST,94556.0,True,False,None
+230,Zayn,BOWENS,2000-06-06,Boy,Black,KAYE,BOWENS,3863 Richards Avenue,Cleantown,ST,95367.0,True,False,None
+231,Zayn,MCGHEE,1999-11-13,Boy,Black,CONCEPCION,MCGHEE,1061 Fancher Drive,Cleantown,ST,75074.0,True,False,None
+232,Rey,DUBOSE,1998-03-28,Boy,Black,MAX,FLUKER,656 Chapel Street,Cleantown,ST,77521.0,True,False,None
+233,Tamia,SHEN,2005-07-16,Girl,AAPI,BRIDGETT,SHEN,1012 Jefferson Street,Cleantown,ST,23518.0,True,False,None
+234,Lucas,DIETZ,2001-02-14,Boy,White,IMOGENE,DIETZ,4654 Rubaiyat Road,Cleantown,ST,49444.0,True,False,None
+235,Thatcher,JACKSON,2000-09-03,Boy,Black,CLAUDE,JACKSON,4098 Station Street,Cleantown,ST,78756.0,True,False,None
+236,Emma,DIETRICH,1999-09-14,Girl,White,ROSETTA,DIETRICH,2003 Adamsville Road,Cleantown,ST,78550.0,True,False,None
+237,Maryam,FRAUSTO,1999-06-11,Girl,Hispanic,GILBERT,FRAUSTO,700 Rainy Day Drive,Cleantown,ST,2107.0,True,False,None
+238,Scarlett,WEINER,2002-12-08,Girl,White,DEANA,ONEILL,426 Bedford Street,Cleantown,ST,6516.0,True,False,None
+239,Lennox,OROZCO,1999-07-05,Boy,Hispanic,LEILA,OROZCO,4452 Richards Avenue,Cleantown,ST,95204.0,True,False,None
+240,Catalina,FISCHER,2010-09-16,Girl,White,ELIZA,VOSS,3638 Angie Drive,Cleantown,ST,90017.0,True,False,None
+241,Shaun,JIMENEZ,1998-06-19,Boy,Hispanic,SYBIL,JIMENEZ,4950 Birch  Street,Cleantown,ST,79915.0,True,False,None
+242,Joanna,HOFF,2006-09-23,Girl,White,CHARLIE,PELLETIER,1786 Hampton Meadows,Cleantown,ST,1742.0,True,False,None
+243,Zoe,MARCUM-HEIN,2006-05-28,Girl,White,MAURICE,MARCUM-HEIN,665 Elk Rd Little,Cleantown,ST,12207.0,True,False,None
+244,Giancarlo,CRAYTON,2009-02-27,Boy,Black,FLOSSIE,CRAYTON,362 Freed Drive,Cleantown,ST,7940.0,True,False,None
+245,Agustin,PIERRE,2001-10-04,Boy,Black,EDWINA,PIERRE,1716 Timbercrest Road,Cleantown,ST,99743.0,True,False,None
+246,Madison,SORENSEN,1998-11-25,Girl,White,WINNIE,SORENSEN,1101 Bird Street,Cleantown,ST,88101.0,True,False,None
+247,Davis,GUSTAFSON,2008-05-15,Boy,White,RACHELLE,GUSTAFSON,1943 Evergreen Lane,Cleantown,ST,90280.0,True,False,None
+248,London,MESSER,2001-02-07,Girl,White,CECIL,MACDONALD,1178 Sardis Station,Cleantown,ST,55415.0,True,False,None
+249,Shelby,ENGLE,1998-01-11,Girl,White,CALLIE,ENGLE,3211 Ashton Lane,Cleantown,ST,78756.0,True,False,None
+250,Aron,NAVARRETE,1998-04-24,Boy,Hispanic,RANDI,GAYTAN,3272 Shinn Avenue,Cleantown,ST,15219.0,True,False,None
+251,Camdyn,WILLIAMS,2009-12-29,Boy,Black,BENITA,PEGUES,1604 Bingamon Road,Cleantown,ST,44080.0,True,False,None
+252,Emma,WEISS,2001-03-31,Girl,White,GALE,WEISS,3774 Alfred Drive,Cleantown,ST,17401.0,True,False,None
+253,Bennett,LENTZ,2006-07-17,Boy,White,BRETT,LENTZ,2887 Hampton Meadows,Cleantown,ST,1776.0,True,False,None
+254,Alessandro,LAGUNAS,2002-10-30,Boy,Hispanic,CAROLINA,LAGUNAS,3881 Eastland Avenue,Cleantown,ST,39201.0,True,False,None
+255,Marleigh,VU,2002-05-19,Girl,AAPI,JULIAN,VU,3606 Tipple Road,Cleantown,ST,19020.0,True,False,None
+256,Thomas,BAUER,2006-06-24,Boy,White,CONSUELO,BAUER,4839 South Street,Cleantown,ST,22903.0,True,False,None
+257,Beau,HEATON,2007-06-05,Boy,White,DOMINIQUE,HEATON,2530 Courtright Street,Cleantown,ST,58734.0,True,False,None
+258,Reese,MENJIVAR,2006-05-30,Boy,Hispanic,MEAGAN,MENJIVAR,2069 Oliverio Drive,Cleantown,ST,67844.0,True,False,None
+259,Ansley,ARTEAGA,1998-01-13,Girl,Hispanic,TONIA,HERNANDEZ,3365 Alpha Avenue,Cleantown,ST,32202.0,True,False,None
+260,Anthony,ONEILL,2006-09-17,Boy,White,JONI,CARLSON,2530 Five Points,Cleantown,ST,21201.0,True,False,None
+261,Kadence,CRONIN,2007-09-26,Girl,White,MARGRET,CARLSON,3983 Whitman Court,Cleantown,ST,6492.0,True,False,None
+262,Emiliano,BERGMAN,2000-04-14,Boy,White,JANINE,BRANDT,1633 Red Hawk Road,Cleantown,ST,32801.0,True,False,None
+263,Mariyah,DEBERRY,2008-03-29,Girl,Black,BYRON,DEBERRY,856 Lauren Drive,Cleantown,ST,53718.0,True,False,None
+264,Justin,OLSEN,1999-11-22,Boy,White,TAMIKA,LARSON,4311 Wyatt Street,Cleantown,ST,33483.0,True,False,None
+265,Mekhi,MURILLO,2002-09-12,Boy,Hispanic,RICK,MURILLO,3768 Lynn Street,Cleantown,ST,1610.0,True,False,None
+266,Eliana,GAGNON,2007-06-18,Girl,White,CANDY,ROTH,1705 Rubaiyat Road,Cleantown,ST,49627.0,True,False,None
+267,Harlee,DUBOSE,2002-08-08,Girl,Black,ERIK,JACKSON,4869 Cooks Mine Road,Cleantown,ST,87102.0,True,False,None
+268,Kenya,MURILLO,2003-05-05,Girl,Hispanic,DALE,LOERA,2725 Steve Hunt Road,Cleantown,ST,33169.0,True,False,None
+269,Pyper,NGUYEN,2004-04-14,Girl,AAPI,ALYCE,NGUYEN,3963 Hoffman Avenue,Cleantown,ST,11743.0,True,False,None
+270,Ethan,BRENNAN,2006-12-10,Boy,White,BRAD,DENNEY,4337 Stratford Park,Cleantown,ST,47524.0,True,False,None
+271,Helen,SHOOK,2006-04-27,Girl,White,GREG,SHOOK,2719 Emily Renzelli Boulevard,Cleantown,ST,93901.0,True,False,None
+272,Kailani,LY,2009-08-22,Girl,AAPI,FRANCESCA,LY,645 Coal Road,Cleantown,ST,18708.0,True,False,None
+273,Kylie,HARTMAN,2010-02-08,Girl,White,AILEEN,JENSEN,868 Sumner Street,Cleantown,ST,90220.0,True,False,None
+274,Trinity,SCHNEIDER,1999-07-13,Girl,White,SONDRA,SCHNEIDER,4268 Lucy Lane,Cleantown,ST,47714.0,True,False,None
+275,Roberto,BLOOM,2007-10-19,Boy,White,ELMER,DURBIN,4930 Main Street,Cleantown,ST,98101.0,True,False,None
+276,Scarlette,LIANG,2002-06-03,Girl,AAPI,TAMERA,HO,643 Rhode Island Avenue,Cleantown,ST,20763.0,True,False,None
+277,Kiara,COUGHLIN,1999-03-24,Girl,White,BERNADINE,COUGHLIN,3390 Benedum Drive,Cleantown,ST,10901.0,True,False,None
+278,Graham,KOWALSKI,1999-02-01,Boy,White,CLEO,KOWALSKI,3503 Lynn Ogden Lane,Cleantown,ST,77630.0,True,False,None
+279,Ariel,ERAZO,2000-08-16,Boy,Hispanic,JIMMIE,ERAZO,2328 Taylor Street,Cleantown,ST,10528.0,True,False,None
+280,Lily,MEYER,2004-11-30,Girl,White,AUDRA,MEYER,1397 Oakmound Road,Cleantown,ST,60004.0,True,False,None
+281,Leah,SCHMIDT,2002-07-30,Girl,White,CHERIE,SCHMIDT,2338 Charla Lane,Cleantown,ST,75002.0,True,False,None
+282,Gabriel,PEDERSEN,2004-02-26,Boy,White,CHARLIE,PEDERSEN,4251 Briarhill Lane,Cleantown,ST,44481.0,True,False,None
+283,Vanessa,SCHMITT,1998-06-29,Girl,White,FRANKIE,KOENIG,148 White Lane,Cleantown,ST,31206.0,True,False,None
+284,Teagan,JANG,2000-09-22,Boy,AAPI,TISHA,PATEL,1181 Capitol Avenue,Cleantown,ST,47374.0,True,False,None
+285,Duncan,WILLIAMS,2006-11-22,Boy,Black,KATHRINE,STITH,2490 Union Street,Cleantown,ST,98101.0,True,False,None
+286,Sophia,WETZEL,1998-04-05,Girl,White,CAROLINA,JENSEN,3474 Wescam Court,Cleantown,ST,89701.0,True,False,None
+287,Madison,HORVATH-BARTH,2002-09-15,Girl,White,HILARY,HORVATH-BARTH,4235 Mercer Street,Cleantown,ST,54480.0,True,False,None
+288,Rudy,BRUNSON,2007-01-21,Boy,Black,FERNANDO,BRUNSON,1607 Patterson Street,Cleantown,ST,77478.0,True,False,None
+289,Allyson,GALLAGHER,2010-09-22,Girl,White,AUTUMN,SCHMIDT,2831 Del Dew Drive,Cleantown,ST,20852.0,True,False,None
+290,Jessie,CERVANTES,2009-06-21,Girl,Hispanic,HELENA,CERVANTES,4678 Aaron Smith Drive,Cleantown,ST,17404.0,True,False,None
+291,Madeleine,SCHNEIDER,2007-07-06,Girl,White,JACLYN,SCHNEIDER,3609 Old House Drive,Cleantown,ST,45619.0,True,False,None
+292,Miah,AMAYA,2002-10-24,Girl,Hispanic,CAROLINA,AMAYA,1678 Chipmunk Lane,Cleantown,ST,98109.0,True,False,None
+293,Susan,WITHERSPOON,1999-11-14,Girl,Black,MARI,WITHERSPOON,2720 Twin Oaks Drive,Cleantown,ST,49503.0,True,False,None
+294,Mason,KNAPP,2002-04-07,Boy,White,ELMER,OBRIEN,2792 Clearview Drive,Cleantown,ST,80439.0,True,False,None
+295,Riya,CHUNG,2005-07-16,Girl,AAPI,JULIET,LIANG,4540 Meadow Drive,Cleantown,ST,73135.0,True,False,None
+296,Noah,WINKLER,1998-04-04,Boy,White,THERESE,WINKLER,980 Stanton Hollow Road,Cleantown,ST,2174.0,True,False,None
+297,Rylan,SHAPIRO,2008-03-26,Boy,White,BRETT,SHAPIRO,2368 Roosevelt Wilson Lane,Cleantown,ST,92407.0,True,False,None
+298,Nadia,WOLF,2004-04-07,Girl,White,JUSTINE,GALLAGHER,2092 Jenna Lane,Cleantown,ST,45245.0,True,False,None
+299,Luciano,SCHMIDT,2006-10-06,Boy,White,SOCORRO,SCHMIDT,491 Hall Valley Drive,Cleantown,ST,26003.0,True,False,None
+300,Melody,ERICKSON,2003-07-03,Girl,White,LUPE,ERICKSON,328 Short Street,Cleantown,ST,78723.0,True,False,None
+301,Makai,HERNANDEZ,2001-10-30,Boy,Hispanic,JONI,HURTADO,1936 Limer Street,Cleantown,ST,31024.0,True,False,None
+302,Lorenzo,STEINBERG,1998-05-22,Boy,White,ALISA,STEINBERG,4117 Oak Avenue,Cleantown,ST,60015.0,True,False,None
+303,Elian,ARRIAGA,2005-09-12,Boy,Hispanic,PEDRO,OCHOA,2054 Bird Spring Lane,Cleantown,ST,77014.0,True,False,None
+304,Kailani,OXENDINE,2010-02-01,Girl,Native,TERRA,BENALLIE,1050 Traction Street,Cleantown,ST,28217.0,True,False,None
+305,Natalie,WHALEN,2007-10-11,Girl,White,HECTOR,WHALEN,3401 Hartland Avenue,Cleantown,ST,54115.0,True,False,None
+306,Ireland,TORIVIO,2006-06-04,Girl,Native,EVANGELINA,TORIVIO,4416 Melville Street,Cleantown,ST,38002.0,True,False,None
+307,Waylon,GANNON,2007-09-08,Boy,White,WILLA,GANNON,1718 Heliport Loop,Cleantown,ST,47610.0,True,False,None
+308,Clarissa,WESLEY,2002-12-18,Girl,Black,ROSANNE,WILLIAMS,3665 Harper Street,Cleantown,ST,42101.0,True,False,None
+309,Emily,CARLSON,2007-05-02,Girl,White,KIMBERLEY,CARLSON,4286 Glenview Drive,Cleantown,ST,78476.0,True,False,None
+310,Reese,WOLF,2006-06-06,Girl,White,JONI,WOLF,2242 Whitman Court,Cleantown,ST,6995.0,True,False,None
+311,Jacob,MEIER,2010-08-06,Boy,White,KERI,SCHROEDER,3732 Paul Wayne Haggerty Road,Cleantown,ST,70065.0,True,False,None
+312,Bethany,GOLDSTEIN,2003-09-08,Girl,White,DENA,GOLDSTEIN,4631 Plainfield Avenue,Cleantown,ST,13502.0,True,False,None
+313,Isaac,SORENSEN,2008-08-31,Boy,White,DUANE,SORENSEN,3888 Meadowcrest Lane,Cleantown,ST,41267.0,True,False,None
+314,Jaxon,HANSEN,1999-06-25,Boy,White,IMOGENE,HANSEN,3450 Rhode Island Avenue,Cleantown,ST,20008.0,True,False,None
+315,Isaiah,DOLAN,2009-07-28,Boy,White,RENE,DOLAN,1499 Hood Avenue,Cleantown,ST,92128.0,True,False,None
+316,Aldo,ZAVALA,2009-11-15,Boy,Hispanic,CLAUDETTE,ZAVALA,885 Eagle Lane,Cleantown,ST,58203.0,True,False,None
+317,Mekhi,VALLADARES,1998-03-27,Boy,Hispanic,ISABELLE,VALLADARES,1139 Moonlight Drive,Cleantown,ST,7305.0,True,False,None
+318,Jerome,PIERRELOUIS,2005-01-23,Boy,Black,MARYANNE,WASHINGTON,895 Perry Street,Cleantown,ST,48075.0,True,False,None
+319,Arely,HERNANDEZ,2006-03-12,Girl,Hispanic,LEOLA,CARDENAS,4950 Birch  Street,Cleantown,ST,79915.0,True,False,None
+320,Ariana,BRENNAN,2008-04-12,Girl,White,ANDRE,ROTH,4055 Saint Marys Avenue,Cleantown,ST,13612.0,True,False,None
+321,Evan,JENSEN,2003-08-25,Boy,White,LESLIE,JENSEN,2568 Church Street,Cleantown,ST,10013.0,True,False,None
+322,Maliah,NGHIEM,2002-12-18,Girl,AAPI,LILIANA,NGHIEM,1668 River Road,Cleantown,ST,80903.0,True,False,None
+323,Ian,SCHWARTZ,1999-10-30,Boy,White,RUTHIE,SCHWARTZ,241 Linden Avenue,Cleantown,ST,32789.0,True,False,None
+324,Andrew,BOWER,1998-08-07,Boy,White,SAM,BOWER,4592 Barrington Court,Cleantown,ST,72560.0,True,False,None
+325,Alan,HOFFMAN,2009-03-01,Boy,White,EDGAR,HOFFMAN,1039 Glory Road,Cleantown,ST,37040.0,True,False,None
+326,Piper,CAHILL,2008-10-02,Girl,White,HERMAN,CAHILL,3855 Kemper Lane,Cleantown,ST,84104.0,True,False,None
+327,Gavin,WALSH,2009-08-12,Boy,White,RUBEN,WALSH,3754 Ford Street,Cleantown,ST,95050.0,True,False,None
+328,Paisley,SCHWARTZ,2000-07-31,Girl,White,LEANNE,SCHWARTZ,4869 Cooks Mine Road,Cleantown,ST,87102.0,True,False,None
+329,Martha,VAZQUEZ,2005-11-19,Girl,Hispanic,KIMBERLEY,VAZQUEZ,4287 Newton Street,Cleantown,ST,56303.0,True,False,None
+330,Kaydence,SCHRADER-LANDIS,2002-04-14,Girl,White,CONSUELO,SCHRADER-LANDIS,2177 Dennison Street,Cleantown,ST,95354.0,True,False,None
+331,Leonard,RAMIREZ,2007-07-08,Boy,Hispanic,DONA,RAMIREZ,4251 Crosswind Drive,Cleantown,ST,42718.0,True,False,None
+332,Juliette,SHOEMAKER,2001-10-08,Girl,White,JEWELL,BOYLE,3740 Byers Lane,Cleantown,ST,96052.0,True,False,None
+333,Rene,WASHINGTON,2002-09-23,Boy,Black,JULIETTE,WASHINGTON,3669 Lang Avenue,Cleantown,ST,84074.0,True,False,None
+334,Mark,HANSEN,2009-03-28,Boy,White,ANGEL,HANSEN,1424 Breezewood Court,Cleantown,ST,67107.0,True,False,None
+335,Nevaeh,ODONNELL,2004-01-08,Girl,White,RICK,ODONNELL,4674 Kovar Road,Cleantown,ST,2132.0,True,False,None
+336,Brent,WASHINGTON,2006-04-21,Boy,Black,GENA,WASHINGTON,1274 Nash Street,Cleantown,ST,48226.0,True,False,None
+337,Sebastian,LOMBARDI,2006-06-18,Boy,White,MARGO,WETZEL,1890 Del Dew Drive,Cleantown,ST,20601.0,True,False,None
+338,Carla,GIVENS,2005-09-28,Girl,Black,MINERVA,GIVENS,3853 Riverwood Drive,Cleantown,ST,95713.0,True,False,None
+339,Isabelle,RICHTER,2010-01-23,Girl,White,JOCELYN,RICHTER,661 Beechwood Drive,Cleantown,ST,15222.0,True,False,None
+340,Boden,SALEH,2002-08-03,Boy,Other,WADE,MIRZA,3669 Lang Avenue,Cleantown,ST,84074.0,True,False,None
+341,Jaxon,HENSLEY,2008-01-17,Boy,White,NELL,HENSLEY,1231 Union Street,Cleantown,ST,98109.0,True,False,None
+342,Jasiah,ACEVES,2000-04-28,Boy,Hispanic,JIMMIE,MELGOZA,395 Zimmerman Lane,Cleantown,ST,90014.0,True,False,None
+343,Jason,HANSEN-DAMICO,2001-10-27,Boy,White,GRACIE,HANSEN-DAMICO,1527 Valley Street,Cleantown,ST,8102.0,True,False,None
+344,Conrad,GONZALEZ,2001-04-02,Boy,Hispanic,RACHELLE,GONZALEZ,4585 Oakdale Avenue,Cleantown,ST,33852.0,True,False,None
+345,Ciara,VILLALOBOS,2007-01-06,Girl,Hispanic,ALEXANDRIA,VILLALOBOS,2521 Winifred Way,Cleantown,ST,46254.0,True,False,None
+346,Mateo,GAGNON,1999-08-25,Boy,White,ALTA,GAGNON,2417 Kuhl Avenue,Cleantown,ST,30209.0,True,False,None
+347,Rosalie,BERGERON-HANSEN,2002-03-26,Girl,White,BRIANNA,RUSSO,2033 Lauren Drive,Cleantown,ST,54636.0,True,False,None
+348,Dakota,JAEGER,1998-08-23,Boy,White,ESPERANZA,JAEGER,2530 Five Points,Cleantown,ST,21201.0,True,False,None
+349,Jordan,GALLAGHER,2000-12-22,Boy,White,TAMIKA,GALLAGHER,2442 Emeral Dreams Drive,Cleantown,ST,60005.0,True,False,None
+350,Luke,SCHMIDT,2001-06-26,Boy,White,LUELLA,SCHMIDT,2629 Little Street,Cleantown,ST,44241.0,True,False,None
+351,Brock,GALLAGHER,2010-08-06,Boy,White,FRANKIE,SCHMIDT,3637 Ripple Street,Cleantown,ST,48601.0,True,False,None
+352,Tara,KAPADIA,2007-02-26,Girl,AAPI,MADELEINE,KAPADIA,3223 Finwood Road,Cleantown,ST,7477.0,True,False,None
+353,Abby,CARLSON,2000-10-26,Girl,White,SHAUNA,CARLSON,665 Elk Rd Little,Cleantown,ST,12207.0,True,False,None
+354,Mia,ROTH,2009-07-06,Girl,White,MOLLIE,ROTH,1942 Jerry Toth Drive,Cleantown,ST,47527.0,True,False,None
+355,Sincere,RIOS,2007-03-05,Boy,Hispanic,BEATRIZ,RAMIRES,3199 Vineyard Drive,Cleantown,ST,44026.0,True,False,None
+356,Sawyer,OLSON,2008-07-24,Girl,White,BERNADINE,OLSON,893 Michigan Avenue,Cleantown,ST,97205.0,True,False,None
+357,Jacob,KLINE,2008-05-11,Boy,White,JERI,KRUEGER,1847 Norman Street,Cleantown,ST,90063.0,True,False,None
+358,Seth,MCHUGH,2008-04-07,Boy,White,AUDRA,KURTZ,4123 Snyder Avenue,Cleantown,ST,28210.0,True,False,None
+359,Giancarlo,EADDY,2008-09-16,Boy,Black,CHARLIE,EADDY,439 Fulton Street,Cleantown,ST,64106.0,True,False,None
+360,Emma,WOLFF-KUHN,2002-09-25,Girl,White,RAFAEL,WOLFF-KUHN,1633 Willis Avenue,Cleantown,ST,32114.0,True,False,None
+361,Nathan,STEINER,2008-05-02,Boy,White,LIZZIE,STEINER,3035 Broaddus Avenue,Cleantown,ST,42101.0,True,False,None
+362,Sofia,LANDIS-MACDONALD,2002-10-12,Girl,White,BRAD,LANDIS-MACDONALD,4747 Ashcraft Court,Cleantown,ST,92103.0,True,False,None
+363,Alexandra,BECKER,1998-12-15,Girl,White,ANGEL,BECKER,3149 Goosetown Drive,Cleantown,ST,28601.0,True,False,None
+364,Elijah,GAGNON-WILHELM,2009-05-05,Boy,White,DUSTIN,ESPOSITO,2557 Stark Hollow Road,Cleantown,ST,81424.0,True,False,None
+365,Elizabeth,SNYDER,2006-08-26,Girl,White,KIRSTEN,SNYDER,635 Old House Drive,Cleantown,ST,45661.0,True,False,None
+366,Elliott,WILLIAMS,1998-10-31,Girl,Black,JANNA,WILLIAMS,2678 Eagle Drive,Cleantown,ST,48342.0,True,False,None
+367,London,PALACIOS,2003-07-27,Boy,Hispanic,WESLEY,PALACIOS,4150 Poco Mas Drive,Cleantown,ST,75034.0,True,False,None
+368,Harper,NEUMANN,2007-10-14,Girl,White,GABRIEL,NEUMANN,2156 Aviation Way,Cleantown,ST,90017.0,True,False,None
+369,Dane,JUAREZ,2008-10-03,Boy,Hispanic,REGINALD,JUAREZ,4258 Payne Street,Cleantown,ST,24361.0,True,False,None
+370,Brenna,JEFFERSON,2001-12-14,Girl,Black,EARLINE,JEFFERSON,4183 Pallet Street,Cleantown,ST,11101.0,True,False,None
+371,Blake,BARAHONA,1998-09-24,Girl,Hispanic,LUPE,BARAHONA,539 Better Street,Cleantown,ST,66202.0,True,False,None
+372,Roland,GONZALEZ,1998-04-05,Boy,Hispanic,PAIGE,GONZALEZ,4909 Crummit Lane,Cleantown,ST,68501.0,True,False,None
+373,Noah,OCONNOR,2005-01-28,Boy,White,JANETTE,KNAPP,706 Walnut Avenue,Cleantown,ST,7601.0,True,False,None
+374,Jazlynn,CURIEL-VELAZQUEZ,2008-11-24,Girl,Hispanic,JEANNINE,CURIEL-VELAZQUEZ,4251 Pennsylvania Avenue,Cleantown,ST,8854.0,True,False,None
+375,Anabel,WILLIAMS,2002-01-30,Girl,Black,JANNA,WILLIAMS,2252 Hilltop Drive,Cleantown,ST,79401.0,True,True,Guessing-First Name
+376,Alma,URBINA,2008-07-23,Girl,Hispanic,LATISHA,URBINA,1049 Willow Greene Drive,Cleantown,ST,36801.0,True,True,Guessing-First Name
+377,Sophiaa,DONNELLY,2000-04-21,Girl,White,WINNIE,DONNELLY,1597 Harron Drive,Cleantown,ST,21202.0,True,True,Guessing-First Name
+378,Rodnie,IBARRA,1999-12-28,Boy,Hispanic,AUTUMN,IBARRA,238 Wiseman Street,Cleantown,ST,37917.0,True,True,Guessing-First Name
+379,Leuren,MACDONALD,2005-09-03,Girl,White,MAURICE,MACDONALD,136 Riverside Drive,Cleantown,ST,30731.0,True,True,Guessing-First Name
+380,Titan,WILLIAMS,2002-09-25,Boy,Black,ELINOR,DUKES,4544 Matthews Street,Cleantown,ST,61081.0,True,True,Guessing-First Name
+381,Jourdyn,JACKSON,2010-06-20,Girl,Black,TERRIE,JACKSON,2161 Kidd Avenue,Cleantown,ST,99901.0,True,True,Guessing-First Name
+382,Renee,HOANG,2001-01-25,Girl,AAPI,JOHNNIE,HOANG,3608 Lee Avenue,Cleantown,ST,8102.0,True,True,Guessing-First Name
+383,Landon,WALSH,2006-08-13,Boy,White,SHAUNA,WALSH,303 Wood Duck Drive,Cleantown,ST,49855.0,True,True,Guessing-First Name
+384,Leilanii,TOTH,2002-03-26,Girl,White,RAE,TOTH,4991 Ocello Street,Cleantown,ST,92117.0,True,True,Guessing-First Name
+385,Kale,CHUNGH,1999-11-19,Boy,AAPI,BRIANA,CHUNG,1149 Evergreen Lane,Cleantown,ST,90255.0,True,True,Guessing-Last Name
+386,Josiah,SCHRAADER,2009-07-12,Boy,White,BEATRIZ,NIELSEN,3139 Passaic Street,Cleantown,ST,20009.0,True,True,Guessing-Last Name
+387,Micah,WHINKLER,2002-02-14,Boy,White,DOLLY,WINKLER,573 Robinson Lane,Cleantown,ST,45680.0,True,True,Guessing-Last Name
+388,Nadia,CHESTAN,2005-09-28,Girl,White,DEBORA,CHASTAIN,3013 Johnson Street,Cleantown,ST,27801.0,True,True,Guessing-Last Name
+389,Carlie,NGUUYEN,2008-05-27,Girl,AAPI,HALLIE,NGUYEN,36 Wilson Avenue,Cleantown,ST,75081.0,True,True,Guessing-Last Name
+390,Bella,HEESS,2001-04-20,Girl,White,CLEO,HESS,1234 Windy Ridge Road,Cleantown,ST,46750.0,True,True,Guessing-Last Name
+391,Gianna,ROSENBUR,2007-11-17,Girl,White,GABRIELLE,SHAPIRO,2536 Murry Street,Cleantown,ST,23323.0,True,True,Guessing-Last Name
+392,Andrew,MCKENSZIE,2009-10-24,Boy,White,NELL,MACKENZIE,1583 Melrose Street,Cleantown,ST,98908.0,True,True,Guessing-Last Name
+393,Esme,JAQCKSON,2008-08-31,Girl,Black,NANETTE,JACKSON,1829 Ethels Lane,Cleantown,ST,33825.0,True,True,Guessing-Last Name
+394,Bryce,GILIYLAND,2004-09-30,Boy,White,JIMMIE,GILLILAND,1324 O Conner Street,Cleantown,ST,31768.0,True,True,Guessing-Last Name
+395,Emmy,AYALA,2010-01-01,Girl,Hispanic,DUANE,TELLEZ,4251 Turnpike Drive,Cleantown,ST,35203.0,True,True,Guessing-DOB
+396,Gage,BOWER,2007-09-01,Boy,White,AUTUMN,BOWER,2853 Upland Avenue,Cleantown,ST,44837.0,True,True,Guessing-DOB
+397,Kamila,LANGE,2010-07-01,Girl,White,STACI,LANGE,4321 Ritter Street,Cleantown,ST,36201.0,True,True,Guessing-DOB
+398,Adrien,WILLIAMS,2005-09-01,Boy,Black,ALEJANDRA,WILLIAMS,1583 Melrose Street,Cleantown,ST,98908.0,True,True,Guessing-DOB
+399,Winston,WEINER-POST,2001-07-01,Boy,White,BRIDGETTE,WEINER-POST,3485 Agriculture Lane,Cleantown,ST,33176.0,True,True,Guessing-DOB
+400,Joehua,BAER-SCHULTZ,2007-02-21,Boy,White,ELNORA,GOLDSTEIN,1584 Bel Meadow Drive,Cleantown,ST,90017.0,True,True,Typo-First Name
+401,Ziuon,TILLMAN,2004-03-12,Girl,Black,NELSON,TILLMAN,2500 Burton Avenue,Cleantown,ST,38117.0,True,True,Typo-First Name
+402,Yarteli,SPEIGHT,1999-02-23,Girl,Black,ESTELA,SPEIGHT,1823 Daffodil Lane,Cleantown,ST,22070.0,True,True,Typo-First Name
+403,Gabrielp,WOLFF,2003-07-07,Boy,White,GABRIELLE,WOLFF,270 College Street,Cleantown,ST,30093.0,True,True,Typo-First Name
+404,Skylarf,MEYER,2010-09-24,Girl,White,BEN,MEYER,3109 Rebecca Street,Cleantown,ST,60090.0,True,True,Typo-First Name
+405,Chaxrlotte,WEISS,2003-02-13,Girl,White,VERNON,WEISS,1188 Limer Street,Cleantown,ST,30165.0,True,True,Typo-First Name
+406,Brzndon,GALLAGHER,2006-01-27,Boy,White,LESTER,GALLAGHER,3554 Whitetail Lane,Cleantown,ST,75225.0,True,True,Typo-First Name
+407,Suttin,WILLIAMS-CHISOLM,2003-01-19,Girl,Black,HILLARY,WILLIAMS-CHISOLM,2972 Jessie Street,Cleantown,ST,43130.0,True,True,Typo-First Name
+408,Kinngsley,MCMILLIAN,2004-10-10,Boy,Black,ASHLEE,MCMILLIAN,611 Roy Alley,Cleantown,ST,80111.0,True,True,Typo-First Name
+409,Josfe,CARLSON,2003-10-23,Boy,White,CONCEPCION,CARLSON,3735 Apple Lane,Cleantown,ST,52807.0,True,True,Typo-First Name
+410,Cara,GONZALEEZ,2002-09-25,Girl,Hispanic,FAY,GONZALEZ,3022 Pallet Street,Cleantown,ST,10601.0,True,True,Typo-Last Name
+411,Brynn,CLLINE,2007-05-14,Girl,White,CANDY,CLINE,2027 Dancing Dove Lane,Cleantown,ST,11357.0,True,True,Typo-Last Name
+412,Thatcher,SSMALLS,2005-04-19,Boy,Black,RHODA,SMALLS,2265 Beechwood Avenue,Cleantown,ST,7701.0,True,True,Typo-Last Name
+413,Paloma,WWASHINGTON,2006-11-05,Girl,Black,ELINOR,PARHAM,2329 Center Street,Cleantown,ST,7304.0,True,True,Typo-Last Name
+414,Maya,PPAULSON,2002-03-07,Girl,White,ROSALYN,PAULSON,1201 Grove Avenue,Cleantown,ST,73128.0,True,True,Typo-Last Name
+415,Lucas,ARNDTT,1999-05-15,Boy,White,GLEN,ARNDT,856 Lauren Drive,Cleantown,ST,53718.0,True,True,Typo-Last Name
+416,Jose,SSTEIN,2004-03-08,Boy,White,PEDRO,OLSON,4397 Maxwell Street,Cleantown,ST,6103.0,True,True,Typo-Last Name
+417,Londyn,CRABTREEE,2008-12-05,Girl,White,CLEO,CRABTREE,1048 Bagwell Avenue,Cleantown,ST,32671.0,True,True,Typo-Last Name
+418,Emelia,HERNNANDEZ,1999-06-27,Girl,Hispanic,DERRICK,HERNANDEZ,3875 Java Lane,Cleantown,ST,29115.0,True,True,Typo-Last Name
+419,Dylan,RIZZOO,2007-06-03,Boy,White,PETRA,RIZZO,1234 Windy Ridge Road,Cleantown,ST,46750.0,True,True,Typo-Last Name
+420,Miguel,HOFFMAN-GARBER,2009-03-09,Boy,White,MARC,HOFFMAN-GARBER,4980 West Fork Street,Cleantown,ST,59330.0,True,True,Typo-DOB
+421,Cassandra,PELLETIER,2004-19-06,Girl,White,FRANKLIN,SCHUMACHER,3893 Aaron Smith Drive,Cleantown,ST,17201.0,True,True,Typo-DOB
+422,Alejandro,YODER,1999-15-01,Boy,White,KEISHA,YODER,934 Oliver Street,Cleantown,ST,75074.0,True,True,Typo-DOB
+423,Sky,CARDENAS,2007-07-06,Girl,Hispanic,DENA,CARDENAS,4066 Benson Street,Cleantown,ST,54855.0,True,True,Typo-DOB
+424,Declan,HANSEN,2005-07-08,Boy,White,BETTE,ERICKSON,1487 Jenna Lane,Cleantown,ST,50317.0,True,True,Typo-DOB
+425,Elyssed,JIMENEZ,2004-02-03,Girl,Hispanic,MAURICE,JIMENEZ,3658 Leo Street,Cleantown,ST,15203.0,True,True,Guess and Typo-First Name
+426,Valantihna,KIM,2006-03-20,Boy,AAPI,VIRGIL,KIM,1061 Fancher Drive,Cleantown,ST,75074.0,True,True,Guess and Typo-First Name
+427,Tetrence,MURILLO,1998-03-04,Boy,Hispanic,DENA,MURILLO,3408 Boone Crockett Lane,Cleantown,ST,98261.0,True,True,Guess and Typo-First Name
+428,Eliannde,HERNANDEZ,1998-03-18,Boy,Hispanic,JANETTE,HERNANDEZ,2662 Upland Avenue,Cleantown,ST,43315.0,True,True,Guess and Typo-First Name
+429,Skatlet,SNYDER,1999-10-30,Girl,White,RON,SNYDER,2575 Pursglove Court,Cleantown,ST,45429.0,True,True,Guess and Typo-First Name
+430,Mario,HYOFF,2006-01-10,Boy,White,LEANN,HOFF,1786 Hampton Meadows,Cleantown,ST,1742.0,True,True,Guess and Typo-Last Name
+431,Adam,DEWNY,2000-05-24,Boy,White,LILLY,DENNEY,871 Mount Olive Road,Cleantown,ST,30093.0,True,True,Guess and Typo-Last Name
+432,Terry,JAKEA,2007-07-22,Boy,Hispanic,GRETA,HERNANDEZ,3771 Henry Ford Avenue,Cleantown,ST,10016.0,True,True,Guess and Typo-Last Name
+433,Oakley,GSRELDS,2007-07-25,Girl,Black,SERENA,PLEASANT,3117 Marietta Street,Cleantown,ST,94612.0,True,True,Guess and Typo-Last Name
+434,Addison,NPVECK,2006-01-06,Girl,White,ROSALIND,NOVAK-MCGRATH,3117 Marietta Street,Cleantown,ST,94612.0,True,True,Guess and Typo-Last Name
+435,Megan,HARMS,2000-11-01,Girl,White,MITZI,HARMS,1405 Dark Hollow Road,Cleantown,ST,59230.0,False,True,Ambiguity DOB
+436,Harper,OLSEN,2003-01-01,Girl,White,RUBEN,OBRIEN,3539 Rowes Lane,Cleantown,ST,75253.0,False,True,Ambiguity DOB
+437,Madelyn,SIZEMORE,2000-10-01,Girl,White,MAYRA,SIZEMORE,1801 Linda Street,Cleantown,ST,97383.0,False,True,Ambiguity DOB
+438,Presley,KRUGER,2008-03-16,Girl,White,LUISA,KRUGER,907 Wayside Lane,Cleantown,ST,22601.0,False,True,Ambiguity Exact
+439,Jermaine,RIOS,1998-01-29,Boy,Hispanic,TYRONE,RIOS,4034 Edwards Street,Cleantown,ST,10016.0,False,True,Ambiguity Exact
+440,Ryland,SHAPIRO,1999-01-19,Boy,White,AVA,SHAPIRO,877 Passaic Street,Cleantown,ST,84401.0,False,True,Ambiguity Exact
+441,Jeremiah,ADLER,2002-03-07,Boy,White,ELMER,WEBER,3960 Hog Camp Road,Cleantown,ST,70458.0,False,True,Ambiguity Exact
+442,Remy,NG,2009-02-14,Girl,AAPI,DENA,NG,4951 Emma Street,Cleantown,ST,56032.0,False,True,Ambiguity Exact
+443,Easton,CARUSO,2009-02-08,Boy,White,WILLARD,CARUSO,439 Irving Road,Cleantown,ST,89102.0,False,True,Ambiguity First Name
+444,Chloe,MOSER,2002-09-04,Girl,White,NOLA,MOSER,2252 Hilltop Drive,Cleantown,ST,46142.0,False,True,Ambiguity First Name
+445,Rebecca,LARSON,2001-08-19,Girl,White,JOHNNIE,LARSON,1658 Brannon Avenue,Cleantown,ST,28801.0,False,True,Ambiguity First Name
+446,Eve,KEENAN,2005-10-22,Girl,White,DUANE,KEENAN,536 Horizon Circle,Cleantown,ST,39180.0,False,True,Ambiguity First Name
+447,Lauren,DIETRICH,2005-12-21,Girl,White,BRIANNA,DIETRICH,4335 Riverside Drive,Cleantown,ST,91403.0,False,True,Ambiguity Last Name
+448,Isabella,OBRIEN,2004-09-07,Girl,White,MARCY,PETERSEN,2680 Walnut Street,Cleantown,ST,42079.0,False,True,Ambiguity Last Name
+449,Valentino,WILLIAMS,2009-04-29,Boy,Black,FELIX,WILLIAMS,1279 Masonic Drive,Cleantown,ST,92507.0,False,True,Ambiguity Last Name
+450,Aiden,DOLAN,2009-11-06,Boy,White,ARNOLD,DOLAN,3362 Maxwell Farm Road,Cleantown,ST,24555.0,False,False,None
+451,London,HOFFMAN,1999-08-24,Girl,White,CLEO,HOFFMAN,3249 Valley Lane,Cleantown,ST,78723.0,False,False,None
+452,Brett,HERNANDEZ,2009-11-16,Boy,Hispanic,JEWELL,HERNANDEZ,148 Hill Haven Drive,Cleantown,ST,98109.0,False,False,None
+453,Logan,BYRNE-LARSON,2002-01-22,Boy,White,LARA,BYRNE-LARSON,1664 Rosebud Avenue,Cleantown,ST,72212.0,False,False,None
+454,Alice,MATTINGLY,1999-04-10,Girl,White,RAUL,BURKHART,2964 Poplar Lane,Cleantown,ST,33487.0,False,False,None
+455,Abigail,SCHRADER,2003-03-11,Girl,White,IVY,SCHRADER,3334 Khale Street,Cleantown,ST,29501.0,False,False,None
+456,Elyse,HERNANDEZ,2010-11-15,Girl,Hispanic,KEISHA,HERNANDEZ,148 Joes Road,Cleantown,ST,12207.0,False,False,None
+457,Brenden,ALMANZA,2006-11-30,Boy,Hispanic,DEANA,ALMANZA,3409 Sugar Camp Road,Cleantown,ST,55060.0,False,False,None
+458,Patrick,MOSER,2002-01-06,Boy,White,MARISA,MOSER,1078 Hillview Street,Cleantown,ST,29201.0,False,False,None
+459,Carolyn,LOZOYA,2010-09-15,Girl,Hispanic,SHANA,LOZOYA,2958 Spruce Drive,Cleantown,ST,15219.0,False,False,None
+460,Jaylene,RIDDICK,2009-11-11,Girl,Black,LYNNETTE,RIDDICK,988 Cambridge Court,Cleantown,ST,72901.0,False,False,None
+461,Liana,ARIZMENDI,2009-12-06,Girl,Hispanic,SHANNA,ARIZMENDI,4289 Browning Lane,Cleantown,ST,13780.0,False,False,None
+462,Yehuda,WALKINGEAGLE,2005-03-19,Boy,Native,INES,WALKINGEAGLE,1716 Poplar Lane,Cleantown,ST,33178.0,False,False,None
+463,Tyler,SCHWARZ,2004-03-18,Boy,White,ZACHARY,SCHWARZ,1317 North Bend River Road,Cleantown,ST,40351.0,False,False,None
+464,Silas,CROUSE,2003-08-28,Boy,White,LUPE,CROUSE,343 Parkway Drive,Cleantown,ST,85714.0,False,False,None
+465,Ariyah,NGUYEN,2000-08-30,Girl,AAPI,LAKEISHA,LU,2252 Trouser Leg Road,Cleantown,ST,1103.0,False,False,None
+466,Kenzie,OLSON,2003-08-04,Girl,White,DALE,DOLAN,1201 Grove Avenue,Cleantown,ST,73128.0,False,False,None
+467,Remy,HERNANDEZ,2005-06-17,Boy,Hispanic,MARC,HERNANDEZ,4780 Roosevelt Wilson Lane,Cleantown,ST,92346.0,False,False,None
+468,Benjamin,KAUFFMAN,2001-06-27,Boy,White,KERI,KAUFFMAN,1317 Patterson Fork Road,Cleantown,ST,60610.0,False,False,None
+469,Rosa,RIOS,2003-07-19,Girl,Hispanic,MARITZA,RIOS,4677 Delaware Avenue,Cleantown,ST,94115.0,False,False,None
+470,Ariyah,QIN,2001-01-05,Girl,AAPI,TESSA,QIN,3170 Riverside Drive,Cleantown,ST,30531.0,False,False,None
+471,Kenia,JACKSON,2004-07-19,Girl,Black,NONA,JACKSON,3138 Adonais Way,Cleantown,ST,30303.0,False,False,None
+472,Jonathon,DIGGS,2006-11-25,Boy,Black,HILARY,ALSTON,343 Ford Street,Cleantown,ST,94539.0,False,False,None
+473,Londyn,JACOBSON,1998-04-09,Girl,White,RAUL,JACOBSON,2262 Kerry Way,Cleantown,ST,92801.0,False,False,None
+474,Mollie,GIVENS,1998-01-26,Girl,Black,ILENE,GIVENS,4073 Coventry Court,Cleantown,ST,39531.0,False,False,None
+475,Cordelia,JOHN,2007-04-27,Girl,Other,ISABELLA,JOHN,981 Ella Street,Cleantown,ST,95134.0,False,False,None
+476,Ariella,KNAPP,2004-06-04,Girl,White,ELMA,GRIMM,4040 Harter Street,Cleantown,ST,45402.0,False,False,None
+477,Finnley,GAINES,2009-03-04,Boy,Black,ELNORA,GAINES,3119 Pick Street,Cleantown,ST,80537.0,False,False,None
+478,Emilee,MACIAS,2004-01-09,Girl,Hispanic,KERI,MACIAS,4173 Cemetery Street,Cleantown,ST,93901.0,False,False,None
+479,Shelby,MAHER,2010-07-21,Girl,White,HILARY,BARNHART,2995 Holden Street,Cleantown,ST,92102.0,False,False,None
+480,Aydin,AYALA,1999-11-18,Boy,Hispanic,KIMBERLEY,AYALA,859 Forest Avenue,Cleantown,ST,10011.0,False,False,None
+481,Lucian,GONZALEZ,2008-03-04,Boy,Hispanic,ARNOLD,CONTRERAS,2999 Clement Street,Cleantown,ST,30071.0,False,False,None
+482,Brooklyn,OBRIEN,2009-12-07,Girl,White,LEANNE,OBRIEN,1912 Carter Street,Cleantown,ST,62037.0,False,False,None
+483,Jose,PAULSON,2002-03-06,Boy,White,MORGAN,PAULSON,2045 Green Avenue,Cleantown,ST,94501.0,False,False,None
+484,Yasmin,GRIER,2005-02-25,Girl,Black,KATHRINE,GRIER,2958 Spruce Drive,Cleantown,ST,15219.0,False,False,None
+485,Bailey,SCHUBERT,2004-03-22,Girl,White,SUMMER,SCHUBERT,278 George Avenue,Cleantown,ST,36693.0,False,False,None
+486,Jayla,HUBER,2002-10-11,Girl,White,JONI,FELDMAN,4730 Lunetta Street,Cleantown,ST,76380.0,False,False,None
+487,Aubrey,FREY,1999-04-18,Girl,White,LATONYA,FREY,1440 Middleville Road,Cleantown,ST,92805.0,False,False,None
+488,Hayden,SCHNEIDER,2001-01-26,Girl,White,SUSANNE,SCHNEIDER,3226 Airplane Avenue,Cleantown,ST,6103.0,False,False,None
+489,Samiyah,AZIZ,2009-05-25,Girl,Other,LETA,AZIZ,2565 Huntz Lane,Cleantown,ST,1702.0,False,False,None
+490,Alana,SHEEHAN,2005-02-06,Girl,White,KEISHA,SHEEHAN,942 Pin Oak Drive,Cleantown,ST,90241.0,False,False,None
+491,Hattie,JIMENEZ,2000-07-18,Girl,Hispanic,MAURICE,OCHOA,136 Riverside Drive,Cleantown,ST,30731.0,False,False,None
+492,Lilly,ZIMMERMAN,2003-06-17,Girl,White,TONIA,ZIMMERMAN,1400 Davisson Street,Cleantown,ST,47374.0,False,False,None
+493,Blake,NEWCOMB,2007-01-18,Boy,White,GLENNA,NEWCOMB,3143 Corpening Drive,Cleantown,ST,48336.0,False,False,None
+494,Aubrey,SCHROEDER,2008-11-26,Girl,White,NELDA,SCHULTZ,891 Fulton Street,Cleantown,ST,26030.0,False,False,None
+495,Mackenzie,FELDMAN-BAUER,2010-07-14,Girl,White,SELMA,FELDMAN-BAUER,3816 Skips Lane,Cleantown,ST,85901.0,False,False,None
+496,Colin,JENSEN,1998-10-27,Boy,White,LILY,ADCOCK,1873 Fort Street,Cleantown,ST,27824.0,False,False,None
+497,Adam,SCHUMACHER,2001-01-23,Boy,White,RANDI,SCHUMACHER,1530 Burton Avenue,Cleantown,ST,38117.0,False,False,None
+498,Enoch,GONZALEZ,2008-04-06,Boy,Hispanic,RICARDO,GONZALEZ,2530 Five Points,Cleantown,ST,21201.0,False,False,None
+499,Robert,CHRISTENSEN,2005-04-28,Boy,White,MARGRET,CHRISTENSEN,801 Despard Street,Cleantown,ST,30344.0,False,False,None
+500,Jaylynn,RAMIREZ,1998-12-11,Girl,Hispanic,SHANA,RAMIREZ,1979 Short Street,Cleantown,ST,78723.0,False,False,None
+501,Galilea,DORSEY-MICKENS,2010-09-02,Girl,Black,ERIK,DORSEY-MICKENS,406 Lucky Duck Drive,Cleantown,ST,15219.0,False,False,None
+502,Kallie,GONZALEZ,2007-11-27,Girl,Hispanic,BRIDGETTE,RUELAS,2902 Angie Drive,Cleantown,ST,54914.0,False,False,None
+503,Maleah,ARREOLA,2001-04-21,Girl,Hispanic,JEWELL,CONTRERAS,2430 Rollins Road,Cleantown,ST,68801.0,False,False,None
+504,Mason,HANSEN,2000-03-11,Boy,White,CHARITY,HANSEN,899 Midway Road,Cleantown,ST,72701.0,False,False,None
+505,Casen,ESCOBEDO,1999-01-05,Boy,Hispanic,CECIL,ESCOBEDO,1719 Hill Croft Farm Road,Cleantown,ST,96107.0,False,False,None
+506,Lillian,COYLE,2006-07-04,Girl,White,JOCELYN,COYLE,2854 Orphan Road,Cleantown,ST,54701.0,False,False,None
+507,Anakin,WANG,1999-07-02,Boy,AAPI,ALFREDA,YANG,210 Westwood Avenue,Cleantown,ST,11743.0,False,False,None
+508,Emelia,PALACIOS,2000-10-27,Girl,Hispanic,ARNOLD,GONZALEZ,3471 Oakdale Avenue,Cleantown,ST,33830.0,False,False,None
+509,Riley,HORVATH,1998-01-29,Girl,White,MINERVA,HORVATH,1539 North Bend River Road,Cleantown,ST,42501.0,False,False,None
+510,Zaiden,PETERSEN,2005-10-11,Boy,White,ELNORA,PETERSEN,942 Pin Oak Drive,Cleantown,ST,90241.0,False,False,None
+511,Diego,WELLER,2002-03-17,Boy,White,HECTOR,WELLER,994 Lost Creek Road,Cleantown,ST,18109.0,False,False,None
+512,Abril,KIM,1999-11-21,Girl,AAPI,DIANN,KIM,4979 Veltri Drive,Cleantown,ST,49806.0,False,False,None
+513,Patricia,CASILLAS,2003-06-30,Girl,Hispanic,PAIGE,CASILLAS,1643 Buena Vista Avenue,Cleantown,ST,97401.0,False,False,None
+514,Sophia,ZIMMERMAN,2008-11-14,Girl,White,GEORGINA,ZIMMERMAN,465 Progress Way,Cleantown,ST,52650.0,False,False,None
+515,Alvaro,NGUYEN,2005-04-13,Boy,AAPI,MARQUITA,NGUYEN,4466 Turkey Pen Road,Cleantown,ST,10038.0,False,False,None
+516,Brayson,NEZ,2003-06-24,Boy,Native,ERNA,OXENDINE,836 Dog Hill Lane,Cleantown,ST,66502.0,False,False,None
+517,Cristiano,JEFFERSON,2002-04-16,Boy,Black,JANNA,JEFFERSON,1832 Walton Street,Cleantown,ST,84401.0,False,False,None
+518,Wilson,AVITIA,2005-09-30,Boy,Hispanic,RAFAEL,AVITIA,2051 Bassel Street,Cleantown,ST,70458.0,False,False,None
+519,Tatum,CASTELLANOS,2005-12-14,Boy,Hispanic,LOU,CASTELLANOS,2362 Holt Street,Cleantown,ST,33463.0,False,False,None
+520,Abril,CHOE,1998-07-11,Girl,AAPI,ROSANNA,CHOE,2970 White Oak Drive,Cleantown,ST,64055.0,False,False,None
+521,Alexandra,SNYDER,2001-10-30,Girl,White,MARCY,SNYDER,3955 Hart Ridge Road,Cleantown,ST,48706.0,False,False,None
+522,Saylor,CASTON,2002-03-02,Girl,Black,ILENE,CASTON,3485 Rockford Road,Cleantown,ST,1581.0,False,False,None
+523,Bodhi,ZAVALA,2004-08-29,Boy,Hispanic,JEANNINE,ZAVALA,1994 Heavner Court,Cleantown,ST,10016.0,False,False,None
+524,Austin,OLSON,2002-04-08,Boy,White,BIANCA,OLSON,3234 Jennifer Lane,Cleantown,ST,27713.0,False,False,None
+525,Miley,WILLIAMS,2007-02-13,Girl,Black,KURT,WILLIAMS,4909 Crummit Lane,Cleantown,ST,68501.0,False,False,None
+526,Van,JACKSON,2001-08-23,Boy,Black,FERNANDO,SINGLETON,3262 Half and Half Drive,Cleantown,ST,93645.0,False,False,None
+527,Mateo,SCHULZ,2004-09-27,Boy,White,LUCILE,KLINE,1303 Romines Mill Road,Cleantown,ST,75247.0,False,False,None
+528,Rivka,BHATT,2010-04-14,Girl,AAPI,JOSEFA,BHATT,1151 Beechwood Avenue,Cleantown,ST,7305.0,False,False,None
+529,Rhys,OLSON,2001-02-15,Boy,White,DOROTHEA,OLSON,4502 Robinson Court,Cleantown,ST,49738.0,False,False,None
+530,Evelyn,MEYER,1998-05-17,Girl,White,GABRIELA,MCNAMARA,1130 Fort Street,Cleantown,ST,27910.0,False,False,None
+531,Paxton,CURRAN,1998-12-31,Boy,White,POLLY,CURRAN,407 Vineyard Drive,Cleantown,ST,44114.0,False,False,None
+532,Danika,EADDY,2002-06-27,Girl,Black,DEANNE,ROBINSON,2884 Simpson Street,Cleantown,ST,61244.0,False,False,None
+533,Saylor,ROUNDTREE,2005-01-20,Girl,Black,MATHEW,ROUNDTREE,3656 Parrill Court,Cleantown,ST,46307.0,False,False,None
+534,Emmalyn,SNYDER,2008-07-01,Girl,White,DENA,SNYDER,2474 Pin Oak Drive,Cleantown,ST,92705.0,False,False,None
+535,Lilyanna,WILLIAMS,2002-04-15,Girl,Black,LORRIE,WILLIAMS,1460 Margaret Street,Cleantown,ST,77063.0,False,False,None
+536,Nadia,GENTILE,2002-04-01,Girl,White,VALARIE,GENTILE,465 Progress Way,Cleantown,ST,52650.0,False,False,None
+537,Everett,MEYER,2001-04-29,Boy,White,RAUL,DOLAN,1247 Grey Fox Farm Road,Cleantown,ST,77006.0,False,False,None
+538,Elena,STEIN,2006-04-29,Girl,White,ADELINE,STEIN,924 Aviation Way,Cleantown,ST,90071.0,False,False,None
+539,Jacob,GRIMM,2007-02-22,Boy,White,HERMAN,FRANTZ,2013 Steele Street,Cleantown,ST,60187.0,False,False,None
+540,Kinslee,HO,2005-05-21,Girl,AAPI,CONCETTA,DANG,3543 Thomas Street,Cleantown,ST,60191.0,False,False,None
+541,Piper,DELONG,2006-02-03,Girl,White,ROBERTO,KRUEGER,528 University Hill Road,Cleantown,ST,61820.0,False,False,None
+542,Franco,WHITFIELD,2002-04-12,Boy,Black,LAKEISHA,STARKS,21 Ripple Street,Cleantown,ST,48706.0,False,False,None
+543,Kevin,BARNHART,2006-06-16,Boy,White,MARISA,BARNHART,2813 Mulberry Street,Cleantown,ST,77301.0,False,False,None
+544,Roger,NAJERA,2004-10-05,Boy,Hispanic,ROSARIO,NAJERA,311 Scott Street,Cleantown,ST,12601.0,False,False,None
+545,Genesis,MOSER,2003-02-23,Girl,White,VERNON,MOSER,40 Jett Lane,Cleantown,ST,90017.0,False,False,None
+546,Brian,YODER,2002-01-28,Boy,White,BERNADINE,MCDERMOTT,4311 Coffman Alley,Cleantown,ST,42301.0,False,False,None
+547,Elian,ZEPEDA,1999-06-19,Boy,Hispanic,LUPE,ZEPEDA,1956 Musgrave Street,Cleantown,ST,73075.0,False,False,None
+548,Camilo,MUI,2007-11-14,Boy,AAPI,ANDY,NGUYEN,2884 Lynch Street,Cleantown,ST,53075.0,False,False,None
+549,John,LARSEN,2008-02-18,Boy,White,MARITZA,MEYER,4546 Cedar Lane,Cleantown,ST,2109.0,False,False,None
+550,Eva,SCHMITT,2003-12-31,Girl,White,LARA,SCHMITT,1264 Filbert Street,Cleantown,ST,19034.0,False,False,None
+551,Adele,LOCKETT,2000-02-04,Girl,Black,RUTHIE,MCGHEE,3074 Duffy Street,Cleantown,ST,46368.0,False,False,None
+552,Grayson,TUTTLE,2008-09-23,Boy,White,SONDRA,CONNOLLY,1288 Kenwood Place,Cleantown,ST,33311.0,False,False,None
+553,Nolan,ADLER,1998-06-27,Boy,White,CLYDE,ADLER,2051 Bassel Street,Cleantown,ST,70458.0,False,False,None
+554,Elijah,LOOMIS,2000-07-05,Boy,White,GREG,GOLDBERG,2953 Five Points,Cleantown,ST,21231.0,False,False,None
+555,Harlee,BANKS,2002-07-31,Girl,Black,VALARIE,BANKS,4820 College View,Cleantown,ST,62956.0,False,False,None
+556,Fabian,KNAPP,2002-03-10,Boy,White,ANGELINE,KNAPP,329 Fancher Drive,Cleantown,ST,75219.0,False,False,None
+557,Benjamin,JACOBSON,2010-04-02,Boy,White,DOMINIQUE,MEIER,4341 Jail Drive,Cleantown,ST,61701.0,False,False,None
+558,Kelsey,KLEIN,2002-04-14,Girl,White,ISABELLE,KRUGER,4733 Bates Brothers Road,Cleantown,ST,43204.0,False,False,None
+559,Philip,JENSEN,1998-09-24,Boy,White,HALEY,JENSEN,3724 Boundary Street,Cleantown,ST,32246.0,False,False,None
+560,Gabriela,HANSEN,2002-07-22,Girl,White,VERNON,HANSEN,1238 Bailey Drive,Cleantown,ST,52401.0,False,False,None
+561,Amia,CONTRERAS,2004-02-12,Girl,Hispanic,MINERVA,CONTRERAS,2681 Oakdale Avenue,Cleantown,ST,33901.0,False,False,None
+562,Emma,ERICKSON-KESSLER,2008-12-21,Girl,White,RAMON,ERICKSON-KESSLER,355 Chestnut Street,Cleantown,ST,34623.0,False,False,None
+563,Siena,CERVANTES,2002-05-04,Girl,Hispanic,SUSANNE,CERVANTES,2477 Wood Duck Drive,Cleantown,ST,49855.0,False,False,None
+564,Henry,HERRMANN,2009-05-03,Boy,White,ISABELLE,HERRMANN,4223 Timber Oak Drive,Cleantown,ST,93030.0,False,False,None
+565,Emilee,ROSAS,2004-05-22,Girl,Hispanic,ARNOLD,ARGUETA,1203 Doctors Drive,Cleantown,ST,90017.0,False,False,None
+566,Genesis,KOCH,1998-02-21,Girl,White,CARMELA,KOCH,2462 Tennessee Avenue,Cleantown,ST,48342.0,False,False,None
+567,Nicholas,BEYER,2007-02-20,Boy,White,FRANKIE,BEYER,4819 Star Trek Drive,Cleantown,ST,32301.0,False,False,None
+568,Layla,SCHMIDT,2005-11-15,Girl,White,ROSETTA,SCHMIDT,3983 Whitman Court,Cleantown,ST,6492.0,False,False,None
+569,Emmy,PICHARDO,2008-03-09,Girl,Hispanic,VIRGIE,PICHARDO,339 Washington Avenue,Cleantown,ST,39213.0,False,False,None
+570,Frances,HERNANDEZ,2007-07-22,Girl,Hispanic,NELDA,HERNANDEZ,4147 Berkley Street,Cleantown,ST,19108.0,False,False,None
+571,Liliana,MARCUM,2005-08-29,Girl,White,LORNA,DIETZ,4107 McDowell Street,Cleantown,ST,37334.0,False,False,None
+572,Azaria,HUA,2008-12-17,Girl,AAPI,CLIFTON,HUA,388 Whitetail Lane,Cleantown,ST,75253.0,False,False,None
+573,Max,GARBER,2001-03-04,Boy,White,HELENA,GARBER,2357 Jerome Avenue,Cleantown,ST,78550.0,False,False,None
+574,Terry,GONZALEZ,2000-03-12,Boy,Hispanic,LETHA,GONZALEZ,456 Chestnut Street,Cleantown,ST,33566.0,False,False,None
+575,Anakin,PHAM,2010-01-07,Boy,AAPI,REVA,CHEN,2772 Frederick Street,Cleantown,ST,79905.0,False,False,None
+576,Katelyn,OTT,2010-01-26,Girl,White,AVA,OTT,1597 Harron Drive,Cleantown,ST,21202.0,False,False,None
+577,Jackson,KAMINSKI-ROTH,1999-09-27,Boy,White,ESPERANZA,EPSTEIN,3204 Buckhannan Avenue,Cleantown,ST,13224.0,False,False,None
+578,Raina,TSAO,2008-04-30,Girl,AAPI,DEIDRE,TSAO,4544 Jerry Dove Drive,Cleantown,ST,29501.0,False,False,None
+579,Anabel,CHAN,2004-06-17,Girl,AAPI,SAVANNAH,CHAN,1297 Elk Avenue,Cleantown,ST,49266.0,False,False,None
+580,Isabella,BLOOM,2005-11-27,Girl,White,VIRGIE,BLOOM,4924 Still Street,Cleantown,ST,43512.0,False,False,None
+581,Elin,VELAZQUEZ,2009-08-05,Girl,Hispanic,JODIE,VELAZQUEZ,820 Parkview Drive,Cleantown,ST,90621.0,False,False,None
+582,Noemi,ESCOBEDO,2007-10-23,Girl,Hispanic,OFELIA,MEJIA,2303 Woodland Terrace,Cleantown,ST,95815.0,False,False,None
+583,Sage,FRIEDMAN,2009-12-13,Girl,White,DEBORA,SCHMITT,2722 Par Drive,Cleantown,ST,93401.0,False,False,None
+584,Joshua,DAHL,2008-03-27,Boy,White,ILA,SCHWARTZ,3408 Boone Crockett Lane,Cleantown,ST,98261.0,False,False,None
+585,Charlotte,HOFFMAN,2003-07-15,Girl,White,DENA,HOFFMAN,4699 Granville Lane,Cleantown,ST,7102.0,False,False,None
+586,Lucia,SHAFFER-SNYDER,1999-06-16,Girl,White,DERRICK,SHAFFER-SNYDER,4331 Jadewood Farms,Cleantown,ST,7801.0,False,False,None
+587,Olivia,OBRIEN,2007-03-17,Girl,White,NELL,OBRIEN,3270 Fairway Drive,Cleantown,ST,94124.0,False,False,None
+588,Mia,ODONNELL,1999-07-14,Girl,White,RAFAEL,ODONNELL,1279 Masonic Drive,Cleantown,ST,59320.0,False,False,None
+589,Camille,SCHROEDER,2010-02-23,Girl,White,SHANA,SCHROEDER,2586 Carson Street,Cleantown,ST,45202.0,False,False,None
+590,Aanya,BEGAY,1998-03-19,Girl,Native,LETITIA,LARNEY,2740 Skips Lane,Cleantown,ST,85069.0,False,False,None
+591,Cassidy,HARTMAN,2005-06-12,Girl,White,RENE,HARTMAN,324 Franklin Avenue,Cleantown,ST,78401.0,False,False,None
+592,Mia,SHEEHAN,2007-06-23,Girl,White,NATHANIEL,SHEEHAN,4793 Benson Street,Cleantown,ST,54539.0,False,False,None
+593,Adrian,HAMMER,1999-05-17,Boy,White,ILA,HAMMER,2151 Lowes Alley,Cleantown,ST,43081.0,False,False,None
+594,Sloane,HANSEN,2006-08-27,Girl,White,CLARICE,HANSEN,3552 Woodstock Drive,Cleantown,ST,92801.0,False,False,None
+595,Dominique,KIM,2001-05-08,Boy,AAPI,MARCI,KIM,3150 Post Farm Road,Cleantown,ST,30303.0,False,False,None
+596,Abel,ADCOCK,2006-04-06,Boy,White,MARGO,MATTSON,2259 Carolyns Circle,Cleantown,ST,75204.0,False,False,None
+597,Bryson,GILLILAND,2005-04-18,Boy,White,IVY,GILLILAND,4741 Lawman Avenue,Cleantown,ST,22030.0,False,False,None
+598,Alexander,VITALE,2008-05-19,Boy,White,CARMELA,VITALE,4056 Poplar Chase Lane,Cleantown,ST,83617.0,False,False,None
+599,Scarlett,CALL,2010-03-19,Girl,White,MEAGAN,CALL,2430 Rollins Road,Cleantown,ST,68801.0,False,False,None
+600,Jayse,NGUYEN,2002-10-18,Boy,AAPI,SASHA,NGUYEN,2410 Benedum Drive,Cleantown,ST,12590.0,False,False,None
+601,Terry,JIMENEZ,2010-10-16,Boy,Hispanic,DOLLY,JIMENEZ,4762 Mount Olive Road,Cleantown,ST,30076.0,False,False,None
+602,Landon,CRABTREE,2007-09-15,Boy,White,DINA,CRABTREE,1101 Bird Street,Cleantown,ST,88101.0,False,False,None
+603,Atticus,GARBER,2003-09-06,Boy,White,GEORGINA,GARBER,3493 Clover Drive,Cleantown,ST,80903.0,False,False,None
+604,Aiden,MACKENZIE,2008-04-29,Boy,White,CLARICE,HOFFMAN,2842 Grant Street,Cleantown,ST,75791.0,False,False,None
+605,Tony,ROTH,2003-03-06,Boy,White,NOLA,VOGEL,4712 Ash Avenue,Cleantown,ST,63108.0,False,False,None
+606,Wyatt,NOVAK,2001-05-14,Boy,White,IMOGENE,NOVAK,1194 Quiet Valley Lane,Cleantown,ST,91403.0,False,False,None
+607,Sofia,SCHMIDT,2001-10-21,Girl,White,JONI,SORENSON,260 Quiet Valley Lane,Cleantown,ST,91403.0,False,False,None
+608,Alyssa,HACKER,2005-04-24,Girl,White,CLARICE,OLSON,3070 Heliport Loop,Cleantown,ST,47527.0,False,False,None
+609,Jeffery,RAMIREZ,1999-05-07,Boy,Hispanic,DOROTHEA,RAMIREZ,1194 Quiet Valley Lane,Cleantown,ST,91403.0,False,False,None
+610,Evan,KLEIN,1999-12-24,Boy,White,ADELINE,SCHMITT,2734 Gorby Lane,Cleantown,ST,39402.0,False,False,None
+611,Hailey,BLUM-ANDERSEN,2000-02-23,Girl,White,KERI,BLUM-ANDERSEN,2113 Turkey Pen Road,Cleantown,ST,10016.0,False,False,None
+612,Eli,KRAMER,2007-12-19,Boy,White,GRACIELA,KRAMER,1193 Copperhead Road,Cleantown,ST,6096.0,False,False,None
+613,Sage,ESPINOZA,2002-04-17,Boy,Hispanic,CORNELIA,ESPINOZA,3620 Emily Renzelli Boulevard,Cleantown,ST,95134.0,False,False,None
+614,Saniyah,CHATMAN,1998-07-13,Girl,Black,KENYA,CHATMAN,2772 Charles Street,Cleantown,ST,48150.0,False,False,None
+615,Vance,BANKS,2006-02-26,Boy,Black,LILIAN,BANKS,4198 Linden Avenue,Cleantown,ST,32810.0,False,False,None
+616,Ethan,HUBER,2008-08-02,Boy,White,HECTOR,HAGEN,3706 Rosebud Avenue,Cleantown,ST,72645.0,False,False,None
+617,Benjamin,MOSHER,2009-04-23,Boy,White,MAYRA,TACKETT,4737 Colony Street,Cleantown,ST,6902.0,False,False,None
+618,Alexandra,DRISCOLL-JACOBSON,2010-09-02,Girl,White,DEAN,DRISCOLL-JACOBSON,446 Alpha Avenue,Cleantown,ST,75662.0,False,False,None
+619,Paula,MOHAMED,2007-07-29,Girl,Other,LETA,MOHAMED,82 Hill Croft Farm Road,Cleantown,ST,96039.0,False,False,None
+620,Brooklyn,PETERSEN,2005-09-28,Girl,White,LIDIA,PETERSEN,1392 Seltice Way,Cleantown,ST,83301.0,False,False,None
+621,Caroline,CAUDILL,2007-02-05,Girl,White,DOLLY,CAUDILL,4191 Poplar Street,Cleantown,ST,60173.0,False,False,None
+622,Faith,MOYER,2002-11-14,Girl,White,LORNA,MOYER,4678 Oakmound Drive,Cleantown,ST,60657.0,False,False,None
+623,Myah,GONZALEZ-PENALOZA,2008-02-11,Girl,Hispanic,DAN,GONZALEZ-PENALOZA,874 Layman Court,Cleantown,ST,30269.0,False,False,None
+624,Yousef,ROBINSON,1999-12-20,Boy,Black,ESTELA,MCGHEE,2983 Broadway Street,Cleantown,ST,29501.0,False,False,None
+625,Gilbert,COLEMAN,2005-10-20,Boy,Black,TANIA,COLEMAN,3313 Saint James Drive,Cleantown,ST,17059.0,False,False,None
+626,Hunter,JACKSON,2001-05-31,Girl,Black,BRIANA,JACKSON,895 Perry Street,Cleantown,ST,48075.0,False,False,None
+627,Luke,LARSON,2009-06-04,Boy,White,CHARLIE,WEBER,3338 Sycamore Circle,Cleantown,ST,76104.0,False,False,None
+628,Kendra,WESTFALL,2009-11-30,Girl,White,GABRIELA,WESTFALL,4082 Windy Ridge Road,Cleantown,ST,46711.0,False,False,None
+629,Hassan,ROBINSON,2001-05-19,Boy,Black,MAX,SINGLETARY,471 Davisson Street,Cleantown,ST,47320.0,False,False,None
+630,Dominic,BUSCH,2009-01-06,Boy,White,LEOLA,BUSCH,45 Essex Court,Cleantown,ST,5301.0,False,False,None
+631,Aidan,SNYDER,2001-02-04,Boy,White,LUPE,SNYDER,868 Sumner Street,Cleantown,ST,90220.0,False,False,None
+632,Jaxson,WOLFF,2004-08-20,Boy,White,BETTYE,WOLFF,4496 Burton Avenue,Cleantown,ST,38117.0,False,False,None
+633,Genesis,SCHMIDT,2010-02-18,Girl,White,DERRICK,SCHMIDT,704 Sugar Camp Road,Cleantown,ST,55402.0,False,False,None
+634,Byron,MACHUCA,2004-08-10,Boy,Hispanic,FRIEDA,MACHUCA,4914 James Avenue,Cleantown,ST,67202.0,False,False,None
+635,Emma,BLOOM,2003-09-17,Girl,White,ISABELLE,BLOOM,889 Weekley Street,Cleantown,ST,78213.0,False,False,None
+636,Faith,GROSSMAN,2008-12-19,Girl,White,MAURICE,GROSSMAN,3198 Maple Court,Cleantown,ST,63469.0,False,False,None
+637,Benjamin,DAHL,2004-01-20,Boy,White,JEANINE,TUTTLE,3588 Radio Park Drive,Cleantown,ST,30901.0,False,False,None
+638,David,HENSLEY,2002-04-20,Boy,White,ELMA,HENSLEY,4445 Happy Hollow Road,Cleantown,ST,27371.0,False,False,None
+639,Ruby,OLSON,2000-01-17,Girl,White,SONDRA,OLSON,2540 Ottis Street,Cleantown,ST,74854.0,False,False,None
+640,Quentin,SCHAEFER-KATZ,2005-09-05,Boy,White,MARTINA,SCHAEFER-KATZ,4428 Tavern Place,Cleantown,ST,26143.0,False,False,None
+641,Madeline,EGAN,1999-04-14,Girl,White,GABRIELLE,WINTER,418 Windy Ridge Road,Cleantown,ST,46804.0,False,False,None
+642,Nova,SCHMIDT,2005-12-25,Girl,White,AUTUMN,OCONNELL,1455 Parkway Drive,Cleantown,ST,85705.0,False,False,None
+643,Eugene,MCDUFFIE,2000-08-01,Boy,Black,LONNIE,MCDUFFIE,4269 Turkey Pen Lane,Cleantown,ST,36104.0,False,False,None
+644,Amari,MATTINGLY,2007-03-10,Girl,White,MARISA,MATTINGLY,2325 Coal Road,Cleantown,ST,18706.0,False,False,None
+645,Jennifer,DONNELLY,2008-10-16,Girl,White,ESTER,DONNELLY,2243 Counts Lane,Cleantown,ST,40383.0,False,False,None
+646,Leif,SINGH,2003-09-20,Boy,Other,ELBA,SINGH,82 Hill Croft Farm Road,Cleantown,ST,96039.0,False,False,None
+647,Milani,YOON,1998-09-24,Girl,AAPI,JAMES,YOON,1579 Quiet Valley Lane,Cleantown,ST,91343.0,False,False,None
+648,Wyatt,OLSEN,2005-05-05,Boy,White,IMOGENE,OLSEN,4351 Old Dear Lane,Cleantown,ST,10011.0,False,False,None
+649,Gabriella,SHAPIRO,2006-12-25,Girl,White,CATALINA,SHAPIRO,4858 Broadcast Drive,Cleantown,ST,28209.0,False,False,None
+650,Ethan,WEISS,2010-07-12,Boy,White,GRACIE,LARSON,4210 Arrowood Drive,Cleantown,ST,32091.0,False,False,None
+651,Kiley,MANDUJANO,2001-06-09,Girl,Hispanic,NATHANIEL,MAGANA,900 Chicago Avenue,Cleantown,ST,93648.0,False,False,None
+652,Joslyn,GAINES,1999-02-21,Girl,Black,MELVA,GAINES,4699 Granville Lane,Cleantown,ST,7102.0,False,False,None
+653,Lucy,ROSENTHAL,2008-07-11,Girl,White,HARVEY,ROSENTHAL,4074 August Lane,Cleantown,ST,71101.0,False,False,None
+654,Zahra,CHUNG,1999-04-06,Girl,AAPI,GENA,NGUYEN,2916 Grove Street,Cleantown,ST,11786.0,False,False,None
+655,Kingsley,BLANDING,2004-07-17,Boy,Black,ALFREDO,BLANDING,4367 Willis Avenue,Cleantown,ST,32713.0,False,False,None
+656,Lucas,EGAN,2008-08-03,Boy,White,DAPHNE,EGAN,4851 Owen Lane,Cleantown,ST,49461.0,False,False,None
+657,Clare,MONTERROSO,2008-03-30,Girl,Hispanic,RAMON,MONTERROSO,1073 Woodbridge Lane,Cleantown,ST,48342.0,False,False,None
+658,Brandon,CARLSON,2007-03-16,Boy,White,WINNIE,CARLSON,260 Quiet Valley Lane,Cleantown,ST,91403.0,False,False,None
+659,Kyle,ROARK,2010-10-23,Boy,White,ROBBIE,ROARK,2016 Heavner Court,Cleantown,ST,11590.0,False,False,None
+660,Giovanni,MESSINA-YODER,2010-07-21,Boy,White,SHEENA,DAHL,2252 Hilltop Drive,Cleantown,ST,79401.0,False,False,None
+661,Autumn,HANSEN,2008-10-03,Girl,White,SHAUNA,HANSEN,801 Brown Bear Drive,Cleantown,ST,92503.0,False,False,None
+662,Susan,GIVENS,2000-09-17,Girl,Black,JAVIER,CLAIBORNE,728 White Avenue,Cleantown,ST,78476.0,False,False,None
+663,Ethan,SCHWARTZ,2006-05-16,Boy,White,FRANKLIN,SCHWARTZ,1257 Burning Memory Lane,Cleantown,ST,19108.0,False,False,None
+664,Alvin,MEJIA,2004-10-14,Boy,Hispanic,ELISE,RAMIREZ,4428 Tavern Place,Cleantown,ST,26143.0,False,False,None
+665,Margaret,SHOEMAKER,2002-08-01,Girl,White,LEANNE,SHOEMAKER,1951 Dovetail Drive,Cleantown,ST,60016.0,False,False,None
+666,Olivia,LUDWIG,2007-02-19,Girl,White,CARMELA,ANDERSEN,611 Brooke Street,Cleantown,ST,77092.0,False,False,None
+667,Connor,SCHNEIDER,2002-07-10,Boy,White,EDGAR,SCHNEIDER,4226 James Street,Cleantown,ST,14620.0,False,False,None
+668,Kaelynn,SALEM,2000-08-18,Girl,Other,TERRA,SALEM,63 Chardonnay Drive,Cleantown,ST,98052.0,False,False,None
+669,Oliver,CARLSON,1998-04-05,Boy,White,DEANA,CARLSON,3599 Maryland Avenue,Cleantown,ST,33701.0,False,False,None
+670,Cullen,ARREDONDO,2004-11-20,Boy,Hispanic,ROSARIO,IBARRA,4972 Sundown Lane,Cleantown,ST,78753.0,False,False,None
+671,Ariyah,KANG,1998-07-25,Girl,AAPI,TWILA,KANG,741 Carolyns Circle,Cleantown,ST,75247.0,False,False,None
+672,Ronnie,WILLIAMS,2001-11-07,Boy,Black,MARI,WILLIAMS,2093 Amethyst Drive,Cleantown,ST,49503.0,False,False,None
+673,Jaxson,SCHAEFER,1999-06-20,Boy,White,SUSANNE,LARSEN,4011 Ralph Drive,Cleantown,ST,44131.0,False,False,None
+674,Margot,HERNANDEZ,2001-05-17,Girl,Hispanic,ELMER,MURILLO,2811 Wood Street,Cleantown,ST,48607.0,False,False,None
+675,Taliyah,PAIGE,2009-03-10,Girl,Black,DARCY,PAIGE,251 Rafe Lane,Cleantown,ST,39211.0,False,False,None
+676,Aaliyah,LARSON,2010-02-20,Girl,White,GORDON,LARSON,3218 Cottrill Lane,Cleantown,ST,63101.0,False,False,None
+677,William,HAGEN,2009-09-24,Boy,White,LEWIS,HAGEN,3918 Cooks Mine Road,Cleantown,ST,87321.0,False,False,None
+678,Braxton,DIETZ,2002-05-19,Boy,White,RICK,DIETZ,3640 Boundary Street,Cleantown,ST,32256.0,False,False,None
+679,Jesse,SCHMIDT,2000-07-23,Boy,White,ALTA,SCHMIDT,2839 Wiseman Street,Cleantown,ST,37748.0,False,False,None
+680,Noah,HACKER,2005-09-21,Boy,White,HERMAN,HACKER,4306 Better Street,Cleantown,ST,66101.0,False,False,None
+681,Emerie,CHOI,1999-10-05,Girl,AAPI,DEENA,CHOI,777 Selah Way,Cleantown,ST,5301.0,False,False,None
+682,Emilie,ALVARADO,2001-04-29,Girl,Hispanic,CLYDE,ALVARADO,2802 Juniper Drive,Cleantown,ST,48075.0,False,False,None
+683,Aurora,WOLF,2001-08-23,Girl,White,CANDY,SCHMIDT,856 Dola Mine Road,Cleantown,ST,27603.0,False,False,None
+684,Hunter,SCHROEDER,2009-02-06,Boy,White,GLEN,SCHROEDER,2975 Palmer Road,Cleantown,ST,43017.0,False,False,None
+685,Cyrus,YODER,2004-01-22,Boy,White,BEN,YODER,1690 Amethyst Drive,Cleantown,ST,48933.0,False,False,None
+686,Tegan,COLEMAN,1998-10-29,Girl,Black,CHRISTIAN,COLEMAN,4258 Woodrow Way,Cleantown,ST,77056.0,False,False,None
+687,Charley,BERG,2008-09-26,Girl,White,CONCEPCION,MAYER,1428 West Fork Drive,Cleantown,ST,33308.0,False,False,None
+688,Jack,CLINE,2006-06-27,Boy,White,CONSUELO,DOLAN,2301 Rardin Drive,Cleantown,ST,94539.0,False,False,None
+689,Brock,OSWALD-SHAPIRO,2007-10-09,Boy,White,RICK,OSWALD-SHAPIRO,4842 Monroe Avenue,Cleantown,ST,33830.0,False,False,None
+690,Tyson,DOUGHERTY,2010-02-13,Boy,White,GABRIELLE,DOUGHERTY,1081 Redbud Drive,Cleantown,ST,10013.0,False,False,None
+691,Landon,MCMAHON,2010-09-11,Boy,White,KIRSTEN,MCMAHON,1341 Myra Street,Cleantown,ST,2903.0,False,False,None
+692,Iker,MEYER,2003-01-08,Boy,White,KEISHA,MEYER,4879 George Avenue,Cleantown,ST,36602.0,False,False,None
+693,Alvaro,SHUKLA,2008-09-27,Boy,AAPI,TRACY,NGUYEN,3948 Michael Street,Cleantown,ST,77063.0,False,False,None
+694,Melody,GAGNON,2007-12-05,Girl,White,OLA,GAGNON,4191 Poplar Street,Cleantown,ST,60173.0,False,False,None
+695,Jacob,BRENNER,2002-08-29,Boy,White,BRENT,BRENNER,4591 Charles Street,Cleantown,ST,48335.0,False,False,None
+696,Zain,RAMIREZ,1998-04-27,Boy,Hispanic,MARC,RAMIREZ,537 Jewell Road,Cleantown,ST,55402.0,False,False,None
+697,Brayson,BEGAY,2005-06-11,Boy,Native,EDUARDO,BEGAY,3971 State Street,Cleantown,ST,63132.0,False,False,None
+698,Caleb,MACDONALD,2003-10-08,Boy,White,ROBERTO,MACDONALD,265 Scenicview Drive,Cleantown,ST,79701.0,False,False,None
+699,Amia,URQUIZA,2002-08-17,Girl,Hispanic,BETTYE,MEZA,1025 Musgrave Street,Cleantown,ST,73102.0,False,False,None
+700,Kieran,REILLY,1999-08-21,Boy,White,ESPERANZA,REILLY,3770 Benson Street,Cleantown,ST,54449.0,False,False,None
+701,Toby,VAZQUEZ,1998-01-22,Boy,Hispanic,BRETT,VAZQUEZ,2835 Eastland Avenue,Cleantown,ST,39201.0,False,False,None
+702,Ava,KRAUSE,2002-05-03,Girl,White,URSULA,KRAUSE,3906 Adamsville Road,Cleantown,ST,78040.0,False,False,None
+703,Case,RASMUSSEN,2008-03-13,Boy,White,LACEY,RASMUSSEN,2953 Five Points,Cleantown,ST,21231.0,False,False,None
+704,Lyla,ECKERT,2007-04-08,Girl,White,RICK,ECKERT,4591 Marie Street,Cleantown,ST,20765.0,False,False,None
+705,William,SCHNEIDER,2007-02-24,Boy,White,LUISA,SCHNEIDER,265 Scenicview Drive,Cleantown,ST,79701.0,False,False,None
+706,Atlas,OLVERA,2000-03-17,Boy,Hispanic,JONI,OLVERA,1783 Hardman Road,Cleantown,ST,5701.0,False,False,None
+707,Briley,BELLAMY-MOSLEY,2009-10-18,Girl,Black,SERENA,WILLIAMS,3073 Oakmound Drive,Cleantown,ST,60661.0,False,False,None
+708,Maxton,BANKS,1998-08-22,Boy,Black,CLINTON,COLEMAN,856 Lauren Drive,Cleantown,ST,53718.0,False,False,None
+709,Leif,CARDOZA,2001-11-06,Boy,Other,BEVERLEY,CARDOZA,4863 Elk City Road,Cleantown,ST,71101.0,False,False,None
+710,Sophie,KLEIN,2008-03-16,Girl,White,POLLY,KLEIN,573 Millbrook Road,Cleantown,ST,60504.0,False,False,None
+711,Ricardo,FINK,2001-09-13,Boy,White,KIRSTEN,CALL,2477 Oliverio Drive,Cleantown,ST,67428.0,False,False,None
+712,Noah,LARSEN,2007-07-09,Boy,White,EARLINE,LARSEN,1733 Carson Street,Cleantown,ST,40511.0,False,False,None
+713,Cameron,SNYDER,2004-10-04,Boy,White,SAM,SNYDER,1759 Saint Marys Avenue,Cleantown,ST,13143.0,False,False,None
+714,Adelyn,LARSON,2000-04-18,Girl,White,LUPE,LARSON,4958 Charack Road,Cleantown,ST,47408.0,False,False,None
+715,Parker,WEBER,2003-02-08,Boy,White,GEORGINA,NOWAK,1424 Hickory Lane,Cleantown,ST,6484.0,False,False,None
+716,Milan,CERDA,2004-07-02,Girl,Hispanic,CONSUELO,CERDA,1376 Freedom Lane,Cleantown,ST,95204.0,False,False,None
+717,Landon,HAMMER,2006-06-13,Boy,White,GABRIELA,HAMMER,4307 White Oak Drive,Cleantown,ST,64484.0,False,False,None
+718,Henry,LUTZ,2004-06-19,Boy,White,NELL,LUTZ,1757 Rodney Street,Cleantown,ST,63011.0,False,False,None
+719,Dimitri,WILLIAMS,2006-05-27,Boy,Black,LAWANDA,WILLIAMS,2971 Ford Street,Cleantown,ST,94108.0,False,False,None
+720,Nicole,HOFFMAN,2009-12-04,Girl,White,BETTE,EGAN,3599 Maryland Avenue,Cleantown,ST,33701.0,False,False,None
+721,Damari,PHAM,2005-08-15,Boy,AAPI,SUSANNA,KIM,167 Trails End Road,Cleantown,ST,33069.0,False,False,None
+722,Tomas,ARTEAGA,2003-08-18,Boy,Hispanic,LEOLA,GONZALEZ,1604 Nutter Street,Cleantown,ST,64106.0,False,False,None
+723,Louisa,WEI-PHAM,2006-12-10,Girl,AAPI,TISHA,WEI-PHAM,4674 Kovar Road,Cleantown,ST,2132.0,False,False,None
+724,Houston,TRAN,2009-03-10,Boy,AAPI,BERTIE,TRAN,4158 Green Acres Road,Cleantown,ST,27801.0,False,False,None
+725,Hannah,FELDMAN-NOONAN,2008-07-26,Girl,White,SUMMER,FELDMAN-NOONAN,661 Broaddus Avenue,Cleantown,ST,42232.0,False,False,None
+726,Adele,MACK,2008-10-05,Girl,Black,ZELMA,WILLIAMS,4472 Wood Street,Cleantown,ST,70360.0,False,False,None
+727,Arnav,CHISOLM,2009-04-30,Boy,Black,ALTHEA,CHISOLM,1424 Breezewood Court,Cleantown,ST,67107.0,False,False,None
+728,Anthony,WALSH,2002-06-11,Boy,White,CHARITY,WALSH,2944 James Martin Circle,Cleantown,ST,43215.0,False,False,None
+729,Stella,ROARK,2002-02-18,Girl,White,MAVIS,LEAVITT,3646 Green Avenue,Cleantown,ST,95113.0,False,False,None
+730,Cordelia,KHAN,2004-09-28,Girl,Other,ENRIQUE,KHAN,2701 Diamond Street,Cleantown,ST,28202.0,False,False,None
+731,Mason,BLOOM,2001-08-10,Boy,White,CARMELA,BLOOM,4182 Hershell Hollow Road,Cleantown,ST,98203.0,False,False,None
+732,Ariana,KOHLER,2003-04-28,Girl,White,TYLER,SCHMIDT,4898 Steele Street,Cleantown,ST,60062.0,False,False,None
+733,Bronson,CAZAREZ,2010-07-24,Boy,Hispanic,PETRA,CAZAREZ,2389 Sardis Station,Cleantown,ST,55414.0,False,False,None
+734,Juan,DECKER,2007-06-26,Boy,White,CECILE,DECKER,943 Pearlman Avenue,Cleantown,ST,2127.0,False,False,None
+735,Chloe,QUIGLEY,2007-07-10,Girl,White,DAPHNE,QUIGLEY,3824 Meadowcrest Lane,Cleantown,ST,41144.0,False,False,None
+736,Erin,LANDIS,2008-08-13,Girl,White,JOCELYN,LANDIS,2901 Railroad Street,Cleantown,ST,49855.0,False,False,None
+737,Wayne,ROYSTER-WILLIAMS,2004-02-28,Boy,Black,FLOSSIE,LOUIS,4677 Delaware Avenue,Cleantown,ST,94115.0,False,False,None
+738,Cassius,HUERTA,2004-12-31,Boy,Hispanic,ARNOLD,HUERTA,4774 Green Street,Cleantown,ST,37166.0,False,False,None
+739,Casey,WILLIAM-WILLIAMS,2005-07-29,Girl,Black,CARMELLA,WILLIAM-WILLIAMS,2322 Dawson Drive,Cleantown,ST,72212.0,False,False,None
+740,Maximo,CHOI,2009-12-31,Boy,AAPI,MARSHALL,CHOI,3492 Bartlett Avenue,Cleantown,ST,48067.0,False,False,None
+741,Daniella,KNAPP,2010-06-10,Girl,White,MAYRA,KNAPP,505 Sunburst Drive,Cleantown,ST,33907.0,False,False,None
+742,Aubrey,OLSON,2002-12-24,Girl,White,CECILE,OLSON,4312 Coventry Court,Cleantown,ST,39531.0,False,False,None
+743,Clyde,JEFFERSON,2005-02-20,Boy,Black,TAMMI,JEFFERSON,4084 Lowes Alley,Cleantown,ST,43081.0,False,False,None
+744,Aaliyah,SCHWAB,2000-05-09,Girl,White,GABRIELLE,ZIMMERMAN,2405 Elkview Drive,Cleantown,ST,33407.0,False,False,None
+745,Zoey,OLSEN-CONKLIN,2004-06-20,Girl,White,MARGO,SHEETS,546 Brown Avenue,Cleantown,ST,29669.0,False,False,None
+746,Riya,KWOK,2001-03-18,Girl,AAPI,REVA,KWOK,2964 Poplar Lane,Cleantown,ST,33487.0,False,False,None
+747,Michael,LARSON,2004-04-04,Boy,White,EARLINE,LARSON,1808 Bridge Avenue,Cleantown,ST,70526.0,False,False,None
+748,Ronnie,MCCANTS,2002-09-03,Boy,Black,EMILIA,MCCANTS,604 Bingamon Road,Cleantown,ST,44141.0,False,False,None
+749,Aiden,OMALLEY-COFFMAN,2009-02-07,Boy,White,ROSETTA,GROSSMAN,4105 Flynn Street,Cleantown,ST,44004.0,False,False,None
+750,Zachary,MONAHAN,2000-09-07,Boy,White,CORNELIA,MONAHAN,1063 Burnside Avenue,Cleantown,ST,84120.0,False,False,None
+751,Alexzander,BLUNT,2010-03-05,Boy,Black,JULIANNE,BLUNT,3964 Private Lane,Cleantown,ST,31707.0,False,False,None
+752,Brittany,LARSON,2004-07-22,Girl,White,DERRICK,ANDERSEN,871 Mount Olive Road,Cleantown,ST,30093.0,False,False,None
+753,Eugene,ROBINSON,2003-09-14,Boy,Black,AVIS,ROBINSON,3798 Long Street,Cleantown,ST,10004.0,False,False,None
+754,Ernesto,RAMIREZ,2006-04-18,Boy,Hispanic,ELNORA,RAMIREZ,863 Grasselli Street,Cleantown,ST,3070.0,False,False,None
+755,Royal,CARON,2006-03-23,Boy,White,CHERIE,CARON,1461 Jefferson Street,Cleantown,ST,23510.0,False,False,None
+756,Jamal,SCALES,2002-08-16,Boy,Black,TAYLOR,SCALES,2123 August Lane,Cleantown,ST,71101.0,False,False,None
+757,Brian,SCHUSTER,2009-02-28,Boy,White,CONCEPCION,HANSEN,3365 Alpha Avenue,Cleantown,ST,32202.0,False,False,None
+758,Samiyah,DECOTEAU,2006-05-12,Girl,Native,MARION,LOCKLEAR,4534 Corbin Branch Road,Cleantown,ST,37663.0,False,False,None
+759,Aiden,BRANDT,2010-04-11,Boy,White,ESPERANZA,BRANDT,4585 Oakdale Avenue,Cleantown,ST,33852.0,False,False,None
+760,Oscar,DEVRIES,2004-02-03,Boy,White,JAYNE,DANIELSON,4393 Leo Street,Cleantown,ST,80014.0,False,False,None
+761,Mateo,ROONEY,2005-08-05,Boy,White,OLA,ROONEY,2140 Harrison Street,Cleantown,ST,94909.0,False,False,None
+762,Jemma,OLVERA,2008-08-31,Girl,Hispanic,GRETA,OLVERA,1862 Meadow View Drive,Cleantown,ST,6103.0,False,False,None
+763,Ayva,KWAN-PATEL,1999-10-23,Girl,AAPI,ROSANNE,KWAN-PATEL,1661 Illinois Avenue,Cleantown,ST,97019.0,False,False,None
+764,Lydia,NOWAK,2003-11-09,Girl,White,KIMBERLEY,COUGHLIN,153 Beechwood Drive,Cleantown,ST,15205.0,False,False,None
+765,Olivia,PUTNAM-CHRISTENSEN,2000-07-07,Girl,White,CORNELIA,OLSON,2587 Armbrester Drive,Cleantown,ST,92501.0,False,False,None
+766,Jaxon,QUIGLEY,2005-01-15,Boy,White,MARGO,SCHULTZ,516 Lincoln Street,Cleantown,ST,8030.0,False,False,None
+767,Gavin,WINKLER,2003-03-23,Boy,White,COREY,WINKLER,1716 Timbercrest Road,Cleantown,ST,99743.0,False,False,None
+768,Julissa,BURGER,2000-04-25,Girl,White,LESLEY,JACOBSON,3188 Martha Street,Cleantown,ST,86326.0,False,False,None
+769,Addison,STOCK,2008-02-11,Girl,White,JIMMIE,WERNER,2536 Kerry Way,Cleantown,ST,90017.0,False,False,None
+770,Diego,QUIGLEY,2000-12-28,Boy,White,FRANKLIN,QUIGLEY,2253 Coffman Alley,Cleantown,ST,42718.0,False,False,None
+771,Alvin,MACIAS,2003-03-17,Boy,Hispanic,BRIDGETTE,MACIAS,1388 Emily Renzelli Boulevard,Cleantown,ST,93921.0,False,False,None
+772,Mallory,PETERSEN,2006-11-06,Girl,White,MARTINA,PETERSEN,3274 Denver Avenue,Cleantown,ST,92801.0,False,False,None
+773,Callen,ERICKSON,2004-02-11,Boy,White,WESLEY,ERICKSON,2772 Charles Street,Cleantown,ST,48150.0,False,False,None
+774,Aimee,ROBINSON,2008-08-24,Girl,Black,TED,WASHINGTON,1376 Long Street,Cleantown,ST,32711.0,False,False,None
+775,Kaylie,SCHULZ,1999-12-14,Girl,White,GRETA,MATTSON,2645 Maloy Court,Cleantown,ST,66425.0,False,False,None
+776,Sabrina,TOTH,2007-12-28,Girl,White,SYBIL,FUNK,1939 School House Road,Cleantown,ST,39213.0,False,False,None
+777,Kamron,NGUYEN,2004-03-22,Boy,AAPI,ROWENA,NGUYEN,4954 West Fork Street,Cleantown,ST,59601.0,False,False,None
+778,Skylar,KOCH,2004-05-17,Girl,White,STEFANIE,VOGEL,3624 Stiles Street,Cleantown,ST,15205.0,False,False,None
+779,Ethan,CARLSON,2003-02-12,Boy,White,THERESE,CARLSON,250 Oakdale Avenue,Cleantown,ST,33825.0,False,False,None
+780,Grace,MCNAMARA,2010-09-28,Girl,White,MARGO,NIELSEN,3142 Olive Street,Cleantown,ST,43609.0,False,False,None
+781,Cordelia,GONCALVES,2002-11-23,Girl,Other,VONDA,GONCALVES,4813 Washburn Street,Cleantown,ST,70346.0,False,False,None
+782,Corey,NIELSEN,2000-06-26,Boy,White,ANGELIA,HOFF,718 Coleman Avenue,Cleantown,ST,92101.0,False,False,None
+783,Skylar,REILLY,2006-09-19,Girl,White,URSULA,REILLY,4706 Golden Street,Cleantown,ST,33142.0,False,False,None
+784,Nyla,COFFMAN,2001-09-03,Girl,White,IVY,COFFMAN,718 Coleman Avenue,Cleantown,ST,92101.0,False,False,None
+785,Emilee,MEJIA,2010-01-17,Girl,Hispanic,SIMONE,MEJIA,2839 Wiseman Street,Cleantown,ST,37748.0,False,False,None
+786,Jamarion,WILLIAMS-BLOUNT,2005-03-23,Boy,Black,HUGH,WILLIAMS-BLOUNT,2820 Raver Croft Drive,Cleantown,ST,37403.0,False,False,None
+787,Alfred,ALSTON,1999-04-23,Boy,Black,GUY,ALSTON,3362 Maxwell Farm Road,Cleantown,ST,24555.0,False,False,None
+788,Rosemary,YEAGER,2000-05-25,Girl,White,JONI,YEAGER,3962 Elk Creek Road,Cleantown,ST,30136.0,False,False,None
+789,Gilbert,LOMAX,2000-12-16,Boy,Black,LAKEISHA,WASHINGTON,2837 Marion Drive,Cleantown,ST,33602.0,False,False,None
+790,Sophia,SHOOK,2001-02-01,Girl,White,HILARY,SHOOK,4677 Delaware Avenue,Cleantown,ST,94115.0,False,False,None
+791,Micah,WONG,1998-07-22,Girl,Other,PANSY,SHAH,1370 Kovar Road,Cleantown,ST,2053.0,False,False,None
+792,Jefferson,MANDUJANO,2007-03-14,Boy,Hispanic,DAN,MANDUJANO,4864 Nickel Road,Cleantown,ST,90017.0,False,False,None
+793,Bryson,OBRIEN,2010-06-01,Boy,White,MAGDALENA,OBRIEN,3552 Woodstock Drive,Cleantown,ST,92801.0,False,False,None
+794,Bria,TIERNEY-FRIEDMAN,2009-01-28,Girl,White,RHODA,FRANTZ,2659 Farland Street,Cleantown,ST,60154.0,False,False,None
+795,Iker,OLSEN,1998-06-12,Boy,White,BEN,OLSEN,2568 Church Street,Cleantown,ST,10013.0,False,False,None
+796,Emory,RENTERIA,2006-05-10,Girl,Hispanic,KIRSTEN,MELGOZA,2975 Long Street,Cleantown,ST,32601.0,False,False,None
+797,Jayden,ZIMMERMAN,2000-06-14,Boy,White,DOLLY,WEISS,783 Lost Creek Road,Cleantown,ST,19533.0,False,False,None
+798,Micah,BOLDEN,2009-05-14,Girl,Other,ROBERT,BOLDEN,581 Pinewood Drive,Cleantown,ST,61257.0,False,False,None
+799,Zuri,SNYDER,2000-07-19,Girl,White,IVY,SNYDER,4246 C Street,Cleantown,ST,2720.0,False,False,None
+800,Paul,BOWER,2001-04-18,Boy,White,GRACIELA,BOWER,1930 Findley Avenue,Cleantown,ST,58701.0,False,False,None
+801,Lillian,KOEHLER,2006-11-08,Girl,White,KATHARINE,KOEHLER,3462 Brannon Avenue,Cleantown,ST,32211.0,False,False,None
+802,Alfonso,MCDUFFIE-WILLIAMS,2003-06-14,Boy,Black,TAYLOR,MCDUFFIE-WILLIAMS,1556 Eagles Nest Drive,Cleantown,ST,95814.0,False,False,None
+803,Garrett,OBRIEN-BOYLE,2005-06-19,Boy,White,GRACIELA,OBRIEN-BOYLE,2837 Emily Drive,Cleantown,ST,29210.0,False,False,None
+804,Rayan,VALDIVIA,2009-02-05,Boy,Hispanic,WESLEY,VALDIVIA,1149 Hudson Street,Cleantown,ST,7102.0,False,False,None
+805,Messiah,SCHULTZ,2008-09-19,Boy,White,SYBIL,SCHULTZ,426 Bedford Street,Cleantown,ST,6516.0,False,False,None
+806,Ernest,ROBINSON-WASHINGTON,2000-05-04,Boy,Black,EMILIA,ROBINSON-WASHINGTON,2489 Chapmans Lane,Cleantown,ST,87002.0,False,False,None
+807,Hezekiah,DUKES,2010-01-20,Boy,Black,ILENE,MCMILLIAN,4269 Stroop Hill Road,Cleantown,ST,30309.0,False,False,None
+808,Callum,CERVANTES,2005-12-26,Boy,Hispanic,MANUELA,CERVANTES,774 Patton Lane,Cleantown,ST,27603.0,False,False,None
+809,Jocelyn,LARSON,2006-01-05,Girl,White,HILARY,LARSON,4762 Mount Olive Road,Cleantown,ST,30076.0,False,False,None
+810,Wesley,WAHL,2003-07-18,Boy,White,MITCHELL,WAHL,3846 Charack Road,Cleantown,ST,47274.0,False,False,None
+811,Avery,CLEARY,2000-02-18,Girl,White,AUDRA,CLEARY,2826 Private Lane,Cleantown,ST,31803.0,False,False,None
+812,Celine,ZENDEJAS,2001-07-07,Girl,Hispanic,FRANKLIN,ZENDEJAS,4822 Bates Brothers Road,Cleantown,ST,43085.0,False,False,None
+813,Georgia,HARTMAN-GIORDANO,1998-02-22,Girl,White,NELDA,HARTMAN-GIORDANO,2203 Trails End Road,Cleantown,ST,33179.0,False,False,None
+814,Rivka,NGUYEN,2002-01-30,Girl,AAPI,LEONOR,LI,2065 Half and Half Drive,Cleantown,ST,93656.0,False,False,None
+815,Amir,LARSON,2005-11-02,Boy,White,JEWELL,LARSON,3438 Clarence Court,Cleantown,ST,91761.0,False,False,None
+816,Addison,ODONNELL,2002-12-20,Girl,White,ISABELLE,ODONNELL,2035 Elsie Drive,Cleantown,ST,3103.0,False,False,None
+817,Austin,FRITZ-HOFFMAN,2000-05-22,Boy,White,SUMMER,FRITZ-HOFFMAN,2727 Whiteman Street,Cleantown,ST,8068.0,False,False,None
+818,Jamie,KYLES,1999-09-10,Boy,Black,TERRIE,KYLES,3916 Woodhill Avenue,Cleantown,ST,21111.0,False,False,None
+819,Eugene,WILLIAMS,2000-11-20,Boy,Black,OPHELIA,WILLIAMS,3854 Lodgeville Road,Cleantown,ST,55423.0,False,False,None
+820,Hailey,SHEEHAN,2003-09-14,Girl,White,CATHLEEN,BECKER,174 George Avenue,Cleantown,ST,36693.0,False,False,None
+821,Brody,CARLSON,1999-11-04,Boy,White,CLAUDETTE,CARLSON,2404 Grasselli Street,Cleantown,ST,3820.0,False,False,None
+822,Kyler,BECKER,1999-12-18,Boy,White,URSULA,BECKER,2957 Heliport Loop,Cleantown,ST,47546.0,False,False,None
+823,Gabriella,MAYER,1998-01-06,Girl,White,LUISA,MAYER,136 Riverside Drive,Cleantown,ST,30731.0,False,False,None
+824,Ariel,GONZALEZ,1999-06-02,Boy,Hispanic,GLEN,HERNANDEZ,1912 Woodhill Avenue,Cleantown,ST,21204.0,False,False,None
+825,Abdiel,JACKSON,2003-02-15,Boy,Black,JAIME,JACKSON,602 Norma Lane,Cleantown,ST,71101.0,False,False,None
+826,Jose,BABCOCK,1999-10-19,Boy,White,JUSTINE,BABCOCK,4880 Bell Street,Cleantown,ST,10019.0,False,False,None
+827,Xzavier,HERNANDEZ,2008-06-07,Boy,Hispanic,SUSANNE,GONZALEZ,1203 Doctors Drive,Cleantown,ST,90017.0,False,False,None
+828,Jonah,OLSON,2009-02-27,Boy,White,BEATRIZ,OLSON,3861 Comfort Court,Cleantown,ST,53703.0,False,False,None
+829,Beckham,RUSSO,2008-01-25,Boy,White,GORDON,RUSSO,2106 Bolman Court,Cleantown,ST,62701.0,False,False,None
+830,Aaden,JACKSON,2010-03-06,Boy,Black,ROSLYN,JACKSON,1510 Richland Avenue,Cleantown,ST,77487.0,False,False,None
+831,Ansley,IBARRA,2002-02-28,Girl,Hispanic,EDGAR,IBARRA,4069 Lynch Street,Cleantown,ST,54115.0,False,False,None
+832,Amina,FUNK,2001-02-03,Girl,White,LIZZIE,FUNK,3603 Mattson Street,Cleantown,ST,97223.0,False,False,None
+833,Bella,SCHERER,2006-02-25,Girl,White,TRUDY,CLINE,2138 Spring Avenue,Cleantown,ST,20191.0,False,False,None
+834,Brooke,LEVIN-BRENNAN,2001-03-09,Girl,White,GREG,LEVIN-BRENNAN,4853 Keyser Ridge Road,Cleantown,ST,27406.0,False,False,None
+835,Will,RUCKER,2005-02-07,Boy,Black,ALLYSON,RUCKER,3466 Ashford Drive,Cleantown,ST,22304.0,False,False,None
+836,Maleah,HERNANDEZ,1998-11-13,Girl,Hispanic,ALEXANDRIA,ORELLANA,3844 Red Maple Drive,Cleantown,ST,90063.0,False,False,None
+837,Emma,MCDONNELL,2001-07-15,Girl,White,DALE,MCDONNELL,2143 Mercer Street,Cleantown,ST,54812.0,False,False,None
+838,Delaney,MUELLER,2009-07-12,Girl,White,TONIA,MUELLER,1716 Poplar Lane,Cleantown,ST,33178.0,False,False,None
+839,Everett,HANSEN,1999-12-17,Boy,White,ELMER,HANSEN,1690 Kelly Street,Cleantown,ST,28073.0,False,False,None
+840,Katalina,COLBERT,2005-09-27,Girl,Black,MIA,COLBERT,1583 Byers Lane,Cleantown,ST,94260.0,False,False,None
+841,Leif,WILLIAM-DEPINA,2003-12-18,Boy,Other,ROBERT,WILLIAM-DEPINA,19 Bridge Street,Cleantown,ST,74103.0,False,False,None
+842,Omari,CASTELLANOS,2009-12-08,Boy,Hispanic,HELENA,CASTELLANOS,4136 Science Center Drive,Cleantown,ST,83402.0,False,False,None
+843,Liv,STARKS,1999-07-30,Girl,Black,TANIA,STARKS,4921 Single Street,Cleantown,ST,2110.0,False,False,None
+844,Gia,BAUER,2004-01-14,Girl,White,MARISOL,BAUER,765 Sugarfoot Lane,Cleantown,ST,47904.0,False,False,None
+845,Louisa,NGUYEN,2006-12-26,Girl,AAPI,AUGUSTA,NGUYEN,4624 American Drive,Cleantown,ST,32570.0,False,False,None
+846,Jeremiah,EGAN,2007-12-29,Boy,White,DAN,EGAN,4950 Birch  Street,Cleantown,ST,79915.0,False,False,None
+847,Johan,ROARK,1999-06-09,Boy,White,JEANNINE,ROARK,3093 Twin Oaks Drive,Cleantown,ST,49503.0,False,False,None
+848,Terrance,GAONA,2003-10-26,Boy,Hispanic,ESTER,GAONA,2792 Clearview Drive,Cleantown,ST,80439.0,False,False,None
+849,Abel,SNYDER,2001-05-26,Boy,White,BEN,SNYDER,2691 Sugarfoot Lane,Cleantown,ST,46071.0,False,False,None
+850,Jordan,CONKLIN-OCONNOR,2001-12-01,Boy,White,JERI,CONKLIN-OCONNOR,1372 Cityview Drive,Cleantown,ST,19348.0,False,False,None
+851,Damari,LEUNG,2000-02-09,Boy,AAPI,SERGIO,LEUNG,1701 Augusta Park,Cleantown,ST,26155.0,False,False,None
+852,Vivian,BAUGHMAN,2006-07-15,Girl,White,OLA,SCHMITZ,971 Still Street,Cleantown,ST,43604.0,False,False,None
+853,Cara,LUPERCIO,2002-05-23,Girl,Hispanic,FLOSSIE,LUPERCIO,2793 Turkey Pen Road,Cleantown,ST,10013.0,False,False,None
+854,Hugo,WEINSTEIN,2008-10-23,Boy,White,TIM,WEINSTEIN,107 Margaret Street,Cleantown,ST,77011.0,False,False,None
+855,Dimitri,MAYE,2000-04-11,Boy,Black,EVERETT,WILLIAMS,3599 Maryland Avenue,Cleantown,ST,33701.0,False,False,None
+856,Aiden,JENSEN,1999-04-02,Boy,White,CHANDRA,JENSEN,4523 Neville Street,Cleantown,ST,47885.0,False,False,None
+857,Harrison,RUSSO,2006-04-29,Boy,White,GORDON,RUSSO,1193 Copperhead Road,Cleantown,ST,6096.0,False,False,None
+858,Samuel,WEISS,2005-11-02,Boy,White,COREY,HESS,785 Poplar Lane,Cleantown,ST,33131.0,False,False,None
+859,Joshua,FERRARA,2000-12-10,Boy,White,EARLINE,FERRARA,1878 Maple Street,Cleantown,ST,92632.0,False,False,None
+860,Meredith,VILLALOBOS,2010-08-13,Girl,Hispanic,MIA,CALVILLO,3635 Nixon Avenue,Cleantown,ST,37921.0,False,False,None
+861,Austin,HENSLEY,2010-09-24,Boy,White,LEILA,HENSLEY,4726 New Creek Road,Cleantown,ST,35816.0,False,False,None
+862,Morgan,HUERTA,2005-05-17,Boy,Hispanic,JEANINE,GONZALEZ,3920 Penn Street,Cleantown,ST,65473.0,False,False,None
+863,Zackary,RAMIREZ,2005-10-23,Boy,Hispanic,OFELIA,RAMIREZ,3888 Meadowcrest Lane,Cleantown,ST,41267.0,False,False,None
+864,Hana,DORSEY,2002-06-04,Girl,Black,LAKEISHA,JACKSON,4175 Hickory Lane,Cleantown,ST,20017.0,False,False,None
+865,Michael,LARSON,2003-08-18,Boy,White,LEANNE,LARSON,1935 Tea Berry Lane,Cleantown,ST,54403.0,False,False,None
+866,Amirah,LANTIGUA,2007-11-23,Girl,Hispanic,ELMER,LANTIGUA,4266 Washington Avenue,Cleantown,ST,70001.0,False,False,None
+867,Elliot,GIST,2005-11-23,Girl,Black,HILARY,GIST,4150 Poco Mas Drive,Cleantown,ST,75034.0,False,False,None
+868,Avalynn,TSANG,2002-09-15,Girl,AAPI,ROSANNA,TSANG,1016 Carter Street,Cleantown,ST,63101.0,False,False,None
+869,Ford,ROBINSON,1999-05-31,Boy,Black,DAVE,ROBINSON,1474 Grant View Drive,Cleantown,ST,53204.0,False,False,None
+870,Steve,ROBINSON,2010-08-27,Boy,Black,TESSA,ROBINSON,4014 Frosty Lane,Cleantown,ST,14883.0,False,False,None
+871,Riley,SCHWAB,1998-11-04,Girl,White,KIMBERLEY,SCHWAB,4920 Clement Street,Cleantown,ST,30076.0,False,False,None
+872,Cash,JORGENSEN,2009-01-15,Boy,White,RAMON,JORGENSEN,2821 Laurel Lee,Cleantown,ST,55016.0,False,False,None
+873,Michael,OBRIEN,2005-05-07,Boy,White,RHODA,OBRIEN,3586 Huntz Lane,Cleantown,ST,1970.0,False,False,None
+874,Kennedy,STEINBERG,2007-08-09,Girl,White,DEANA,STEINBERG,4624 American Drive,Cleantown,ST,32570.0,False,False,None
+875,Connor,DOLAN,1999-02-18,Boy,White,DONA,DOLAN,3189 Wayback Lane,Cleantown,ST,11787.0,False,False,None
+876,Reed,ADLER,2006-02-04,Boy,White,ROSETTA,ADLER,4801 Little Acres Lane,Cleantown,ST,62351.0,False,False,None
+877,Kendrick,STAHL,2007-09-18,Boy,White,ESTER,STAHL,1242 Berry Street,Cleantown,ST,80915.0,False,False,None
+878,Maximus,OLSON,1999-07-07,Boy,White,DOLLY,OLSON,1761 Coolidge Street,Cleantown,ST,59313.0,False,False,None
+879,Hope,SCHILLING,2003-06-01,Girl,White,RHODA,SCHILLING,2510 Windy Ridge Road,Cleantown,ST,46818.0,False,False,None
+880,Emma,MEEHAN,1998-05-15,Girl,White,HERMAN,ROSENBERG,2054 Bird Spring Lane,Cleantown,ST,77014.0,False,False,None
+881,Sarah,HOFFMAN,2004-07-19,Girl,White,TONIA,BEYER,2926 Tuna Street,Cleantown,ST,48075.0,False,False,None
+882,Kassandra,GONZALEZ,2010-04-01,Girl,Hispanic,AUTUMN,JIMENEZ,872 Windy Ridge Road,Cleantown,ST,46571.0,False,False,None
+883,Mohamed,QUIGLEY,1999-12-06,Boy,White,EDGAR,MCDERMOTT,805 Carriage Lane,Cleantown,ST,18413.0,False,False,None
+884,Milan,ALBARRAN,2004-09-28,Girl,Hispanic,CHESTER,ALBARRAN,763 Rocket Drive,Cleantown,ST,55417.0,False,False,None
+885,Evan,RHOADS,2005-02-16,Boy,White,DINA,BAUER,1733 Carson Street,Cleantown,ST,40511.0,False,False,None
+886,Jose,KRUEGER,2003-02-21,Boy,White,JEANNINE,KRUEGER,2565 Huntz Lane,Cleantown,ST,1702.0,False,False,None
+887,Bryce,WEISS,1999-07-02,Boy,White,MARGRET,WEISS,4457 Forest Avenue,Cleantown,ST,10013.0,False,False,None
+888,Anthony,MCDONOUGH,1999-04-02,Boy,White,DEE,MCDONOUGH,4934 Southern Street,Cleantown,ST,11791.0,False,False,None
+889,Tripp,AYALA,2001-02-08,Boy,Hispanic,CONSUELO,AYALA,843 Sherwood Circle,Cleantown,ST,27410.0,False,False,None
+890,Bryant,RAMIREZ,2001-04-27,Boy,Hispanic,NELL,RAMIREZ,2989 Center Street,Cleantown,ST,97864.0,False,False,None
+891,Dominic,LARSEN,2009-10-26,Boy,White,GABRIELA,LARSEN,1412 Filbert Street,Cleantown,ST,19020.0,False,False,None
+892,Luke,FRANTZ,2000-02-26,Boy,White,LACEY,FRANTZ,2705 Walkers Ridge Way,Cleantown,ST,60062.0,False,False,None
+893,Anabel,GOODEN,2006-10-24,Girl,Black,NONA,WILLIAMS,2839 Rinehart Road,Cleantown,ST,33311.0,False,False,None
+894,Oakley,MARROQUIN,2004-06-14,Boy,Hispanic,DEE,MARROQUIN,1364 Tator Patch Road,Cleantown,ST,60605.0,False,False,None
+895,Michael,THAYER,2009-12-05,Boy,White,JIMMIE,THAYER,943 Pearlman Avenue,Cleantown,ST,2127.0,False,False,None
+896,Semaj,LIU-CHO,2004-05-28,Boy,AAPI,REVA,LIU-CHO,624 Northwest Boulevard,Cleantown,ST,7094.0,False,False,None
+897,Ayden,HESS,2006-10-30,Boy,White,LEOLA,HESS,295 Vine Street,Cleantown,ST,60007.0,False,False,None
+898,Rosalyn,NAKAI,2005-03-11,Girl,Native,ALYSON,NAKAI,609 Locust View Drive,Cleantown,ST,94104.0,False,False,None
+899,Shiloh,COMPEAN,2001-01-07,Girl,Hispanic,BEN,COMPEAN,801 Despard Street,Cleantown,ST,30344.0,False,False,None
+900,Chloe,CARLSON,2005-01-08,Girl,White,ROLAND,CARLSON,3308 Fairmont Avenue,Cleantown,ST,64484.0,False,False,None
+901,Estrella,MIDDLEBROOKS,2006-05-01,Girl,Black,MARI,BRANCH,1951 Douglas Dairy Road,Cleantown,ST,24360.0,False,False,None
+902,Kylen,CAYADITTO,2010-01-07,Boy,Native,ROSANNA,CAYADITTO,3882 County Line Road,Cleantown,ST,33701.0,False,False,None
+903,Kaitlynn,TO,2006-10-25,Girl,AAPI,SIDNEY,TO,2435 Brighton Circle Road,Cleantown,ST,54830.0,False,False,None
+904,Killian,OSWALD,1999-03-31,Boy,White,TYLER,OSWALD,4327 Carter Street,Cleantown,ST,62434.0,False,False,None
+905,Mikayla,KOCH,2001-06-16,Girl,White,SIMONE,KOCH,2511 Summit Street,Cleantown,ST,52806.0,False,False,None
+906,Ava,HUBER,2009-06-21,Girl,White,ANGEL,SCHULTE,4606 Jarvis Street,Cleantown,ST,14202.0,False,False,None
+907,Victoria,WILLEY,2003-10-18,Girl,White,JORGE,WILLEY,2265 Beechwood Avenue,Cleantown,ST,7701.0,False,False,None
+908,Rylie,SCHMIDT,2005-10-04,Girl,White,MATILDA,SCHMIDT,3604 Elmwood Avenue,Cleantown,ST,85201.0,False,False,None
+909,Drake,SCHUSTER,2004-09-17,Boy,White,VALARIE,SNYDER,35 Hall Valley Drive,Cleantown,ST,26720.0,False,False,None
